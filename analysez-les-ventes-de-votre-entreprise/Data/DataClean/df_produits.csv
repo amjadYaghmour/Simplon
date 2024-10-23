@@ -1,0 +1,3288 @@
+,product_id,category,sub_category,price,stock_quantity
+0,0_1421,Vêtements,T-shirts,19.99,39
+1,0_1368,Vêtements,T-shirts,5.13,76
+2,0_731,Vêtements,T-shirts,17.99,2
+3,1_587,Accessoires,Sacs à main,4.99,55
+4,0_1507,Vêtements,T-shirts,3.99,81
+5,0_1163,Vêtements,T-shirts,9.99,99
+6,1_463,Accessoires,Sacs à main,36.99,65
+7,0_2157,Vêtements,T-shirts,34.99,17
+8,0_1915,Vêtements,T-shirts,16.99,1
+9,0_389,Vêtements,T-shirts,18.99,4
+10,2_228,Montres,Montres connectées,225.17,55
+11,1_178,Accessoires,Sacs à main,51.92,36
+12,1_143,Accessoires,Sacs à main,9.99,62
+13,1_314,Accessoires,Sacs à main,9.0,88
+14,0_1938,Vêtements,T-shirts,1.58,13
+15,0_1232,Vêtements,T-shirts,26.65,48
+16,0_2254,Vêtements,T-shirts,9.2,56
+17,0_1713,Vêtements,T-shirts,13.99,67
+18,0_835,Vêtements,T-shirts,6.99,84
+19,0_1389,Vêtements,T-shirts,20.99,49
+20,0_853,Vêtements,T-shirts,9.99,54
+21,0_2131,Vêtements,T-shirts,8.99,32
+22,1_259,Accessoires,Sacs à main,10.99,23
+23,0_1070,Vêtements,T-shirts,4.38,56
+24,1_504,Accessoires,Sacs à main,13.79,58
+25,1_370,Accessoires,Sacs à main,13.11,53
+26,1_716,Accessoires,Sacs à main,7.85,21
+27,0_1505,Vêtements,T-shirts,14.99,18
+28,0_2293,Vêtements,T-shirts,4.99,27
+29,0_431,Vêtements,T-shirts,32.99,92
+30,0_435,Vêtements,T-shirts,3.99,56
+31,0_2120,Vêtements,T-shirts,26.97,91
+32,1_532,Accessoires,Sacs à main,11.32,51
+33,0_1795,Vêtements,T-shirts,17.99,36
+34,0_668,Vêtements,T-shirts,2.51,42
+35,0_1166,Vêtements,T-shirts,18.45,85
+36,1_638,Accessoires,Sacs à main,30.92,57
+37,1_549,Accessoires,Sacs à main,33.99,45
+38,2_100,Montres,Montres connectées,72.11,60
+39,0_97,Vêtements,T-shirts,11.99,56
+40,0_2061,Vêtements,T-shirts,9.99,5
+41,0_1619,Vêtements,T-shirts,4.99,15
+42,1_707,Accessoires,Sacs à main,6.99,63
+43,1_457,Accessoires,Sacs à main,22.99,82
+44,0_1317,Vêtements,T-shirts,4.99,32
+45,1_251,Accessoires,Sacs à main,15.99,34
+46,0_1321,Vêtements,T-shirts,15.99,63
+47,0_1629,Vêtements,T-shirts,40.99,91
+48,1_124,Accessoires,Sacs à main,44.71,87
+49,1_48,Accessoires,Sacs à main,47.22,34
+50,0_2288,Vêtements,T-shirts,2.06,15
+51,0_498,Vêtements,T-shirts,2.64,29
+52,0_796,Vêtements,T-shirts,21.15,73
+53,0_1949,Vêtements,T-shirts,3.99,89
+54,0_1849,Vêtements,T-shirts,12.99,25
+55,0_686,Vêtements,T-shirts,1.32,3
+56,0_794,Vêtements,T-shirts,22.44,73
+57,0_445,Vêtements,T-shirts,3.99,88
+58,1_255,Accessoires,Sacs à main,32.99,12
+59,1_665,Accessoires,Sacs à main,32.99,90
+60,0_1240,Vêtements,T-shirts,22.7,75
+61,0_1530,Vêtements,T-shirts,3.24,28
+62,0_570,Vêtements,T-shirts,7.16,72
+63,0_2188,Vêtements,T-shirts,14.65,26
+64,2_89,Montres,Montres connectées,107.99,31
+65,0_1939,Vêtements,T-shirts,17.99,60
+66,0_1889,Vêtements,T-shirts,4.99,74
+67,1_339,Accessoires,Sacs à main,22.99,53
+68,0_1142,Vêtements,T-shirts,3.42,94
+69,0_2299,Vêtements,T-shirts,3.99,29
+70,0_1080,Vêtements,T-shirts,2.43,71
+71,0_1912,Vêtements,T-shirts,1.89,98
+72,0_1247,Vêtements,T-shirts,15.99,53
+73,2_225,Montres,Montres connectées,157.99,40
+74,0_1192,Vêtements,T-shirts,12.52,40
+75,0_2035,Vêtements,T-shirts,17.99,93
+76,0_548,Vêtements,T-shirts,37.53,87
+77,0_1392,Vêtements,T-shirts,6.3,16
+78,1_174,Accessoires,Sacs à main,44.09,27
+79,2_187,Montres,Montres connectées,157.99,9
+80,1_65,Accessoires,Sacs à main,32.99,96
+81,0_1446,Vêtements,T-shirts,8.09,12
+82,2_46,Montres,Montres connectées,41.31,24
+83,0_2017,Vêtements,T-shirts,28.99,9
+84,0_1509,Vêtements,T-shirts,4.99,85
+85,0_1941,Vêtements,T-shirts,13.99,95
+86,1_333,Accessoires,Sacs à main,15.99,22
+87,0_1984,Vêtements,T-shirts,5.7,9
+88,0_1549,Vêtements,T-shirts,25.99,21
+89,1_165,Accessoires,Sacs à main,17.99,11
+90,0_2289,Vêtements,T-shirts,17.99,67
+91,1_723,Accessoires,Sacs à main,10.99,26
+92,0_2305,Vêtements,T-shirts,3.99,79
+93,0_283,Vêtements,T-shirts,1.99,56
+94,0_56,Vêtements,T-shirts,27.6,92
+95,2_128,Montres,Montres connectées,201.74,60
+96,0_872,Vêtements,T-shirts,20.63,29
+97,0_1635,Vêtements,T-shirts,16.99,97
+98,0_356,Vêtements,T-shirts,12.14,26
+99,1_107,Accessoires,Sacs à main,10.99,86
+100,0_298,Vêtements,T-shirts,2.74,95
+101,0_2031,Vêtements,T-shirts,22.99,6
+102,2_215,Montres,Montres connectées,49.99,28
+103,0_6,Vêtements,T-shirts,12.13,75
+104,2_151,Montres,Montres connectées,156.99,8
+105,0_602,Vêtements,T-shirts,13.89,82
+106,2_176,Montres,Montres connectées,134.57,4
+107,2_103,Montres,Montres connectées,157.99,36
+108,0_1265,Vêtements,T-shirts,32.99,70
+109,0_26,Vêtements,T-shirts,6.86,72
+110,0_845,Vêtements,T-shirts,17.99,89
+111,0_1960,Vêtements,T-shirts,2.16,18
+112,1_666,Accessoires,Sacs à main,9.89,2
+113,1_691,Accessoires,Sacs à main,45.99,7
+114,0_1595,Vêtements,T-shirts,2.99,40
+115,0_14,Vêtements,T-shirts,9.41,4
+116,0_687,Vêtements,T-shirts,17.99,37
+117,2_172,Montres,Montres connectées,158.17,90
+118,1_482,Accessoires,Sacs à main,8.98,97
+119,0_568,Vêtements,T-shirts,29.76,85
+120,0_381,Vêtements,T-shirts,15.99,47
+121,0_39,Vêtements,T-shirts,8.99,53
+122,0_1176,Vêtements,T-shirts,7.65,82
+123,1_57,Accessoires,Sacs à main,11.99,12
+124,0_1380,Vêtements,T-shirts,7.45,36
+125,0_1827,Vêtements,T-shirts,8.99,62
+126,0_471,Vêtements,T-shirts,4.99,79
+127,1_456,Accessoires,Sacs à main,28.27,34
+128,0_1069,Vêtements,T-shirts,7.99,45
+129,0_2104,Vêtements,T-shirts,7.98,87
+130,0_1671,Vêtements,T-shirts,3.99,95
+131,0_1144,Vêtements,T-shirts,18.87,67
+132,0_1370,Vêtements,T-shirts,11.3,46
+133,0_1649,Vêtements,T-shirts,27.99,11
+134,0_1056,Vêtements,T-shirts,2.46,7
+135,1_244,Accessoires,Sacs à main,3.64,21
+136,0_1895,Vêtements,T-shirts,3.99,83
+137,2_131,Montres,Montres connectées,127.99,24
+138,0_1480,Vêtements,T-shirts,4.15,29
+139,0_932,Vêtements,T-shirts,7.1,94
+140,0_1013,Vêtements,T-shirts,4.99,11
+141,0_1236,Vêtements,T-shirts,19.79,80
+142,0_749,Vêtements,T-shirts,3.99,82
+143,0_2064,Vêtements,T-shirts,9.85,9
+144,0_1423,Vêtements,T-shirts,2.99,97
+145,0_1203,Vêtements,T-shirts,0.99,83
+146,0_1833,Vêtements,T-shirts,5.99,43
+147,0_556,Vêtements,T-shirts,2.06,69
+148,0_831,Vêtements,T-shirts,4.99,62
+149,1_50,Accessoires,Sacs à main,20.93,99
+150,1_231,Accessoires,Sacs à main,33.99,54
+151,0_790,Vêtements,T-shirts,10.34,97
+152,0_2198,Vêtements,T-shirts,12.14,7
+153,0_376,Vêtements,T-shirts,8.75,17
+154,1_317,Accessoires,Sacs à main,38.99,26
+155,0_1923,Vêtements,T-shirts,3.99,54
+156,1_183,Accessoires,Sacs à main,24.99,18
+157,1_264,Accessoires,Sacs à main,16.07,8
+158,0_2052,Vêtements,T-shirts,8.87,33
+159,0_61,Vêtements,T-shirts,7.99,52
+160,0_1332,Vêtements,T-shirts,33.12,23
+161,0_253,Vêtements,T-shirts,17.99,10
+162,0_2189,Vêtements,T-shirts,2.99,67
+163,0_352,Vêtements,T-shirts,12.53,22
+164,0_1102,Vêtements,T-shirts,4.63,94
+165,0_166,Vêtements,T-shirts,1.83,70
+166,1_77,Accessoires,Sacs à main,20.99,37
+167,1_284,Accessoires,Sacs à main,60.39,12
+168,0_2237,Vêtements,T-shirts,2.99,26
+169,0_23,Vêtements,T-shirts,10.99,48
+170,1_649,Accessoires,Sacs à main,18.99,54
+171,1_98,Accessoires,Sacs à main,22.59,30
+172,1_205,Accessoires,Sacs à main,8.99,99
+173,2_214,Montres,Montres connectées,79.04,12
+174,0_1824,Vêtements,T-shirts,10.34,33
+175,0_1431,Vêtements,T-shirts,10.99,32
+176,0_2291,Vêtements,T-shirts,12.99,99
+177,1_447,Accessoires,Sacs à main,42.99,74
+178,1_279,Accessoires,Sacs à main,27.99,20
+179,0_1177,Vêtements,T-shirts,4.99,69
+180,0_2181,Vêtements,T-shirts,27.99,94
+181,0_808,Vêtements,T-shirts,27.85,1
+182,1_728,Accessoires,Sacs à main,4.06,28
+183,0_1775,Vêtements,T-shirts,6.99,78
+184,0_1016,Vêtements,T-shirts,35.06,96
+185,0_501,Vêtements,T-shirts,12.99,45
+186,0_2268,Vêtements,T-shirts,17.57,20
+187,2_10,Montres,Montres connectées,60.37,39
+188,0_2083,Vêtements,T-shirts,6.99,2
+189,0_2056,Vêtements,T-shirts,5.13,45
+190,0_992,Vêtements,T-shirts,8.58,79
+191,0_1504,Vêtements,T-shirts,1.68,12
+192,0_1969,Vêtements,T-shirts,19.99,75
+193,1_582,Accessoires,Sacs à main,27.61,3
+194,1_221,Accessoires,Sacs à main,10.99,4
+195,1_477,Accessoires,Sacs à main,6.99,19
+196,0_823,Vêtements,T-shirts,26.99,74
+197,0_2306,Vêtements,T-shirts,23.32,87
+198,0_1899,Vêtements,T-shirts,21.99,28
+199,2_71,Montres,Montres connectées,88.99,56
+200,0_2151,Vêtements,T-shirts,16.99,45
+201,0_1093,Vêtements,T-shirts,2.99,37
+202,0_152,Vêtements,T-shirts,10.83,7
+203,0_2164,Vêtements,T-shirts,4.29,54
+204,1_496,Accessoires,Sacs à main,70.51,11
+205,1_385,Accessoires,Sacs à main,25.99,27
+206,1_56,Accessoires,Sacs à main,13.98,6
+207,0_86,Vêtements,T-shirts,10.32,60
+208,0_1545,Vêtements,T-shirts,18.99,15
+209,0_2276,Vêtements,T-shirts,18.95,9
+210,0_512,Vêtements,T-shirts,15.74,12
+211,0_1596,Vêtements,T-shirts,10.36,77
+212,0_1227,Vêtements,T-shirts,4.99,79
+213,0_112,Vêtements,T-shirts,17.71,46
+214,2_78,Montres,Montres connectées,167.49,46
+215,1_520,Accessoires,Sacs à main,13.35,45
+216,1_698,Accessoires,Sacs à main,18.3,95
+217,1_564,Accessoires,Sacs à main,62.99,84
+218,0_793,Vêtements,T-shirts,9.99,3
+219,0_1197,Vêtements,T-shirts,6.99,61
+220,0_1772,Vêtements,T-shirts,18.48,92
+221,1_374,Accessoires,Sacs à main,10.71,97
+222,0_1075,Vêtements,T-shirts,10.99,22
+223,0_161,Vêtements,T-shirts,8.99,9
+224,0_1832,Vêtements,T-shirts,7.41,74
+225,0_1934,Vêtements,T-shirts,6.35,2
+226,0_1694,Vêtements,T-shirts,7.65,81
+227,1_678,Accessoires,Sacs à main,5.78,96
+228,0_715,Vêtements,T-shirts,17.99,67
+229,0_1136,Vêtements,T-shirts,3.02,5
+230,0_2117,Vêtements,T-shirts,6.99,6
+231,1_318,Accessoires,Sacs à main,17.24,20
+232,1_708,Accessoires,Sacs à main,23.06,29
+233,0_105,Vêtements,T-shirts,7.99,68
+234,0_1028,Vêtements,T-shirts,4.51,52
+235,1_432,Accessoires,Sacs à main,24.2,96
+236,0_1546,Vêtements,T-shirts,12.86,98
+237,0_1979,Vêtements,T-shirts,20.99,76
+238,0_436,Vêtements,T-shirts,30.09,4
+239,0_398,Vêtements,T-shirts,4.72,61
+240,0_513,Vêtements,T-shirts,11.99,56
+241,2_231,Montres,Montres connectées,111.99,13
+242,0_193,Vêtements,T-shirts,3.99,25
+243,0_262,Vêtements,T-shirts,11.64,29
+244,0_1639,Vêtements,T-shirts,6.99,76
+245,2_145,Montres,Montres connectées,103.99,28
+246,2_165,Montres,Montres connectées,71.99,48
+247,1_49,Accessoires,Sacs à main,28.99,85
+248,1_667,Accessoires,Sacs à main,29.99,28
+249,0_1323,Vêtements,T-shirts,10.99,42
+250,0_1808,Vêtements,T-shirts,7.75,54
+251,0_306,Vêtements,T-shirts,15.55,60
+252,2_1,Montres,Montres connectées,56.99,98
+253,0_2199,Vêtements,T-shirts,12.99,88
+254,0_1744,Vêtements,T-shirts,11.92,58
+255,0_1559,Vêtements,T-shirts,9.99,95
+256,0_104,Vêtements,T-shirts,9.06,37
+257,0_461,Vêtements,T-shirts,16.99,69
+258,1_656,Accessoires,Sacs à main,6.62,71
+259,0_506,Vêtements,T-shirts,15.81,96
+260,0_1315,Vêtements,T-shirts,10.99,73
+261,0_1183,Vêtements,T-shirts,17.99,45
+262,1_733,Accessoires,Sacs à main,31.99,32
+263,0_147,Vêtements,T-shirts,2.99,5
+264,0_896,Vêtements,T-shirts,7.42,96
+265,0_1100,Vêtements,T-shirts,3.03,43
+266,1_362,Accessoires,Sacs à main,11.25,57
+267,0_1003,Vêtements,T-shirts,14.99,5
+268,1_154,Accessoires,Sacs à main,33.39,60
+269,0_2256,Vêtements,T-shirts,7.2,15
+270,0_2024,Vêtements,T-shirts,15.56,1
+271,1_478,Accessoires,Sacs à main,38.63,2
+272,2_139,Montres,Montres connectées,82.99,59
+273,0_2197,Vêtements,T-shirts,2.99,81
+274,1_470,Accessoires,Sacs à main,5.41,88
+275,0_64,Vêtements,T-shirts,4.22,93
+276,0_1631,Vêtements,T-shirts,10.99,15
+277,0_1148,Vêtements,T-shirts,26.77,26
+278,0_131,Vêtements,T-shirts,11.99,84
+279,0_1780,Vêtements,T-shirts,1.67,53
+280,0_1387,Vêtements,T-shirts,10.99,92
+281,0_2233,Vêtements,T-shirts,19.99,71
+282,0_897,Vêtements,T-shirts,9.99,30
+283,0_85,Vêtements,T-shirts,2.99,94
+284,0_1804,Vêtements,T-shirts,16.95,89
+285,0_2190,Vêtements,T-shirts,8.22,15
+286,0_906,Vêtements,T-shirts,16.97,63
+287,1_129,Accessoires,Sacs à main,18.99,29
+288,0_2283,Vêtements,T-shirts,8.99,43
+289,2_226,Montres,Montres connectées,65.75,63
+290,1_686,Accessoires,Sacs à main,24.03,95
+291,0_2060,Vêtements,T-shirts,5.48,6
+292,0_2267,Vêtements,T-shirts,18.99,8
+293,0_1529,Vêtements,T-shirts,3.99,41
+294,0_1393,Vêtements,T-shirts,11.99,18
+295,1_704,Accessoires,Sacs à main,31.63,80
+296,0_1110,Vêtements,T-shirts,4.71,37
+297,2_144,Montres,Montres connectées,157.42,49
+298,0_1209,Vêtements,T-shirts,8.99,1
+299,0_1486,Vêtements,T-shirts,4.89,54
+300,0_1361,Vêtements,T-shirts,3.99,3
+301,1_697,Accessoires,Sacs à main,4.99,98
+302,1_503,Accessoires,Sacs à main,26.99,88
+303,0_1089,Vêtements,T-shirts,3.99,59
+304,0_207,Vêtements,T-shirts,11.99,13
+305,1_250,Accessoires,Sacs à main,20.76,63
+306,1_138,Accessoires,Sacs à main,44.67,46
+307,2_146,Montres,Montres connectées,115.3,16
+308,1_605,Accessoires,Sacs à main,30.99,21
+309,0_1444,Vêtements,T-shirts,2.08,25
+310,0_272,Vêtements,T-shirts,5.6,53
+311,0_475,Vêtements,T-shirts,8.99,68
+312,0_1721,Vêtements,T-shirts,28.99,90
+313,0_302,Vêtements,T-shirts,12.57,58
+314,0_547,Vêtements,T-shirts,8.99,37
+315,1_273,Accessoires,Sacs à main,47.99,48
+316,0_2071,Vêtements,T-shirts,21.99,79
+317,0_1052,Vêtements,T-shirts,3.79,89
+318,1_196,Accessoires,Sacs à main,33.32,22
+319,0_1333,Vêtements,T-shirts,5.99,45
+320,1_1,Accessoires,Sacs à main,42.99,63
+321,0_87,Vêtements,T-shirts,17.99,50
+322,0_1388,Vêtements,T-shirts,17.15,69
+323,1_693,Accessoires,Sacs à main,50.99,21
+324,0_222,Vêtements,T-shirts,19.65,35
+325,1_476,Accessoires,Sacs à main,45.37,69
+326,1_277,Accessoires,Sacs à main,25.99,3
+327,0_2258,Vêtements,T-shirts,5.8,55
+328,0_784,Vêtements,T-shirts,3.6,74
+329,1_199,Accessoires,Sacs à main,22.99,86
+330,0_1401,Vêtements,T-shirts,10.99,28
+331,0_2249,Vêtements,T-shirts,2.99,48
+332,0_847,Vêtements,T-shirts,8.99,67
+333,0_1088,Vêtements,T-shirts,1.09,10
+334,0_1081,Vêtements,T-shirts,11.99,34
+335,1_89,Accessoires,Sacs à main,32.99,15
+336,1_84,Accessoires,Sacs à main,14.04,85
+337,0_1231,Vêtements,T-shirts,25.99,73
+338,0_1009,Vêtements,T-shirts,14.99,1
+339,0_2069,Vêtements,T-shirts,17.99,37
+340,2_164,Montres,Montres connectées,52.26,50
+341,0_1456,Vêtements,T-shirts,27.42,86
+342,1_491,Accessoires,Sacs à main,4.99,91
+343,0_1019,Vêtements,T-shirts,24.99,48
+344,0_1724,Vêtements,T-shirts,2.82,31
+345,1_116,Accessoires,Sacs à main,12.88,41
+346,0_2150,Vêtements,T-shirts,9.8,58
+347,1_114,Accessoires,Sacs à main,35.61,88
+348,0_1783,Vêtements,T-shirts,25.99,39
+349,1_495,Accessoires,Sacs à main,21.99,29
+350,0_134,Vêtements,T-shirts,8.22,18
+351,0_1199,Vêtements,T-shirts,14.99,93
+352,0_1733,Vêtements,T-shirts,1.99,1
+353,1_607,Accessoires,Sacs à main,26.99,45
+354,1_446,Accessoires,Sacs à main,23.92,70
+355,0_1864,Vêtements,T-shirts,22.76,53
+356,1_24,Accessoires,Sacs à main,39.08,79
+357,0_726,Vêtements,T-shirts,10.21,66
+358,0_1107,Vêtements,T-shirts,2.99,28
+359,2_230,Montres,Montres connectées,57.04,31
+360,2_34,Montres,Montres connectées,72.42,46
+361,1_257,Accessoires,Sacs à main,22.99,29
+362,0_2302,Vêtements,T-shirts,24.19,2
+363,0_1363,Vêtements,T-shirts,16.99,16
+364,0_852,Vêtements,T-shirts,10.81,74
+365,0_433,Vêtements,T-shirts,2.99,54
+366,0_1298,Vêtements,T-shirts,18.32,61
+367,0_2272,Vêtements,T-shirts,7.98,23
+368,0_1031,Vêtements,T-shirts,6.99,59
+369,1_397,Accessoires,Sacs à main,18.99,82
+370,0_120,Vêtements,T-shirts,0.66,77
+371,1_218,Accessoires,Sacs à main,10.72,79
+372,0_1022,Vêtements,T-shirts,23.57,34
+373,0_1797,Vêtements,T-shirts,15.99,2
+374,1_442,Accessoires,Sacs à main,24.98,47
+375,0_527,Vêtements,T-shirts,2.99,30
+376,0_33,Vêtements,T-shirts,18.99,93
+377,0_412,Vêtements,T-shirts,21.33,44
+378,0_1590,Vêtements,T-shirts,18.93,24
+379,0_1397,Vêtements,T-shirts,14.99,97
+380,0_2148,Vêtements,T-shirts,7.32,73
+381,2_127,Montres,Montres connectées,68.99,44
+382,0_1972,Vêtements,T-shirts,12.89,60
+383,1_307,Accessoires,Sacs à main,6.99,41
+384,0_907,Vêtements,T-shirts,34.99,10
+385,0_1523,Vêtements,T-shirts,20.99,35
+386,0_1319,Vêtements,T-shirts,14.99,58
+387,1_586,Accessoires,Sacs à main,61.23,31
+388,0_2246,Vêtements,T-shirts,6.3,43
+389,0_2292,Vêtements,T-shirts,9.87,80
+390,2_45,Montres,Montres connectées,32.99,19
+391,0_1239,Vêtements,T-shirts,37.99,93
+392,0_2219,Vêtements,T-shirts,14.99,31
+393,0_1608,Vêtements,T-shirts,12.24,17
+394,2_158,Montres,Montres connectées,247.22,68
+395,1_571,Accessoires,Sacs à main,31.99,14
+396,0_372,Vêtements,T-shirts,10.59,86
+397,0_1618,Vêtements,T-shirts,3.95,42
+398,0_2228,Vêtements,T-shirts,13.06,15
+399,0_769,Vêtements,T-shirts,24.99,74
+400,0_1290,Vêtements,T-shirts,11.57,14
+401,0_1862,Vêtements,T-shirts,12.13,61
+402,0_258,Vêtements,T-shirts,7.67,41
+403,0_2172,Vêtements,T-shirts,3.88,59
+404,0_464,Vêtements,T-shirts,7.62,19
+405,0_358,Vêtements,T-shirts,4.29,73
+406,0_2162,Vêtements,T-shirts,3.03,78
+407,0_520,Vêtements,T-shirts,14.52,61
+408,0_278,Vêtements,T-shirts,22.61,73
+409,0_1173,Vêtements,T-shirts,18.99,31
+410,0_2300,Vêtements,T-shirts,17.99,64
+411,1_326,Accessoires,Sacs à main,59.11,46
+412,0_1053,Vêtements,T-shirts,10.99,24
+413,0_1731,Vêtements,T-shirts,14.99,71
+414,0_2281,Vêtements,T-shirts,14.99,38
+415,0_1932,Vêtements,T-shirts,3.27,96
+416,1_410,Accessoires,Sacs à main,46.87,16
+417,1_219,Accessoires,Sacs à main,8.99,51
+418,0_1622,Vêtements,T-shirts,8.35,94
+419,0_1082,Vêtements,T-shirts,15.41,32
+420,2_137,Montres,Montres connectées,83.99,50
+421,0_939,Vêtements,T-shirts,18.99,9
+422,2_201,Montres,Montres connectées,86.99,77
+423,0_1576,Vêtements,T-shirts,2.29,32
+424,0_102,Vêtements,T-shirts,11.18,79
+425,0_1593,Vêtements,T-shirts,6.99,90
+426,0_1647,Vêtements,T-shirts,11.99,45
+427,0_1207,Vêtements,T-shirts,16.99,43
+428,1_694,Accessoires,Sacs à main,19.87,39
+429,0_778,Vêtements,T-shirts,2.39,28
+430,0_1792,Vêtements,T-shirts,8.79,74
+431,0_2204,Vêtements,T-shirts,1.62,19
+432,2_0,Montres,Montres connectées,162.03,7
+433,0_1267,Vêtements,T-shirts,3.99,14
+434,0_718,Vêtements,T-shirts,15.83,61
+435,0_1971,Vêtements,T-shirts,16.99,44
+436,1_172,Accessoires,Sacs à main,26.77,62
+437,0_2282,Vêtements,T-shirts,13.71,79
+438,1_523,Accessoires,Sacs à main,23.99,97
+439,0_245,Vêtements,T-shirts,11.99,87
+440,0_829,Vêtements,T-shirts,2.99,62
+441,0_1111,Vêtements,T-shirts,19.99,47
+442,0_1212,Vêtements,T-shirts,6.31,58
+443,0_440,Vêtements,T-shirts,13.0,60
+444,0_2285,Vêtements,T-shirts,16.99,55
+445,1_421,Accessoires,Sacs à main,30.99,4
+446,0_2186,Vêtements,T-shirts,4.2,57
+447,0_742,Vêtements,T-shirts,10.79,85
+448,1_433,Accessoires,Sacs à main,18.99,83
+449,1_40,Accessoires,Sacs à main,30.25,46
+450,0_813,Vêtements,T-shirts,9.99,15
+451,0_519,Vêtements,T-shirts,6.99,84
+452,0_1124,Vêtements,T-shirts,19.41,59
+453,2_192,Montres,Montres connectées,127.39,87
+454,0_911,Vêtements,T-shirts,4.99,45
+455,0_2270,Vêtements,T-shirts,16.58,85
+456,1_499,Accessoires,Sacs à main,60.99,34
+457,0_2,Vêtements,T-shirts,16.4,45
+458,0_806,Vêtements,T-shirts,3.33,59
+459,0_1582,Vêtements,T-shirts,24.42,70
+460,0_321,Vêtements,T-shirts,13.99,87
+461,0_617,Vêtements,T-shirts,17.99,67
+462,0_1794,Vêtements,T-shirts,31.83,29
+463,0_103,Vêtements,T-shirts,10.99,94
+464,1_229,Accessoires,Sacs à main,42.99,3
+465,2_112,Montres,Montres connectées,67.57,72
+466,0_1798,Vêtements,T-shirts,17.34,23
+467,0_1340,Vêtements,T-shirts,14.76,12
+468,1_203,Accessoires,Sacs à main,48.99,48
+469,0_700,Vêtements,T-shirts,18.64,53
+470,0_1012,Vêtements,T-shirts,32.4,33
+471,0_2163,Vêtements,T-shirts,4.99,72
+472,0_1668,Vêtements,T-shirts,14.62,4
+473,1_8,Accessoires,Sacs à main,21.57,47
+474,0_118,Vêtements,T-shirts,1.98,1
+475,0_2239,Vêtements,T-shirts,5.99,22
+476,0_2222,Vêtements,T-shirts,3.33,47
+477,0_929,Vêtements,T-shirts,15.99,98
+478,1_241,Accessoires,Sacs à main,21.99,95
+479,0_797,Vêtements,T-shirts,4.99,7
+480,0_1807,Vêtements,T-shirts,14.99,30
+481,1_139,Accessoires,Sacs à main,6.99,44
+482,1_94,Accessoires,Sacs à main,27.11,62
+483,0_985,Vêtements,T-shirts,5.99,24
+484,0_495,Vêtements,T-shirts,2.99,19
+485,0_249,Vêtements,T-shirts,15.99,13
+486,1_85,Accessoires,Sacs à main,22.99,48
+487,0_946,Vêtements,T-shirts,18.01,54
+488,0_1777,Vêtements,T-shirts,18.99,92
+489,2_54,Montres,Montres connectées,89.43,98
+490,0_1815,Vêtements,T-shirts,8.99,99
+491,1_610,Accessoires,Sacs à main,32.98,78
+492,2_209,Montres,Montres connectées,69.99,10
+493,0_400,Vêtements,T-shirts,9.46,36
+494,1_485,Accessoires,Sacs à main,37.99,51
+495,1_69,Accessoires,Sacs à main,23.99,24
+496,0_1564,Vêtements,T-shirts,11.12,2
+497,0_586,Vêtements,T-shirts,4.95,46
+498,1_270,Accessoires,Sacs à main,31.14,53
+499,1_519,Accessoires,Sacs à main,51.99,37
+500,0_1571,Vêtements,T-shirts,5.99,12
+501,0_388,Vêtements,T-shirts,15.62,35
+502,0_571,Vêtements,T-shirts,17.99,63
+503,2_212,Montres,Montres connectées,104.78,52
+504,1_286,Accessoires,Sacs à main,29.44,27
+505,0_1374,Vêtements,T-shirts,21.0,20
+506,0_774,Vêtements,T-shirts,6.66,97
+507,0_876,Vêtements,T-shirts,17.35,87
+508,1_461,Accessoires,Sacs à main,12.99,12
+509,2_126,Montres,Montres connectées,116.98,79
+510,0_1046,Vêtements,T-shirts,10.06,97
+511,0_1217,Vêtements,T-shirts,24.99,50
+512,0_822,Vêtements,T-shirts,35.3,90
+513,0_2137,Vêtements,T-shirts,15.99,2
+514,0_1883,Vêtements,T-shirts,6.99,90
+515,0_1845,Vêtements,T-shirts,6.99,22
+516,0_422,Vêtements,T-shirts,5.76,9
+517,0_1658,Vêtements,T-shirts,5.01,66
+518,0_1573,Vêtements,T-shirts,6.99,16
+519,0_1172,Vêtements,T-shirts,10.71,19
+520,1_41,Accessoires,Sacs à main,11.99,15
+521,0_1484,Vêtements,T-shirts,25.23,70
+522,2_83,Montres,Montres connectées,130.99,60
+523,1_729,Accessoires,Sacs à main,31.99,67
+524,0_963,Vêtements,T-shirts,8.99,10
+525,0_1878,Vêtements,T-shirts,2.27,10
+526,1_548,Accessoires,Sacs à main,13.59,18
+527,0_1670,Vêtements,T-shirts,23.59,88
+528,0_1407,Vêtements,T-shirts,13.99,10
+529,0_1982,Vêtements,T-shirts,8.99,61
+530,0_1470,Vêtements,T-shirts,19.53,34
+531,1_342,Accessoires,Sacs à main,49.04,14
+532,1_300,Accessoires,Sacs à main,6.74,37
+533,1_371,Accessoires,Sacs à main,33.99,60
+534,0_408,Vêtements,T-shirts,10.42,35
+535,0_1443,Vêtements,T-shirts,5.99,14
+536,1_438,Accessoires,Sacs à main,5.24,15
+537,0_559,Vêtements,T-shirts,3.99,55
+538,0_1202,Vêtements,T-shirts,4.83,98
+539,0_2108,Vêtements,T-shirts,8.82,74
+540,0_1422,Vêtements,T-shirts,11.41,65
+541,0_1238,Vêtements,T-shirts,14.66,61
+542,1_226,Accessoires,Sacs à main,37.73,81
+543,0_901,Vêtements,T-shirts,15.99,20
+544,1_73,Accessoires,Sacs à main,19.99,97
+545,0_1468,Vêtements,T-shirts,6.08,69
+546,0_1434,Vêtements,T-shirts,8.58,84
+547,1_308,Accessoires,Sacs à main,11.65,81
+548,0_998,Vêtements,T-shirts,9.41,88
+549,1_646,Accessoires,Sacs à main,8.38,64
+550,0_888,Vêtements,T-shirts,6.48,43
+551,0_1691,Vêtements,T-shirts,14.99,92
+552,0_1138,Vêtements,T-shirts,2.33,53
+553,0_887,Vêtements,T-shirts,13.99,22
+554,0_2196,Vêtements,T-shirts,12.34,91
+555,0_967,Vêtements,T-shirts,8.99,36
+556,0_67,Vêtements,T-shirts,22.99,50
+557,0_229,Vêtements,T-shirts,17.99,77
+558,1_266,Accessoires,Sacs à main,7.98,17
+559,1_285,Accessoires,Sacs à main,14.99,38
+560,1_93,Accessoires,Sacs à main,22.99,2
+561,0_1600,Vêtements,T-shirts,13.23,26
+562,2_121,Montres,Montres connectées,170.99,79
+563,1_609,Accessoires,Sacs à main,7.99,52
+564,0_648,Vêtements,T-shirts,7.41,93
+565,0_1256,Vêtements,T-shirts,11.03,13
+566,0_1348,Vêtements,T-shirts,12.03,72
+567,1_717,Accessoires,Sacs à main,9.99,44
+568,0_868,Vêtements,T-shirts,15.96,20
+569,0_197,Vêtements,T-shirts,37.99,3
+570,2_120,Montres,Montres connectées,42.19,44
+571,0_1174,Vêtements,T-shirts,3.52,43
+572,0_343,Vêtements,T-shirts,10.99,63
+573,1_136,Accessoires,Sacs à main,31.72,2
+574,0_877,Vêtements,T-shirts,5.99,50
+575,1_502,Accessoires,Sacs à main,4.9,70
+576,0_1656,Vêtements,T-shirts,23.26,93
+577,1_265,Accessoires,Sacs à main,24.99,11
+578,0_1540,Vêtements,T-shirts,18.23,8
+579,0_2118,Vêtements,T-shirts,7.23,3
+580,0_1872,Vêtements,T-shirts,9.42,55
+581,1_448,Accessoires,Sacs à main,13.79,44
+582,0_986,Vêtements,T-shirts,16.22,10
+583,1_23,Accessoires,Sacs à main,23.99,11
+584,1_629,Accessoires,Sacs à main,33.99,30
+585,0_482,Vêtements,T-shirts,2.93,34
+586,0_1954,Vêtements,T-shirts,8.15,54
+587,0_2260,Vêtements,T-shirts,1.84,1
+588,0_421,Vêtements,T-shirts,16.99,93
+589,0_657,Vêtements,T-shirts,6.99,88
+590,0_1398,Vêtements,T-shirts,4.52,47
+591,0_1161,Vêtements,T-shirts,31.99,75
+592,0_1802,Vêtements,T-shirts,28.97,5
+593,0_1662,Vêtements,T-shirts,4.35,45
+594,1_471,Accessoires,Sacs à main,31.99,24
+595,2_37,Montres,Montres connectées,48.99,55
+596,1_235,Accessoires,Sacs à main,37.99,21
+597,0_414,Vêtements,T-shirts,12.65,42
+598,0_787,Vêtements,T-shirts,7.99,72
+599,1_481,Accessoires,Sacs à main,44.99,83
+600,2_202,Montres,Montres connectées,67.57,80
+601,0_248,Vêtements,T-shirts,7.91,24
+602,0_113,Vêtements,T-shirts,16.99,36
+603,1_419,Accessoires,Sacs à main,39.99,3
+604,0_1988,Vêtements,T-shirts,9.86,75
+605,0_444,Vêtements,T-shirts,10.17,87
+606,0_748,Vêtements,T-shirts,27.27,80
+607,0_2097,Vêtements,T-shirts,1.99,7
+608,1_724,Accessoires,Sacs à main,16.94,79
+609,0_36,Vêtements,T-shirts,12.57,80
+610,0_811,Vêtements,T-shirts,3.99,36
+611,1_536,Accessoires,Sacs à main,11.21,3
+612,1_351,Accessoires,Sacs à main,28.99,28
+613,0_1637,Vêtements,T-shirts,4.99,73
+614,2_27,Montres,Montres connectées,73.99,23
+615,0_502,Vêtements,T-shirts,3.13,75
+616,0_2158,Vêtements,T-shirts,11.25,49
+617,0_127,Vêtements,T-shirts,7.99,18
+618,1_454,Accessoires,Sacs à main,32.12,15
+619,0_1978,Vêtements,T-shirts,23.81,51
+620,1_681,Accessoires,Sacs à main,6.99,24
+621,0_936,Vêtements,T-shirts,1.69,73
+622,2_133,Montres,Montres connectées,109.99,52
+623,0_289,Vêtements,T-shirts,36.99,90
+624,1_635,Accessoires,Sacs à main,26.99,78
+625,1_671,Accessoires,Sacs à main,31.99,13
+626,0_1508,Vêtements,T-shirts,8.03,72
+627,0_1412,Vêtements,T-shirts,11.73,40
+628,0_2059,Vêtements,T-shirts,12.99,46
+629,0_979,Vêtements,T-shirts,14.99,49
+630,0_775,Vêtements,T-shirts,18.99,35
+631,0_1687,Vêtements,T-shirts,18.99,3
+632,0_1310,Vêtements,T-shirts,2.21,98
+633,1_711,Accessoires,Sacs à main,39.99,43
+634,1_654,Accessoires,Sacs à main,38.91,76
+635,0_1293,Vêtements,T-shirts,11.99,28
+636,0_1182,Vêtements,T-shirts,19.88,5
+637,0_511,Vêtements,T-shirts,20.99,16
+638,1_380,Accessoires,Sacs à main,8.93,8
+639,1_487,Accessoires,Sacs à main,40.99,59
+640,0_1672,Vêtements,T-shirts,18.25,98
+641,1_396,Accessoires,Sacs à main,18.6,28
+642,0_1623,Vêtements,T-shirts,7.99,8
+643,0_2263,Vêtements,T-shirts,32.99,54
+644,2_183,Montres,Montres connectées,77.99,56
+645,0_1871,Vêtements,T-shirts,1.99,39
+646,1_283,Accessoires,Sacs à main,14.99,30
+647,1_537,Accessoires,Sacs à main,14.99,31
+648,0_11,Vêtements,T-shirts,13.99,28
+649,1_719,Accessoires,Sacs à main,41.99,52
+650,1_34,Accessoires,Sacs à main,27.77,12
+651,0_1194,Vêtements,T-shirts,20.92,42
+652,1_343,Accessoires,Sacs à main,27.99,12
+653,0_1611,Vêtements,T-shirts,11.99,79
+654,0_1123,Vêtements,T-shirts,12.99,7
+655,0_1684,Vêtements,T-shirts,17.81,76
+656,1_179,Accessoires,Sacs à main,15.99,62
+657,1_115,Accessoires,Sacs à main,32.99,22
+658,0_18,Vêtements,T-shirts,25.49,51
+659,0_2124,Vêtements,T-shirts,10.29,33
+660,0_2077,Vêtements,T-shirts,3.99,54
+661,0_136,Vêtements,T-shirts,13.49,53
+662,0_991,Vêtements,T-shirts,19.99,92
+663,0_100,Vêtements,T-shirts,20.6,55
+664,0_760,Vêtements,T-shirts,15.63,64
+665,0_1178,Vêtements,T-shirts,10.13,20
+666,0_629,Vêtements,T-shirts,11.99,71
+667,0_1010,Vêtements,T-shirts,1.96,29
+668,0_849,Vêtements,T-shirts,15.99,60
+669,1_303,Accessoires,Sacs à main,13.99,89
+670,0_2026,Vêtements,T-shirts,5.56,99
+671,0_2224,Vêtements,T-shirts,17.19,41
+672,0_850,Vêtements,T-shirts,14.77,20
+673,0_1004,Vêtements,T-shirts,8.07,16
+674,0_1902,Vêtements,T-shirts,2.28,85
+675,1_594,Accessoires,Sacs à main,4.58,6
+676,0_1461,Vêtements,T-shirts,11.99,31
+677,0_1943,Vêtements,T-shirts,13.99,93
+678,0_1739,Vêtements,T-shirts,22.99,72
+679,1_190,Accessoires,Sacs à main,14.53,49
+680,0_1307,Vêtements,T-shirts,18.99,47
+681,1_690,Accessoires,Sacs à main,9.98,43
+682,0_544,Vêtements,T-shirts,17.84,7
+683,0_1636,Vêtements,T-shirts,9.45,6
+684,0_1149,Vêtements,T-shirts,5.99,14
+685,0_271,Vêtements,T-shirts,10.99,86
+686,0_2138,Vêtements,T-shirts,0.93,60
+687,0_90,Vêtements,T-shirts,12.04,38
+688,0_2074,Vêtements,T-shirts,8.88,40
+689,0_816,Vêtements,T-shirts,6.91,38
+690,0_1068,Vêtements,T-shirts,22.13,91
+691,0_2128,Vêtements,T-shirts,3.64,68
+692,0_916,Vêtements,T-shirts,12.65,43
+693,0_639,Vêtements,T-shirts,4.99,96
+694,1_324,Accessoires,Sacs à main,31.97,90
+695,1_61,Accessoires,Sacs à main,18.99,47
+696,0_145,Vêtements,T-shirts,28.99,86
+697,1_152,Accessoires,Sacs à main,11.06,73
+698,0_1338,Vêtements,T-shirts,9.28,94
+699,0_1400,Vêtements,T-shirts,5.15,54
+700,0_486,Vêtements,T-shirts,6.38,65
+701,0_1251,Vêtements,T-shirts,21.99,23
+702,0_1659,Vêtements,T-shirts,9.99,86
+703,2_31,Montres,Montres connectées,131.99,51
+704,0_2277,Vêtements,T-shirts,10.99,67
+705,0_98,Vêtements,T-shirts,13.17,48
+706,2_94,Montres,Montres connectées,145.45,10
+707,0_803,Vêtements,T-shirts,16.99,98
+708,0_844,Vêtements,T-shirts,12.59,35
+709,2_69,Montres,Montres connectées,130.99,39
+710,0_44,Vêtements,T-shirts,3.96,80
+711,0_1916,Vêtements,T-shirts,4.05,50
+712,0_2030,Vêtements,T-shirts,13.4,23
+713,0_2019,Vêtements,T-shirts,7.99,56
+714,0_1360,Vêtements,T-shirts,4.33,72
+715,0_1836,Vêtements,T-shirts,6.56,28
+716,1_593,Accessoires,Sacs à main,20.99,82
+717,1_360,Accessoires,Sacs à main,34.35,78
+718,1_660,Accessoires,Sacs à main,22.23,33
+719,2_223,Montres,Montres connectées,175.99,39
+720,0_569,Vêtements,T-shirts,11.99,25
+721,0_2098,Vêtements,T-shirts,14.37,89
+722,0_28,Vêtements,T-shirts,27.76,10
+723,0_148,Vêtements,T-shirts,3.17,64
+724,2_76,Montres,Montres connectées,254.44,25
+725,0_1933,Vêtements,T-shirts,15.99,82
+726,0_1320,Vêtements,T-shirts,12.08,64
+727,0_1145,Vêtements,T-shirts,6.99,77
+728,0_1689,Vêtements,T-shirts,2.99,51
+729,0_826,Vêtements,T-shirts,6.89,52
+730,0_219,Vêtements,T-shirts,13.99,30
+731,0_407,Vêtements,T-shirts,15.99,71
+732,0_727,Vêtements,T-shirts,12.99,53
+733,0_1365,Vêtements,T-shirts,2.99,14
+734,0_875,Vêtements,T-shirts,21.99,3
+735,0_396,Vêtements,T-shirts,7.67,69
+736,0_1062,Vêtements,T-shirts,20.08,2
+737,0_451,Vêtements,T-shirts,7.99,84
+738,0_1140,Vêtements,T-shirts,3.73,20
+739,0_1462,Vêtements,T-shirts,31.67,89
+740,1_403,Accessoires,Sacs à main,17.99,11
+741,0_899,Vêtements,T-shirts,19.99,54
+742,1_315,Accessoires,Sacs à main,66.99,97
+743,1_99,Accessoires,Sacs à main,21.99,51
+744,1_122,Accessoires,Sacs à main,35.93,92
+745,1_321,Accessoires,Sacs à main,9.99,29
+746,0_1594,Vêtements,T-shirts,3.33,90
+747,0_110,Vêtements,T-shirts,29.04,99
+748,2_188,Montres,Montres connectées,73.72,38
+749,0_1334,Vêtements,T-shirts,17.74,35
+750,0_1641,Vêtements,T-shirts,14.99,42
+751,0_955,Vêtements,T-shirts,7.99,54
+752,0_1548,Vêtements,T-shirts,9.66,95
+753,2_118,Montres,Montres connectées,96.56,9
+754,0_2143,Vêtements,T-shirts,24.99,79
+755,0_126,Vêtements,T-shirts,9.19,59
+756,0_953,Vêtements,T-shirts,26.99,81
+757,0_1516,Vêtements,T-shirts,11.43,98
+758,1_619,Accessoires,Sacs à main,12.99,13
+759,0_675,Vêtements,T-shirts,19.99,19
+760,1_450,Accessoires,Sacs à main,31.64,98
+761,1_213,Accessoires,Sacs à main,19.99,9
+762,1_128,Accessoires,Sacs à main,48.63,87
+763,1_480,Accessoires,Sacs à main,19.08,20
+764,0_1626,Vêtements,T-shirts,14.02,78
+765,1_309,Accessoires,Sacs à main,7.99,56
+766,2_81,Montres,Montres connectées,86.99,6
+767,0_691,Vêtements,T-shirts,5.99,25
+768,0_1603,Vêtements,T-shirts,8.99,93
+769,2_107,Montres,Montres connectées,33.99,3
+770,0_308,Vêtements,T-shirts,18.25,96
+771,0_196,Vêtements,T-shirts,11.52,10
+772,0_713,Vêtements,T-shirts,1.99,28
+773,0_1834,Vêtements,T-shirts,15.14,98
+774,0_1252,Vêtements,T-shirts,4.31,16
+775,0_260,Vêtements,T-shirts,1.73,18
+776,0_2043,Vêtements,T-shirts,13.99,22
+777,0_2247,Vêtements,T-shirts,2.99,45
+778,0_1269,Vêtements,T-shirts,2.99,35
+779,1_82,Accessoires,Sacs à main,31.81,33
+780,0_1083,Vêtements,T-shirts,16.99,15
+781,0_2014,Vêtements,T-shirts,21.23,35
+782,1_281,Accessoires,Sacs à main,23.99,61
+783,1_97,Accessoires,Sacs à main,23.99,55
+784,0_1652,Vêtements,T-shirts,10.7,48
+785,2_40,Montres,Montres connectées,228.11,53
+786,0_9,Vêtements,T-shirts,31.99,43
+787,0_1526,Vêtements,T-shirts,6.62,90
+788,0_2066,Vêtements,T-shirts,14.7,7
+789,0_1768,Vêtements,T-shirts,8.92,53
+790,0_680,Vêtements,T-shirts,7.43,29
+791,2_147,Montres,Montres connectées,181.99,18
+792,0_1987,Vêtements,T-shirts,6.99,91
+793,0_1119,Vêtements,T-shirts,2.99,45
+794,0_1155,Vêtements,T-shirts,2.99,38
+795,0_1230,Vêtements,T-shirts,12.83,6
+796,1_468,Accessoires,Sacs à main,17.75,61
+797,0_873,Vêtements,T-shirts,2.99,58
+798,0_587,Vêtements,T-shirts,1.99,38
+799,0_463,Vêtements,T-shirts,21.99,67
+800,0_2166,Vêtements,T-shirts,0.97,29
+801,0_333,Vêtements,T-shirts,3.99,8
+802,0_1,Vêtements,T-shirts,10.99,77
+803,0_2226,Vêtements,T-shirts,21.89,77
+804,0_65,Vêtements,T-shirts,8.99,61
+805,0_1615,Vêtements,T-shirts,1.99,97
+806,0_529,Vêtements,T-shirts,5.99,32
+807,1_10,Accessoires,Sacs à main,78.83,36
+808,0_1578,Vêtements,T-shirts,17.79,69
+809,0_2304,Vêtements,T-shirts,15.86,87
+810,0_1014,Vêtements,T-shirts,1.15,91
+811,0_1274,Vêtements,T-shirts,7.86,29
+812,0_236,Vêtements,T-shirts,4.65,81
+813,0_779,Vêtements,T-shirts,12.99,18
+814,0_263,Vêtements,T-shirts,4.99,40
+815,0_220,Vêtements,T-shirts,3.72,13
+816,1_553,Accessoires,Sacs à main,52.99,5
+817,0_2103,Vêtements,T-shirts,8.99,1
+818,1_644,Accessoires,Sacs à main,25.79,87
+819,0_155,Vêtements,T-shirts,5.99,73
+820,0_783,Vêtements,T-shirts,3.99,36
+821,0_766,Vêtements,T-shirts,2.16,72
+822,0_1344,Vêtements,T-shirts,19.04,8
+823,1_13,Accessoires,Sacs à main,80.99,85
+824,0_630,Vêtements,T-shirts,11.32,56
+825,0_1646,Vêtements,T-shirts,14.85,59
+826,0_754,Vêtements,T-shirts,5.1,41
+827,2_8,Montres,Montres connectées,73.18,42
+828,0_324,Vêtements,T-shirts,1.18,57
+829,1_604,Accessoires,Sacs à main,36.42,90
+830,0_1528,Vêtements,T-shirts,11.38,5
+831,0_1005,Vêtements,T-shirts,20.99,26
+832,1_616,Accessoires,Sacs à main,29.02,81
+833,0_135,Vêtements,T-shirts,12.99,47
+834,1_35,Accessoires,Sacs à main,45.99,7
+835,0_2235,Vêtements,T-shirts,13.99,20
+836,1_201,Accessoires,Sacs à main,23.99,78
+837,0_1342,Vêtements,T-shirts,19.49,90
+838,0_1126,Vêtements,T-shirts,11.78,60
+839,0_38,Vêtements,T-shirts,3.68,59
+840,0_46,Vêtements,T-shirts,5.58,4
+841,0_1050,Vêtements,T-shirts,12.51,43
+842,0_859,Vêtements,T-shirts,16.99,98
+843,0_1436,Vêtements,T-shirts,1.32,31
+844,1_706,Accessoires,Sacs à main,24.66,77
+845,1_0,Accessoires,Sacs à main,31.82,38
+846,0_17,Vêtements,T-shirts,6.99,57
+847,0_180,Vêtements,T-shirts,0.97,96
+848,1_379,Accessoires,Sacs à main,26.99,43
+849,0_2184,Vêtements,T-shirts,10.36,87
+850,0_1712,Vêtements,T-shirts,7.24,81
+851,1_168,Accessoires,Sacs à main,57.45,61
+852,2_136,Montres,Montres connectées,103.92,30
+853,0_2141,Vêtements,T-shirts,11.99,86
+854,0_900,Vêtements,T-shirts,11.89,58
+855,0_836,Vêtements,T-shirts,3.76,58
+856,0_1522,Vêtements,T-shirts,5.16,43
+857,0_264,Vêtements,T-shirts,6.44,49
+858,0_1583,Vêtements,T-shirts,15.99,84
+859,0_181,Vêtements,T-shirts,5.99,88
+860,1_577,Accessoires,Sacs à main,32.99,60
+861,1_280,Accessoires,Sacs à main,15.59,34
+862,0_1394,Vêtements,T-shirts,15.63,30
+863,0_1489,Vêtements,T-shirts,10.99,93
+864,0_1837,Vêtements,T-shirts,10.99,76
+865,0_2234,Vêtements,T-shirts,10.67,61
+866,0_1959,Vêtements,T-shirts,3.99,76
+867,0_721,Vêtements,T-shirts,5.99,46
+868,0_19,Vêtements,T-shirts,4.99,87
+869,0_2080,Vêtements,T-shirts,12.76,34
+870,0_446,Vêtements,T-shirts,13.49,45
+871,0_968,Vêtements,T-shirts,3.06,60
+872,1_591,Accessoires,Sacs à main,39.99,10
+873,1_282,Accessoires,Sacs à main,23.2,49
+874,0_95,Vêtements,T-shirts,9.99,7
+875,2_182,Montres,Montres connectées,106.52,94
+876,1_302,Accessoires,Sacs à main,34.97,92
+877,0_1975,Vêtements,T-shirts,7.99,44
+878,1_679,Accessoires,Sacs à main,79.99,6
+879,0_82,Vêtements,T-shirts,9.98,86
+880,0_710,Vêtements,T-shirts,3.72,77
+881,1_670,Accessoires,Sacs à main,29.55,10
+882,0_1430,Vêtements,T-shirts,16.47,92
+883,0_92,Vêtements,T-shirts,9.63,74
+884,1_400,Accessoires,Sacs à main,16.6,40
+885,0_926,Vêtements,T-shirts,8.1,35
+886,0_585,Vêtements,T-shirts,9.99,56
+887,0_1205,Vêtements,T-shirts,10.99,81
+888,0_1685,Vêtements,T-shirts,9.99,44
+889,0_496,Vêtements,T-shirts,11.02,78
+890,0_1106,Vêtements,T-shirts,14.27,58
+891,0_2092,Vêtements,T-shirts,14.17,89
+892,2_47,Montres,Montres connectées,36.99,89
+893,0_589,Vêtements,T-shirts,13.99,76
+894,0_1094,Vêtements,T-shirts,16.98,19
+895,0_2047,Vêtements,T-shirts,5.99,80
+896,0_820,Vêtements,T-shirts,1.32,56
+897,0_2050,Vêtements,T-shirts,3.4,25
+898,0_1367,Vêtements,T-shirts,11.99,76
+899,0_256,Vêtements,T-shirts,27.81,61
+900,2_9,Montres,Montres connectées,54.99,35
+901,0_1190,Vêtements,T-shirts,6.63,81
+902,0_204,Vêtements,T-shirts,2.36,24
+903,0_2297,Vêtements,T-shirts,28.99,69
+904,2_16,Montres,Montres connectées,84.29,55
+905,0_1897,Vêtements,T-shirts,20.99,2
+906,0_1168,Vêtements,T-shirts,11.91,13
+907,0_684,Vêtements,T-shirts,8.17,77
+908,0_1204,Vêtements,T-shirts,3.44,74
+909,0_1193,Vêtements,T-shirts,9.99,82
+910,0_1112,Vêtements,T-shirts,7.27,45
+911,0_1059,Vêtements,T-shirts,18.99,91
+912,1_674,Accessoires,Sacs à main,40.06,67
+913,0_1458,Vêtements,T-shirts,6.55,4
+914,0_695,Vêtements,T-shirts,25.99,86
+915,1_585,Accessoires,Sacs à main,19.99,43
+916,0_1947,Vêtements,T-shirts,12.99,86
+917,2_53,Montres,Montres connectées,93.99,7
+918,0_1474,Vêtements,T-shirts,9.88,96
+919,0_924,Vêtements,T-shirts,4.01,58
+920,2_82,Montres,Montres connectées,75.81,21
+921,0_1000,Vêtements,T-shirts,6.84,61
+922,0_2152,Vêtements,T-shirts,16.69,15
+923,0_466,Vêtements,T-shirts,3.61,6
+924,2_233,Montres,Montres connectées,172.99,12
+925,1_556,Accessoires,Sacs à main,24.47,17
+926,1_19,Accessoires,Sacs à main,18.99,75
+927,0_551,Vêtements,T-shirts,12.99,10
+928,0_1114,Vêtements,T-shirts,2.08,23
+929,0_1538,Vêtements,T-shirts,8.61,47
+930,0_205,Vêtements,T-shirts,4.99,40
+931,1_366,Accessoires,Sacs à main,28.54,32
+932,2_106,Montres,Montres connectées,110.08,44
+933,2_92,Montres,Montres connectées,78.05,89
+934,0_1730,Vêtements,T-shirts,5.03,4
+935,0_1880,Vêtements,T-shirts,14.91,69
+936,0_2079,Vêtements,T-shirts,9.99,3
+937,1_7,Accessoires,Sacs à main,48.99,76
+938,0_2096,Vêtements,T-shirts,14.84,4
+939,0_1057,Vêtements,T-shirts,19.99,77
+940,0_1840,Vêtements,T-shirts,1.28,30
+941,0_815,Vêtements,T-shirts,10.99,35
+942,0_1187,Vêtements,T-shirts,6.99,49
+943,0_1567,Vêtements,T-shirts,16.99,53
+944,1_731,Accessoires,Sacs à main,11.99,28
+945,0_2169,Vêtements,T-shirts,0.99,64
+946,2_2,Montres,Montres connectées,300.0,79
+947,1_6,Accessoires,Sacs à main,26.68,82
+948,0_550,Vêtements,T-shirts,13.9,18
+949,0_218,Vêtements,T-shirts,15.27,80
+950,0_881,Vêtements,T-shirts,18.99,29
+951,1_71,Accessoires,Sacs à main,34.99,32
+952,1_239,Accessoires,Sacs à main,13.99,83
+953,1_664,Accessoires,Sacs à main,47.83,19
+954,0_798,Vêtements,T-shirts,6.82,92
+955,2_185,Montres,Montres connectées,43.99,87
+956,1_696,Accessoires,Sacs à main,37.2,31
+957,0_2231,Vêtements,T-shirts,13.99,34
+958,1_181,Accessoires,Sacs à main,7.99,75
+959,0_123,Vêtements,T-shirts,14.99,50
+960,1_511,Accessoires,Sacs à main,2.99,38
+961,1_558,Accessoires,Sacs à main,24.51,46
+962,0_383,Vêtements,T-shirts,16.99,71
+963,0_59,Vêtements,T-shirts,14.99,93
+964,0_490,Vêtements,T-shirts,12.45,55
+965,2_95,Montres,Montres connectées,98.99,43
+966,0_905,Vêtements,T-shirts,5.99,55
+967,0_1693,Vêtements,T-shirts,8.99,13
+968,0_162,Vêtements,T-shirts,9.82,70
+969,2_5,Montres,Montres connectées,191.99,20
+970,0_593,Vêtements,T-shirts,8.99,32
+971,1_409,Accessoires,Sacs à main,55.99,23
+972,0_1259,Vêtements,T-shirts,11.99,54
+973,0_1131,Vêtements,T-shirts,17.99,1
+974,0_176,Vêtements,T-shirts,12.6,80
+975,2_79,Montres,Montres connectées,55.99,76
+976,0_1613,Vêtements,T-shirts,8.99,41
+977,0_641,Vêtements,T-shirts,3.99,59
+978,0_1881,Vêtements,T-shirts,7.99,71
+979,1_68,Accessoires,Sacs à main,30.95,99
+980,1_247,Accessoires,Sacs à main,20.99,95
+981,0_533,Vêtements,T-shirts,3.99,58
+982,1_4,Accessoires,Sacs à main,24.21,79
+983,0_1980,Vêtements,T-shirts,3.15,89
+984,0_2275,Vêtements,T-shirts,0.99,77
+985,0_1328,Vêtements,T-shirts,8.52,43
+986,0_1550,Vêtements,T-shirts,1.21,40
+987,0_1322,Vêtements,T-shirts,4.33,7
+988,0_1109,Vêtements,T-shirts,29.99,68
+989,0_1566,Vêtements,T-shirts,9.04,99
+990,0_1329,Vêtements,T-shirts,0.99,52
+991,0_2123,Vêtements,T-shirts,9.99,37
+992,1_338,Accessoires,Sacs à main,61.38,89
+993,0_890,Vêtements,T-shirts,2.81,10
+994,1_418,Accessoires,Sacs à main,37.85,6
+995,1_9,Accessoires,Sacs à main,7.99,42
+996,0_88,Vêtements,T-shirts,8.3,7
+997,2_32,Montres,Montres connectées,55.79,64
+998,0_267,Vêtements,T-shirts,6.99,58
+999,0_930,Vêtements,T-shirts,12.91,77
+1000,0_0,Vêtements,T-shirts,3.75,96
+1001,0_1642,Vêtements,T-shirts,14.78,71
+1002,0_578,Vêtements,T-shirts,11.16,38
+1003,0_614,Vêtements,T-shirts,10.71,73
+1004,1_87,Accessoires,Sacs à main,58.99,70
+1005,0_785,Vêtements,T-shirts,3.99,55
+1006,0_1162,Vêtements,T-shirts,17.56,16
+1007,2_195,Montres,Montres connectées,116.99,32
+1008,2_219,Montres,Montres connectées,86.99,26
+1009,0_1437,Vêtements,T-shirts,3.99,91
+1010,2_150,Montres,Montres connectées,157.63,16
+1011,0_2160,Vêtements,T-shirts,22.2,50
+1012,1_287,Accessoires,Sacs à main,29.99,83
+1013,0_2119,Vêtements,T-shirts,9.99,10
+1014,0_842,Vêtements,T-shirts,3.07,57
+1015,0_2217,Vêtements,T-shirts,24.99,36
+1016,0_772,Vêtements,T-shirts,16.87,69
+1017,0_363,Vêtements,T-shirts,5.99,73
+1018,0_2206,Vêtements,T-shirts,6.14,47
+1019,1_372,Accessoires,Sacs à main,30.12,41
+1020,0_1789,Vêtements,T-shirts,4.99,59
+1021,1_356,Accessoires,Sacs à main,33.26,36
+1022,0_958,Vêtements,T-shirts,15.31,45
+1023,0_1351,Vêtements,T-shirts,8.99,59
+1024,0_450,Vêtements,T-shirts,11.8,45
+1025,0_1886,Vêtements,T-shirts,20.56,13
+1026,0_214,Vêtements,T-shirts,11.72,97
+1027,0_621,Vêtements,T-shirts,1.99,10
+1028,0_1376,Vêtements,T-shirts,16.24,47
+1029,0_664,Vêtements,T-shirts,5.13,8
+1030,0_1318,Vêtements,T-shirts,20.92,96
+1031,1_159,Accessoires,Sacs à main,52.99,25
+1032,0_552,Vêtements,T-shirts,21.3,62
+1033,0_27,Vêtements,T-shirts,21.99,44
+1034,0_130,Vêtements,T-shirts,6.9,51
+1035,2_36,Montres,Montres connectées,110.98,35
+1036,1_624,Accessoires,Sacs à main,36.82,33
+1037,1_44,Accessoires,Sacs à main,14.49,86
+1038,0_1195,Vêtements,T-shirts,6.99,73
+1039,0_200,Vêtements,T-shirts,18.28,63
+1040,1_425,Accessoires,Sacs à main,16.99,73
+1041,0_1196,Vêtements,T-shirts,6.51,38
+1042,1_712,Accessoires,Sacs à main,25.48,58
+1043,1_354,Accessoires,Sacs à main,68.49,61
+1044,0_2038,Vêtements,T-shirts,4.39,67
+1045,0_950,Vêtements,T-shirts,11.34,32
+1046,0_1665,Vêtements,T-shirts,15.99,4
+1047,0_1605,Vêtements,T-shirts,6.99,38
+1048,0_284,Vêtements,T-shirts,14.9,18
+1049,0_1692,Vêtements,T-shirts,13.36,21
+1050,1_524,Accessoires,Sacs à main,22.02,4
+1051,0_1667,Vêtements,T-shirts,7.99,70
+1052,0_1853,Vêtements,T-shirts,11.99,95
+1053,0_1054,Vêtements,T-shirts,8.11,66
+1054,0_1336,Vêtements,T-shirts,21.09,58
+1055,1_662,Accessoires,Sacs à main,6.04,68
+1056,1_249,Accessoires,Sacs à main,22.99,13
+1057,0_931,Vêtements,T-shirts,19.99,44
+1058,1_153,Accessoires,Sacs à main,22.99,3
+1059,1_718,Accessoires,Sacs à main,21.39,4
+1060,0_348,Vêtements,T-shirts,10.73,8
+1061,0_57,Vêtements,T-shirts,14.99,70
+1062,0_1108,Vêtements,T-shirts,17.45,13
+1063,0_1137,Vêtements,T-shirts,7.99,95
+1064,0_1727,Vêtements,T-shirts,10.99,35
+1065,0_1703,Vêtements,T-shirts,21.99,31
+1066,0_1822,Vêtements,T-shirts,14.92,90
+1067,0_832,Vêtements,T-shirts,10.85,82
+1068,0_137,Vêtements,T-shirts,31.99,81
+1069,0_190,Vêtements,T-shirts,8.01,16
+1070,0_1007,Vêtements,T-shirts,4.99,49
+1071,0_1455,Vêtements,T-shirts,8.99,88
+1072,2_148,Montres,Montres connectées,64.85,16
+1073,0_2091,Vêtements,T-shirts,2.99,61
+1074,1_653,Accessoires,Sacs à main,25.99,50
+1075,2_197,Montres,Montres connectées,80.99,95
+1076,0_1419,Vêtements,T-shirts,8.99,54
+1077,1_513,Accessoires,Sacs à main,35.99,43
+1078,0_944,Vêtements,T-shirts,13.38,76
+1079,0_470,Vêtements,T-shirts,9.61,90
+1080,2_61,Montres,Montres connectées,39.99,35
+1081,0_81,Vêtements,T-shirts,5.99,4
+1082,0_1170,Vêtements,T-shirts,4.19,98
+1083,0_833,Vêtements,T-shirts,2.99,24
+1084,1_108,Accessoires,Sacs à main,45.03,71
+1085,0_1841,Vêtements,T-shirts,17.99,8
+1086,0_1763,Vêtements,T-shirts,27.99,11
+1087,0_1281,Vêtements,T-shirts,12.99,10
+1088,0_507,Vêtements,T-shirts,18.99,19
+1089,0_2307,Vêtements,T-shirts,6.99,84
+1090,0_1805,Vêtements,T-shirts,1.99,94
+1091,0_1903,Vêtements,T-shirts,5.99,62
+1092,0_2106,Vêtements,T-shirts,13.94,75
+1093,2_218,Montres,Montres connectées,89.54,15
+1094,1_516,Accessoires,Sacs à main,24.24,35
+1095,0_867,Vêtements,T-shirts,7.99,79
+1096,1_555,Accessoires,Sacs à main,32.99,9
+1097,0_2155,Vêtements,T-shirts,21.99,18
+1098,0_1118,Vêtements,T-shirts,3.64,36
+1099,2_12,Montres,Montres connectées,57.91,88
+1100,2_20,Montres,Montres connectées,83.51,38
+1101,1_622,Accessoires,Sacs à main,17.41,15
+1102,0_174,Vêtements,T-shirts,5.25,75
+1103,0_960,Vêtements,T-shirts,10.89,57
+1104,0_1735,Vêtements,T-shirts,26.99,97
+1105,0_177,Vêtements,T-shirts,19.99,83
+1106,0_626,Vêtements,T-shirts,5.4,98
+1107,0_350,Vêtements,T-shirts,6.5,60
+1108,0_2229,Vêtements,T-shirts,4.99,38
+1109,1_515,Accessoires,Sacs à main,17.99,63
+1110,1_551,Accessoires,Sacs à main,14.99,10
+1111,0_564,Vêtements,T-shirts,4.15,31
+1112,0_1373,Vêtements,T-shirts,18.99,92
+1113,0_1055,Vêtements,T-shirts,7.99,86
+1114,0_2185,Vêtements,T-shirts,9.99,38
+1115,0_139,Vêtements,T-shirts,2.99,6
+1116,2_173,Montres,Montres connectées,155.99,7
+1117,0_1609,Vêtements,T-shirts,18.99,54
+1118,0_2028,Vêtements,T-shirts,13.37,90
+1119,0_1330,Vêtements,T-shirts,10.44,17
+1120,1_91,Accessoires,Sacs à main,20.99,9
+1121,0_1719,Vêtements,T-shirts,5.99,58
+1122,0_703,Vêtements,T-shirts,3.99,89
+1123,0_397,Vêtements,T-shirts,13.99,30
+1124,0_327,Vêtements,T-shirts,14.99,75
+1125,0_312,Vêtements,T-shirts,11.39,59
+1126,0_194,Vêtements,T-shirts,10.56,39
+1127,0_1210,Vêtements,T-shirts,16.44,69
+1128,0_2057,Vêtements,T-shirts,8.99,36
+1129,1_252,Accessoires,Sacs à main,39.33,26
+1130,0_1710,Vêtements,T-shirts,4.53,99
+1131,0_2068,Vêtements,T-shirts,18.57,15
+1132,0_1325,Vêtements,T-shirts,9.99,96
+1133,0_1051,Vêtements,T-shirts,2.99,83
+1134,0_521,Vêtements,T-shirts,23.99,8
+1135,0_2039,Vêtements,T-shirts,6.99,27
+1136,0_1812,Vêtements,T-shirts,7.51,25
+1137,1_189,Accessoires,Sacs à main,13.99,82
+1138,0_1800,Vêtements,T-shirts,22.05,97
+1139,0_1999,Vêtements,T-shirts,12.99,81
+1140,0_791,Vêtements,T-shirts,14.99,87
+1141,0_1206,Vêtements,T-shirts,4.33,14
+1142,0_291,Vêtements,T-shirts,16.99,53
+1143,0_711,Vêtements,T-shirts,4.99,74
+1144,1_137,Accessoires,Sacs à main,12.99,67
+1145,0_1948,Vêtements,T-shirts,4.38,22
+1146,1_148,Accessoires,Sacs à main,8.08,80
+1147,0_293,Vêtements,T-shirts,30.99,85
+1148,1_47,Accessoires,Sacs à main,30.99,51
+1149,0_1366,Vêtements,T-shirts,16.65,66
+1150,0_763,Vêtements,T-shirts,16.99,11
+1151,0_154,Vêtements,T-shirts,10.6,48
+1152,0_851,Vêtements,T-shirts,6.99,51
+1153,0_2180,Vêtements,T-shirts,16.28,30
+1154,0_927,Vêtements,T-shirts,6.99,61
+1155,1_102,Accessoires,Sacs à main,3.29,58
+1156,1_299,Accessoires,Sacs à main,13.99,6
+1157,0_1764,Vêtements,T-shirts,1.99,7
+1158,0_959,Vêtements,T-shirts,9.99,84
+1159,0_1701,Vêtements,T-shirts,5.99,63
+1160,0_889,Vêtements,T-shirts,23.99,64
+1161,0_1473,Vêtements,T-shirts,15.99,49
+1162,1_592,Accessoires,Sacs à main,23.68,64
+1163,2_155,Montres,Montres connectées,46.99,38
+1164,0_1015,Vêtements,T-shirts,10.99,53
+1165,0_980,Vêtements,T-shirts,31.06,36
+1166,0_1885,Vêtements,T-shirts,6.99,32
+1167,1_142,Accessoires,Sacs à main,17.76,52
+1168,0_1589,Vêtements,T-shirts,28.99,15
+1169,0_1141,Vêtements,T-shirts,20.99,80
+1170,0_1223,Vêtements,T-shirts,5.99,85
+1171,0_2290,Vêtements,T-shirts,8.8,29
+1172,1_224,Accessoires,Sacs à main,4.95,18
+1173,0_1433,Vêtements,T-shirts,27.99,71
+1174,0_1485,Vêtements,T-shirts,18.99,64
+1175,0_287,Vêtements,T-shirts,9.99,64
+1176,1_507,Accessoires,Sacs à main,25.99,58
+1177,0_425,Vêtements,T-shirts,23.99,11
+1178,0_1894,Vêtements,T-shirts,8.77,93
+1179,0_994,Vêtements,T-shirts,20.71,75
+1180,0_2094,Vêtements,T-shirts,29.02,15
+1181,0_1379,Vêtements,T-shirts,2.99,88
+1182,1_147,Accessoires,Sacs à main,28.99,23
+1183,0_1262,Vêtements,T-shirts,21.71,71
+1184,0_211,Vêtements,T-shirts,12.99,11
+1185,0_976,Vêtements,T-shirts,11.8,50
+1186,0_1911,Vêtements,T-shirts,12.99,28
+1187,0_84,Vêtements,T-shirts,25.07,69
+1188,0_644,Vêtements,T-shirts,3.61,69
+1189,0_2004,Vêtements,T-shirts,10.38,51
+1190,1_62,Accessoires,Sacs à main,22.79,12
+1191,0_268,Vêtements,T-shirts,6.83,73
+1192,0_377,Vêtements,T-shirts,6.99,99
+1193,0_1738,Vêtements,T-shirts,7.69,74
+1194,0_1842,Vêtements,T-shirts,20.26,20
+1195,0_1816,Vêtements,T-shirts,7.33,77
+1196,0_524,Vêtements,T-shirts,5.83,21
+1197,1_21,Accessoires,Sacs à main,22.99,93
+1198,0_247,Vêtements,T-shirts,27.99,18
+1199,0_292,Vêtements,T-shirts,31.3,56
+1200,1_263,Accessoires,Sacs à main,40.99,78
+1201,0_2127,Vêtements,T-shirts,12.99,76
+1202,0_269,Vêtements,T-shirts,4.99,86
+1203,1_506,Accessoires,Sacs à main,13.65,60
+1204,0_861,Vêtements,T-shirts,11.99,11
+1205,0_1039,Vêtements,T-shirts,11.99,95
+1206,1_541,Accessoires,Sacs à main,13.99,74
+1207,0_2115,Vêtements,T-shirts,4.99,88
+1208,0_1006,Vêtements,T-shirts,26.64,91
+1209,0_1127,Vêtements,T-shirts,5.99,27
+1210,0_1844,Vêtements,T-shirts,0.77,51
+1211,2_236,Montres,Montres connectées,118.51,19
+1212,0_2182,Vêtements,T-shirts,16.09,47
+1213,0_173,Vêtements,T-shirts,2.99,68
+1214,0_1851,Vêtements,T-shirts,13.99,85
+1215,0_1951,Vêtements,T-shirts,5.99,30
+1216,0_1765,Vêtements,T-shirts,20.99,90
+1217,1_74,Accessoires,Sacs à main,35.02,17
+1218,0_1858,Vêtements,T-shirts,1.83,99
+1219,0_1472,Vêtements,T-shirts,12.49,22
+1220,0_1544,Vêtements,T-shirts,37.91,54
+1221,1_391,Accessoires,Sacs à main,49.99,23
+1222,0_77,Vêtements,T-shirts,21.99,96
+1223,0_1580,Vêtements,T-shirts,13.26,94
+1224,0_1188,Vêtements,T-shirts,14.94,40
+1225,1_546,Accessoires,Sacs à main,55.89,69
+1226,0_2216,Vêtements,T-shirts,4.56,59
+1227,0_2159,Vêtements,T-shirts,22.99,58
+1228,0_505,Vêtements,T-shirts,25.99,29
+1229,1_538,Accessoires,Sacs à main,27.03,1
+1230,0_1411,Vêtements,T-shirts,8.99,75
+1231,0_1219,Vêtements,T-shirts,3.99,2
+1232,1_573,Accessoires,Sacs à main,9.99,10
+1233,0_192,Vêtements,T-shirts,8.61,97
+1234,0_891,Vêtements,T-shirts,21.99,17
+1235,0_1679,Vêtements,T-shirts,6.99,15
+1236,0_1273,Vêtements,T-shirts,8.99,53
+1237,0_1958,Vêtements,T-shirts,11.1,85
+1238,1_92,Accessoires,Sacs à main,11.03,63
+1239,0_596,Vêtements,T-shirts,6.18,62
+1240,0_1228,Vêtements,T-shirts,3.55,70
+1241,1_685,Accessoires,Sacs à main,15.99,49
+1242,2_149,Montres,Montres connectées,80.99,27
+1243,0_2259,Vêtements,T-shirts,7.99,58
+1244,1_648,Accessoires,Sacs à main,32.98,38
+1245,0_1565,Vêtements,T-shirts,7.99,27
+1246,0_762,Vêtements,T-shirts,6.57,94
+1247,0_741,Vêtements,T-shirts,1.99,29
+1248,0_1496,Vêtements,T-shirts,2.42,9
+1249,0_771,Vêtements,T-shirts,4.99,60
+1250,0_409,Vêtements,T-shirts,6.99,79
+1251,0_1120,Vêtements,T-shirts,21.84,96
+1252,1_632,Accessoires,Sacs à main,60.87,83
+1253,0_462,Vêtements,T-shirts,11.13,37
+1254,0_1214,Vêtements,T-shirts,21.91,57
+1255,0_50,Vêtements,T-shirts,22.08,24
+1256,0_172,Vêtements,T-shirts,8.33,21
+1257,0_2238,Vêtements,T-shirts,19.23,11
+1258,1_675,Accessoires,Sacs à main,8.99,98
+1259,0_1778,Vêtements,T-shirts,28.46,99
+1260,0_895,Vêtements,T-shirts,16.99,28
+1261,0_250,Vêtements,T-shirts,7.08,72
+1262,0_153,Vêtements,T-shirts,3.99,6
+1263,0_1465,Vêtements,T-shirts,3.99,46
+1264,0_1287,Vêtements,T-shirts,11.99,82
+1265,1_493,Accessoires,Sacs à main,10.99,9
+1266,0_1403,Vêtements,T-shirts,15.99,84
+1267,2_232,Montres,Montres connectées,104.06,69
+1268,0_1900,Vêtements,T-shirts,25.32,98
+1269,0_1384,Vêtements,T-shirts,14.44,71
+1270,0_638,Vêtements,T-shirts,7.72,24
+1271,2_7,Montres,Montres connectées,69.99,68
+1272,0_224,Vêtements,T-shirts,12.51,24
+1273,0_453,Vêtements,T-shirts,29.99,70
+1274,0_1702,Vêtements,T-shirts,13.13,66
+1275,0_1457,Vêtements,T-shirts,11.99,56
+1276,0_800,Vêtements,T-shirts,6.99,30
+1277,1_473,Accessoires,Sacs à main,2.99,59
+1278,0_208,Vêtements,T-shirts,14.36,21
+1279,0_2223,Vêtements,T-shirts,4.99,48
+1280,0_201,Vêtements,T-shirts,3.99,46
+1281,0_191,Vêtements,T-shirts,8.99,4
+1282,0_1998,Vêtements,T-shirts,24.2,47
+1283,2_211,Montres,Montres connectées,203.99,83
+1284,0_1741,Vêtements,T-shirts,17.99,31
+1285,0_1563,Vêtements,T-shirts,3.99,99
+1286,0_1506,Vêtements,T-shirts,10.0,92
+1287,1_3,Accessoires,Sacs à main,12.99,21
+1288,1_52,Accessoires,Sacs à main,14.04,61
+1289,0_1936,Vêtements,T-shirts,28.82,59
+1290,0_1303,Vêtements,T-shirts,7.99,64
+1291,0_575,Vêtements,T-shirts,3.99,6
+1292,0_2054,Vêtements,T-shirts,10.58,32
+1293,0_920,Vêtements,T-shirts,37.46,57
+1294,0_2105,Vêtements,T-shirts,5.99,12
+1295,0_1129,Vêtements,T-shirts,24.99,34
+1296,0_973,Vêtements,T-shirts,10.99,18
+1297,1_237,Accessoires,Sacs à main,18.99,11
+1298,1_186,Accessoires,Sacs à main,10.64,50
+1299,0_951,Vêtements,T-shirts,9.99,10
+1300,0_1494,Vêtements,T-shirts,7.6,82
+1301,0_1940,Vêtements,T-shirts,18.31,95
+1302,0_2242,Vêtements,T-shirts,31.79,32
+1303,0_1655,Vêtements,T-shirts,2.99,54
+1304,0_1532,Vêtements,T-shirts,17.14,6
+1305,0_94,Vêtements,T-shirts,27.76,45
+1306,0_195,Vêtements,T-shirts,15.99,99
+1307,1_100,Accessoires,Sacs à main,15.13,51
+1308,2_48,Montres,Montres connectées,73.62,16
+1309,0_111,Vêtements,T-shirts,19.99,53
+1310,0_1729,Vêtements,T-shirts,14.99,26
+1311,1_642,Accessoires,Sacs à main,37.13,14
+1312,0_909,Vêtements,T-shirts,18.99,10
+1313,0_380,Vêtements,T-shirts,2.98,17
+1314,2_159,Montres,Montres connectées,145.99,17
+1315,0_770,Vêtements,T-shirts,9.48,85
+1316,1_361,Accessoires,Sacs à main,5.99,24
+1317,0_2048,Vêtements,T-shirts,11.84,54
+1318,1_557,Accessoires,Sacs à main,36.99,71
+1319,0_2037,Vêtements,T-shirts,14.99,69
+1320,1_545,Accessoires,Sacs à main,31.99,35
+1321,1_230,Accessoires,Sacs à main,4.05,90
+1322,2_157,Montres,Montres connectées,142.99,17
+1323,0_698,Vêtements,T-shirts,1.44,79
+1324,0_1160,Vêtements,T-shirts,17.87,10
+1325,1_407,Accessoires,Sacs à main,15.99,97
+1326,1_130,Accessoires,Sacs à main,11.14,65
+1327,0_304,Vêtements,T-shirts,17.72,97
+1328,0_489,Vêtements,T-shirts,19.99,54
+1329,0_608,Vêtements,T-shirts,3.78,76
+1330,0_1270,Vêtements,T-shirts,6.62,57
+1331,0_1803,Vêtements,T-shirts,2.99,39
+1332,0_156,Vêtements,T-shirts,12.14,34
+1333,0_677,Vêtements,T-shirts,24.99,57
+1334,0_1021,Vêtements,T-shirts,8.99,75
+1335,0_840,Vêtements,T-shirts,17.07,12
+1336,1_127,Accessoires,Sacs à main,39.99,29
+1337,0_516,Vêtements,T-shirts,10.1,28
+1338,0_563,Vêtements,T-shirts,17.99,81
+1339,1_133,Accessoires,Sacs à main,21.99,7
+1340,0_1060,Vêtements,T-shirts,12.53,44
+1341,0_390,Vêtements,T-shirts,22.11,30
+1342,0_751,Vêtements,T-shirts,6.99,33
+1343,1_625,Accessoires,Sacs à main,22.99,46
+1344,0_1311,Vêtements,T-shirts,18.99,95
+1345,1_275,Accessoires,Sacs à main,41.99,24
+1346,0_1645,Vêtements,T-shirts,2.99,52
+1347,2_15,Montres,Montres connectées,123.99,62
+1348,0_1828,Vêtements,T-shirts,6.95,26
+1349,1_721,Accessoires,Sacs à main,21.99,6
+1350,2_178,Montres,Montres connectées,176.2,49
+1351,0_694,Vêtements,T-shirts,11.35,83
+1352,0_1640,Vêtements,T-shirts,10.71,15
+1353,1_335,Accessoires,Sacs à main,43.99,44
+1354,1_398,Accessoires,Sacs à main,10.17,82
+1355,0_1255,Vêtements,T-shirts,10.99,65
+1356,0_1261,Vêtements,T-shirts,8.99,48
+1357,0_1074,Vêtements,T-shirts,2.44,11
+1358,0_1628,Vêtements,T-shirts,9.99,31
+1359,0_494,Vêtements,T-shirts,39.58,13
+1360,1_393,Accessoires,Sacs à main,35.99,52
+1361,0_745,Vêtements,T-shirts,13.99,97
+1362,0_1084,Vêtements,T-shirts,22.92,96
+1363,0_830,Vêtements,T-shirts,11.89,49
+1364,1_579,Accessoires,Sacs à main,23.99,84
+1365,1_715,Accessoires,Sacs à main,62.99,6
+1366,0_2250,Vêtements,T-shirts,20.77,74
+1367,0_514,Vêtements,T-shirts,29.15,26
+1368,0_707,Vêtements,T-shirts,4.99,7
+1369,0_583,Vêtements,T-shirts,10.99,88
+1370,2_190,Montres,Montres connectées,175.67,69
+1371,0_1151,Vêtements,T-shirts,2.99,36
+1372,0_1542,Vêtements,T-shirts,18.09,29
+1373,0_1078,Vêtements,T-shirts,6.92,90
+1374,0_947,Vêtements,T-shirts,5.99,41
+1375,1_216,Accessoires,Sacs à main,35.03,82
+1376,0_369,Vêtements,T-shirts,10.99,35
+1377,1_479,Accessoires,Sacs à main,62.99,10
+1378,1_460,Accessoires,Sacs à main,7.53,98
+1379,1_347,Accessoires,Sacs à main,21.99,43
+1380,0_341,Vêtements,T-shirts,3.99,78
+1381,0_1945,Vêtements,T-shirts,6.99,91
+1382,0_2215,Vêtements,T-shirts,3.99,28
+1383,0_459,Vêtements,T-shirts,4.99,83
+1384,1_663,Accessoires,Sacs à main,17.99,77
+1385,0_880,Vêtements,T-shirts,13.28,20
+1386,0_1515,Vêtements,T-shirts,6.99,45
+1387,0_170,Vêtements,T-shirts,9.92,63
+1388,0_746,Vêtements,T-shirts,23.86,61
+1389,2_64,Montres,Montres connectées,163.94,5
+1390,1_613,Accessoires,Sacs à main,4.99,14
+1391,0_1698,Vêtements,T-shirts,14.24,10
+1392,0_439,Vêtements,T-shirts,5.99,40
+1393,0_878,Vêtements,T-shirts,12.69,58
+1394,0_1809,Vêtements,T-shirts,13.99,16
+1395,0_2227,Vêtements,T-shirts,4.99,28
+1396,1_323,Accessoires,Sacs à main,32.99,44
+1397,0_2262,Vêtements,T-shirts,21.13,71
+1398,0_419,Vêtements,T-shirts,20.99,70
+1399,0_1525,Vêtements,T-shirts,6.99,76
+1400,0_1159,Vêtements,T-shirts,7.99,17
+1401,2_168,Montres,Montres connectées,104.76,83
+1402,0_1164,Vêtements,T-shirts,31.23,78
+1403,0_2205,Vêtements,T-shirts,15.99,28
+1404,1_337,Accessoires,Sacs à main,24.99,87
+1405,0_1688,Vêtements,T-shirts,7.26,41
+1406,0_1079,Vêtements,T-shirts,5.99,65
+1407,0_106,Vêtements,T-shirts,9.4,46
+1408,0_2046,Vêtements,T-shirts,32.34,6
+1409,0_1905,Vêtements,T-shirts,7.99,23
+1410,2_109,Montres,Montres connectées,53.99,65
+1411,0_1385,Vêtements,T-shirts,11.99,95
+1412,0_2008,Vêtements,T-shirts,15.97,70
+1413,0_801,Vêtements,T-shirts,11.99,59
+1414,0_603,Vêtements,T-shirts,14.99,16
+1415,1_146,Accessoires,Sacs à main,31.98,95
+1416,1_117,Accessoires,Sacs à main,41.99,69
+1417,0_231,Vêtements,T-shirts,14.99,65
+1418,0_1976,Vêtements,T-shirts,13.4,76
+1419,1_384,Accessoires,Sacs à main,46.95,80
+1420,1_601,Accessoires,Sacs à main,21.99,43
+1421,1_328,Accessoires,Sacs à main,29.24,74
+1422,0_3,Vêtements,T-shirts,28.99,30
+1423,0_62,Vêtements,T-shirts,4.44,49
+1424,0_1788,Vêtements,T-shirts,8.34,44
+1425,0_765,Vêtements,T-shirts,10.99,38
+1426,0_2278,Vêtements,T-shirts,26.01,57
+1427,0_500,Vêtements,T-shirts,5.14,82
+1428,0_1216,Vêtements,T-shirts,19.75,89
+1429,0_405,Vêtements,T-shirts,19.99,40
+1430,0_688,Vêtements,T-shirts,17.65,75
+1431,0_1627,Vêtements,T-shirts,3.99,80
+1432,1_11,Accessoires,Sacs à main,39.99,79
+1433,1_341,Accessoires,Sacs à main,42.99,48
+1434,0_1378,Vêtements,T-shirts,13.96,59
+1435,2_167,Montres,Montres connectées,236.99,32
+1436,2_124,Montres,Montres connectées,100.56,44
+1437,0_374,Vêtements,T-shirts,1.82,47
+1438,0_1186,Vêtements,T-shirts,12.3,47
+1439,0_1890,Vêtements,T-shirts,5.17,88
+1440,1_455,Accessoires,Sacs à main,33.99,35
+1441,0_93,Vêtements,T-shirts,16.99,25
+1442,0_954,Vêtements,T-shirts,6.51,7
+1443,0_2156,Vêtements,T-shirts,4.63,20
+1444,0_1242,Vêtements,T-shirts,7.97,50
+1445,0_1751,Vêtements,T-shirts,25.99,4
+1446,1_187,Accessoires,Sacs à main,26.99,16
+1447,0_2194,Vêtements,T-shirts,6.57,46
+1448,0_739,Vêtements,T-shirts,11.99,36
+1449,0_970,Vêtements,T-shirts,8.32,77
+1450,0_96,Vêtements,T-shirts,9.45,72
+1451,0_1728,Vêtements,T-shirts,2.27,11
+1452,1_489,Accessoires,Sacs à main,6.99,87
+1453,0_1409,Vêtements,T-shirts,4.99,44
+1454,0_1907,Vêtements,T-shirts,9.99,7
+1455,0_1257,Vêtements,T-shirts,10.99,4
+1456,0_1985,Vêtements,T-shirts,5.99,26
+1457,0_705,Vêtements,T-shirts,16.99,26
+1458,0_1518,Vêtements,T-shirts,4.18,11
+1459,0_1891,Vêtements,T-shirts,5.99,33
+1460,0_340,Vêtements,T-shirts,6.43,22
+1461,0_55,Vêtements,T-shirts,6.99,1
+1462,0_1090,Vêtements,T-shirts,13.78,32
+1463,2_60,Montres,Montres connectées,111.72,11
+1464,0_674,Vêtements,T-shirts,13.95,72
+1465,0_353,Vêtements,T-shirts,12.99,39
+1466,0_1044,Vêtements,T-shirts,6.59,7
+1467,0_2154,Vêtements,T-shirts,8.15,3
+1468,0_1417,Vêtements,T-shirts,17.99,38
+1469,0_169,Vêtements,T-shirts,18.99,38
+1470,0_945,Vêtements,T-shirts,22.99,84
+1471,1_166,Accessoires,Sacs à main,15.81,57
+1472,1_2,Accessoires,Sacs à main,7.77,83
+1473,0_1717,Vêtements,T-shirts,13.99,11
+1474,0_609,Vêtements,T-shirts,3.99,91
+1475,0_764,Vêtements,T-shirts,5.59,6
+1476,0_1158,Vêtements,T-shirts,10.18,58
+1477,0_627,Vêtements,T-shirts,2.99,98
+1478,0_1179,Vêtements,T-shirts,5.99,87
+1479,2_206,Montres,Montres connectées,71.21,19
+1480,1_500,Accessoires,Sacs à main,34.93,58
+1481,0_942,Vêtements,T-shirts,2.02,54
+1482,0_1115,Vêtements,T-shirts,6.99,2
+1483,1_426,Accessoires,Sacs à main,19.44,15
+1484,0_261,Vêtements,T-shirts,7.99,9
+1485,0_804,Vêtements,T-shirts,19.19,1
+1486,1_310,Accessoires,Sacs à main,14.2,67
+1487,1_113,Accessoires,Sacs à main,50.99,80
+1488,0_1071,Vêtements,T-shirts,22.99,61
+1489,0_2067,Vêtements,T-shirts,1.99,40
+1490,0_1266,Vêtements,T-shirts,4.28,72
+1491,0_1211,Vêtements,T-shirts,2.99,32
+1492,0_2221,Vêtements,T-shirts,4.99,27
+1493,0_530,Vêtements,T-shirts,13.23,2
+1494,1_53,Accessoires,Sacs à main,28.99,48
+1495,0_1048,Vêtements,T-shirts,4.42,77
+1496,1_661,Accessoires,Sacs à main,22.99,20
+1497,0_984,Vêtements,T-shirts,4.41,5
+1498,1_595,Accessoires,Sacs à main,31.99,18
+1499,0_1402,Vêtements,T-shirts,3.0,34
+1500,0_360,Vêtements,T-shirts,11.75,95
+1501,0_371,Vêtements,T-shirts,11.99,93
+1502,0_1221,Vêtements,T-shirts,2.99,19
+1503,2_175,Montres,Montres connectées,60.99,7
+1504,0_322,Vêtements,T-shirts,2.99,47
+1505,1_173,Accessoires,Sacs à main,15.99,30
+1506,1_254,Accessoires,Sacs à main,47.69,47
+1507,0_1234,Vêtements,T-shirts,7.29,46
+1508,2_179,Montres,Montres connectées,49.99,78
+1509,0_290,Vêtements,T-shirts,18.93,54
+1510,0_239,Vêtements,T-shirts,8.99,97
+1511,1_709,Accessoires,Sacs à main,45.99,58
+1512,0_329,Vêtements,T-shirts,4.99,53
+1513,0_1067,Vêtements,T-shirts,12.99,24
+1514,0_1557,Vêtements,T-shirts,6.99,38
+1515,1_340,Accessoires,Sacs à main,42.25,73
+1516,0_1341,Vêtements,T-shirts,9.99,17
+1517,1_598,Accessoires,Sacs à main,14.05,89
+1518,0_138,Vêtements,T-shirts,19.95,63
+1519,0_1904,Vêtements,T-shirts,15.51,52
+1520,0_613,Vêtements,T-shirts,15.99,15
+1521,0_1011,Vêtements,T-shirts,13.99,53
+1522,0_2126,Vêtements,T-shirts,17.36,13
+1523,1_288,Accessoires,Sacs à main,22.09,49
+1524,0_1169,Vêtements,T-shirts,9.99,99
+1525,0_223,Vêtements,T-shirts,5.99,94
+1526,0_1180,Vêtements,T-shirts,14.25,61
+1527,1_220,Accessoires,Sacs à main,23.37,15
+1528,0_1756,Vêtements,T-shirts,14.67,77
+1529,0_1620,Vêtements,T-shirts,0.8,50
+1530,0_1086,Vêtements,T-shirts,1.41,55
+1531,1_120,Accessoires,Sacs à main,64.59,50
+1532,1_292,Accessoires,Sacs à main,8.04,20
+1533,0_1017,Vêtements,T-shirts,8.99,93
+1534,1_90,Accessoires,Sacs à main,24.19,26
+1535,2_205,Montres,Montres connectées,100.99,16
+1536,0_735,Vêtements,T-shirts,21.99,78
+1537,2_85,Montres,Montres connectées,128.99,18
+1538,0_305,Vêtements,T-shirts,8.99,78
+1539,0_515,Vêtements,T-shirts,11.99,87
+1540,0_740,Vêtements,T-shirts,15.66,50
+1541,0_2130,Vêtements,T-shirts,18.24,36
+1542,0_1025,Vêtements,T-shirts,24.99,96
+1543,0_317,Vêtements,T-shirts,16.99,29
+1544,1_618,Accessoires,Sacs à main,29.36,32
+1545,0_316,Vêtements,T-shirts,13.77,48
+1546,2_160,Montres,Montres connectées,62.83,55
+1547,0_810,Vêtements,T-shirts,3.8,60
+1548,0_606,Vêtements,T-shirts,4.86,95
+1549,1_406,Accessoires,Sacs à main,24.81,2
+1550,1_246,Accessoires,Sacs à main,18.75,57
+1551,0_2013,Vêtements,T-shirts,9.99,67
+1552,0_1661,Vêtements,T-shirts,5.99,81
+1553,1_76,Accessoires,Sacs à main,36.32,54
+1554,0_49,Vêtements,T-shirts,23.99,81
+1555,0_1746,Vêtements,T-shirts,9.02,81
+1556,0_1304,Vêtements,T-shirts,5.86,34
+1557,0_144,Vêtements,T-shirts,17.56,81
+1558,0_2236,Vêtements,T-shirts,16.17,10
+1559,0_2011,Vêtements,T-shirts,16.99,46
+1560,0_975,Vêtements,T-shirts,7.99,18
+1561,1_258,Accessoires,Sacs à main,31.0,35
+1562,1_623,Accessoires,Sacs à main,49.99,27
+1563,0_1058,Vêtements,T-shirts,3.69,46
+1564,0_243,Vêtements,T-shirts,14.99,76
+1565,0_2053,Vêtements,T-shirts,14.99,1
+1566,2_113,Montres,Montres connectées,56.99,69
+1567,0_336,Vêtements,T-shirts,3.23,13
+1568,0_2101,Vêtements,T-shirts,20.99,77
+1569,2_189,Montres,Montres connectées,142.99,64
+1570,0_1543,Vêtements,T-shirts,13.99,21
+1571,1_261,Accessoires,Sacs à main,44.99,40
+1572,0_537,Vêtements,T-shirts,16.99,18
+1573,0_1073,Vêtements,T-shirts,13.99,68
+1574,0_1491,Vêtements,T-shirts,5.99,58
+1575,1_440,Accessoires,Sacs à main,7.32,24
+1576,0_1416,Vêtements,T-shirts,9.56,58
+1577,0_1448,Vêtements,T-shirts,18.94,88
+1578,0_776,Vêtements,T-shirts,19.72,69
+1579,0_561,Vêtements,T-shirts,6.99,16
+1580,0_935,Vêtements,T-shirts,3.99,48
+1581,0_588,Vêtements,T-shirts,9.28,98
+1582,1_118,Accessoires,Sacs à main,30.51,49
+1583,0_362,Vêtements,T-shirts,22.77,98
+1584,0_242,Vêtements,T-shirts,32.52,41
+1585,0_628,Vêtements,T-shirts,19.03,25
+1586,1_329,Accessoires,Sacs à main,4.99,70
+1587,0_78,Vêtements,T-shirts,12.87,30
+1588,1_458,Accessoires,Sacs à main,51.55,22
+1589,0_2212,Vêtements,T-shirts,6.75,19
+1590,0_452,Vêtements,T-shirts,19.72,97
+1591,0_2168,Vêtements,T-shirts,11.17,68
+1592,0_1244,Vêtements,T-shirts,2.49,91
+1593,1_735,Accessoires,Sacs à main,22.99,91
+1594,0_125,Vêtements,T-shirts,3.99,99
+1595,0_1272,Vêtements,T-shirts,17.01,67
+1596,0_2006,Vêtements,T-shirts,13.11,45
+1597,1_150,Accessoires,Sacs à main,22.42,51
+1598,1_510,Accessoires,Sacs à main,26.93,89
+1599,0_581,Vêtements,T-shirts,8.99,20
+1600,0_318,Vêtements,T-shirts,6.01,25
+1601,0_1680,Vêtements,T-shirts,18.0,61
+1602,1_559,Accessoires,Sacs à main,24.99,10
+1603,1_194,Accessoires,Sacs à main,52.03,53
+1604,0_1358,Vêtements,T-shirts,16.49,63
+1605,0_1990,Vêtements,T-shirts,22.11,4
+1606,0_1488,Vêtements,T-shirts,4.6,47
+1607,1_25,Accessoires,Sacs à main,15.99,35
+1608,0_1117,Vêtements,T-shirts,24.99,7
+1609,0_841,Vêtements,T-shirts,19.99,73
+1610,0_1157,Vêtements,T-shirts,18.99,9
+1611,1_72,Accessoires,Sacs à main,9.84,34
+1612,1_260,Accessoires,Sacs à main,17.63,1
+1613,1_346,Accessoires,Sacs à main,39.88,27
+1614,0_2210,Vêtements,T-shirts,15.1,30
+1615,1_212,Accessoires,Sacs à main,39.86,22
+1616,0_209,Vêtements,T-shirts,6.99,95
+1617,0_2218,Vêtements,T-shirts,3.27,35
+1618,0_743,Vêtements,T-shirts,16.99,20
+1619,0_584,Vêtements,T-shirts,19.82,48
+1620,0_882,Vêtements,T-shirts,24.75,79
+1621,0_465,Vêtements,T-shirts,14.99,6
+1622,0_701,Vêtements,T-shirts,8.99,27
+1623,0_2153,Vêtements,T-shirts,21.99,98
+1624,1_547,Accessoires,Sacs à main,15.99,84
+1625,2_237,Montres,Montres connectées,40.99,6
+1626,0_368,Vêtements,T-shirts,5.75,14
+1627,0_370,Vêtements,T-shirts,11.37,10
+1628,0_1104,Vêtements,T-shirts,13.21,58
+1629,1_636,Accessoires,Sacs à main,52.72,96
+1630,1_125,Accessoires,Sacs à main,30.99,59
+1631,0_423,Vêtements,T-shirts,1.99,38
+1632,0_349,Vêtements,T-shirts,2.99,61
+1633,0_326,Vêtements,T-shirts,16.21,21
+1634,0_2082,Vêtements,T-shirts,24.33,91
+1635,0_456,Vêtements,T-shirts,8.19,44
+1636,0_1105,Vêtements,T-shirts,8.99,7
+1637,0_1669,Vêtements,T-shirts,6.99,43
+1638,1_652,Accessoires,Sacs à main,27.52,40
+1639,0_2173,Vêtements,T-shirts,9.99,26
+1640,0_1469,Vêtements,T-shirts,14.99,66
+1641,0_378,Vêtements,T-shirts,8.79,20
+1642,0_1848,Vêtements,T-shirts,23.11,98
+1643,0_149,Vêtements,T-shirts,17.99,61
+1644,0_579,Vêtements,T-shirts,6.99,88
+1645,0_1700,Vêtements,T-shirts,18.49,21
+1646,1_17,Accessoires,Sacs à main,39.99,19
+1647,0_590,Vêtements,T-shirts,24.35,82
+1648,0_1371,Vêtements,T-shirts,21.99,52
+1649,0_168,Vêtements,T-shirts,9.28,73
+1650,0_987,Vêtements,T-shirts,23.99,10
+1651,0_656,Vêtements,T-shirts,7.54,17
+1652,0_1440,Vêtements,T-shirts,5.62,98
+1653,0_1316,Vêtements,T-shirts,7.2,2
+1654,0_1213,Vêtements,T-shirts,21.99,40
+1655,0_1924,Vêtements,T-shirts,12.36,58
+1656,1_688,Accessoires,Sacs à main,18.19,75
+1657,0_189,Vêtements,T-shirts,12.99,12
+1658,0_2045,Vêtements,T-shirts,10.99,98
+1659,0_122,Vêtements,T-shirts,5.76,80
+1660,0_526,Vêtements,T-shirts,19.26,34
+1661,0_2122,Vêtements,T-shirts,17.76,43
+1662,0_1568,Vêtements,T-shirts,4.0,27
+1663,0_1521,Vêtements,T-shirts,17.99,52
+1664,0_1757,Vêtements,T-shirts,1.99,6
+1665,0_517,Vêtements,T-shirts,7.99,22
+1666,0_2146,Vêtements,T-shirts,11.14,89
+1667,0_1696,Vêtements,T-shirts,8.46,74
+1668,0_637,Vêtements,T-shirts,4.99,20
+1669,2_75,Montres,Montres connectées,96.99,20
+1670,0_1415,Vêtements,T-shirts,34.99,17
+1671,0_988,Vêtements,T-shirts,31.34,73
+1672,0_1181,Vêtements,T-shirts,11.99,64
+1673,0_1292,Vêtements,T-shirts,9.8,32
+1674,2_213,Montres,Montres connectées,189.99,94
+1675,0_1873,Vêtements,T-shirts,10.99,62
+1676,0_2058,Vêtements,T-shirts,5.52,85
+1677,0_252,Vêtements,T-shirts,20.54,15
+1678,0_41,Vêtements,T-shirts,2.99,9
+1679,0_2036,Vêtements,T-shirts,20.49,61
+1680,0_345,Vêtements,T-shirts,3.99,33
+1681,0_600,Vêtements,T-shirts,14.09,87
+1682,0_21,Vêtements,T-shirts,4.99,94
+1683,0_2252,Vêtements,T-shirts,23.92,76
+1684,0_342,Vêtements,T-shirts,15.51,3
+1685,0_1854,Vêtements,T-shirts,3.15,62
+1686,0_1327,Vêtements,T-shirts,2.99,15
+1687,0_1695,Vêtements,T-shirts,2.99,37
+1688,2_140,Montres,Montres connectées,42.48,46
+1689,0_636,Vêtements,T-shirts,17.29,90
+1690,0_2076,Vêtements,T-shirts,11.39,60
+1691,1_344,Accessoires,Sacs à main,5.07,62
+1692,1_363,Accessoires,Sacs à main,16.99,43
+1693,0_1925,Vêtements,T-shirts,25.99,59
+1694,1_184,Accessoires,Sacs à main,67.65,4
+1695,2_180,Montres,Montres connectées,85.28,4
+1696,0_373,Vêtements,T-shirts,6.99,73
+1697,0_1098,Vêtements,T-shirts,31.25,78
+1698,0_781,Vêtements,T-shirts,10.99,5
+1699,0_632,Vêtements,T-shirts,20.77,9
+1700,0_1101,Vêtements,T-shirts,1.99,66
+1701,1_39,Accessoires,Sacs à main,12.99,82
+1702,0_1887,Vêtements,T-shirts,5.99,96
+1703,0_1399,Vêtements,T-shirts,17.99,58
+1704,0_722,Vêtements,T-shirts,20.31,78
+1705,0_296,Vêtements,T-shirts,8.35,49
+1706,0_2171,Vêtements,T-shirts,4.99,46
+1707,0_733,Vêtements,T-shirts,9.99,81
+1708,2_87,Montres,Montres connectées,220.99,49
+1709,0_969,Vêtements,T-shirts,11.99,57
+1710,0_508,Vêtements,T-shirts,8.5,34
+1711,0_132,Vêtements,T-shirts,15.97,17
+1712,0_481,Vêtements,T-shirts,4.99,15
+1713,0_757,Vêtements,T-shirts,9.99,40
+1714,2_171,Montres,Montres connectées,79.99,25
+1715,0_678,Vêtements,T-shirts,4.29,69
+1716,2_152,Montres,Montres connectées,34.23,2
+1717,0_300,Vêtements,T-shirts,6.19,14
+1718,0_1065,Vêtements,T-shirts,15.99,10
+1719,0_1913,Vêtements,T-shirts,3.99,26
+1720,2_56,Montres,Montres connectées,116.67,8
+1721,0_965,Vêtements,T-shirts,19.99,61
+1722,0_539,Vêtements,T-shirts,14.99,43
+1723,0_799,Vêtements,T-shirts,11.99,35
+1724,0_2244,Vêtements,T-shirts,8.37,34
+1725,0_604,Vêtements,T-shirts,33.54,28
+1726,2_191,Montres,Montres connectées,67.99,2
+1727,1_434,Accessoires,Sacs à main,15.87,34
+1728,2_84,Montres,Montres connectées,182.3,93
+1729,0_1910,Vêtements,T-shirts,10.85,79
+1730,0_1345,Vêtements,T-shirts,17.99,77
+1731,1_109,Accessoires,Sacs à main,22.99,29
+1732,0_2284,Vêtements,T-shirts,5.69,24
+1733,1_617,Accessoires,Sacs à main,14.99,10
+1734,1_677,Accessoires,Sacs à main,16.99,1
+1735,1_639,Accessoires,Sacs à main,10.99,49
+1736,0_337,Vêtements,T-shirts,22.99,73
+1737,0_2086,Vêtements,T-shirts,3.61,48
+1738,0_562,Vêtements,T-shirts,3.64,74
+1739,0_997,Vêtements,T-shirts,9.99,66
+1740,0_807,Vêtements,T-shirts,1.99,6
+1741,1_700,Accessoires,Sacs à main,7.01,27
+1742,0_669,Vêtements,T-shirts,6.99,56
+1743,0_1475,Vêtements,T-shirts,11.99,76
+1744,1_726,Accessoires,Sacs à main,10.79,38
+1745,0_1955,Vêtements,T-shirts,10.99,60
+1746,1_395,Accessoires,Sacs à main,28.99,60
+1747,2_52,Montres,Montres connectées,119.07,92
+1748,1_634,Accessoires,Sacs à main,21.18,97
+1749,0_2110,Vêtements,T-shirts,7.04,63
+1750,1_565,Accessoires,Sacs à main,19.99,27
+1751,0_355,Vêtements,T-shirts,3.99,3
+1752,0_978,Vêtements,T-shirts,19.11,90
+1753,0_1077,Vêtements,T-shirts,1.99,55
+1754,0_1280,Vêtements,T-shirts,11.96,7
+1755,1_185,Accessoires,Sacs à main,33.99,26
+1756,0_1722,Vêtements,T-shirts,3.78,97
+1757,1_401,Accessoires,Sacs à main,32.99,95
+1758,0_328,Vêtements,T-shirts,20.06,34
+1759,0_1638,Vêtements,T-shirts,5.46,55
+1760,1_267,Accessoires,Sacs à main,27.99,1
+1761,0_858,Vêtements,T-shirts,21.29,93
+1762,0_2134,Vêtements,T-shirts,5.57,46
+1763,0_1020,Vêtements,T-shirts,9.71,44
+1764,0_2139,Vêtements,T-shirts,4.99,21
+1765,0_151,Vêtements,T-shirts,13.99,67
+1766,2_134,Montres,Montres connectées,85.27,77
+1767,1_640,Accessoires,Sacs à main,11.9,30
+1768,0_1852,Vêtements,T-shirts,7.67,77
+1769,1_289,Accessoires,Sacs à main,32.99,59
+1770,2_108,Montres,Montres connectées,63.36,65
+1771,0_1356,Vêtements,T-shirts,5.57,93
+1772,1_521,Accessoires,Sacs à main,22.99,35
+1773,0_1271,Vêtements,T-shirts,1.99,19
+1774,1_293,Accessoires,Sacs à main,22.99,46
+1775,1_243,Accessoires,Sacs à main,42.99,88
+1776,1_508,Accessoires,Sacs à main,21.92,46
+1777,0_866,Vêtements,T-shirts,8.51,50
+1778,2_35,Montres,Montres connectées,139.99,64
+1779,1_684,Accessoires,Sacs à main,11.2,3
+1780,0_54,Vêtements,T-shirts,18.57,77
+1781,0_2295,Vêtements,T-shirts,1.99,87
+1782,0_335,Vêtements,T-shirts,14.99,2
+1783,0_1771,Vêtements,T-shirts,0.99,21
+1784,1_453,Accessoires,Sacs à main,13.99,17
+1785,1_334,Accessoires,Sacs à main,39.35,47
+1786,1_611,Accessoires,Sacs à main,16.99,47
+1787,0_2271,Vêtements,T-shirts,13.99,6
+1788,0_1343,Vêtements,T-shirts,21.99,71
+1789,0_1906,Vêtements,T-shirts,28.57,43
+1790,0_1264,Vêtements,T-shirts,15.97,22
+1791,1_86,Accessoires,Sacs à main,34.77,41
+1792,1_416,Accessoires,Sacs à main,64.62,75
+1793,1_399,Accessoires,Sacs à main,3.99,31
+1794,0_714,Vêtements,T-shirts,4.14,44
+1795,0_595,Vêtements,T-shirts,6.99,34
+1796,2_216,Montres,Montres connectées,72.01,2
+1797,1_18,Accessoires,Sacs à main,6.43,92
+1798,1_325,Accessoires,Sacs à main,27.99,25
+1799,1_643,Accessoires,Sacs à main,29.99,78
+1800,0_1002,Vêtements,T-shirts,8.31,71
+1801,1_134,Accessoires,Sacs à main,13.0,63
+1802,1_542,Accessoires,Sacs à main,19.47,9
+1803,1_705,Accessoires,Sacs à main,37.99,18
+1804,0_999,Vêtements,T-shirts,9.99,52
+1805,0_1796,Vêtements,T-shirts,4.51,94
+1806,0_594,Vêtements,T-shirts,4.95,28
+1807,0_1533,Vêtements,T-shirts,27.99,53
+1808,0_663,Vêtements,T-shirts,20.99,85
+1809,0_1953,Vêtements,T-shirts,8.99,38
+1810,0_1660,Vêtements,T-shirts,4.68,94
+1811,0_898,Vêtements,T-shirts,1.27,36
+1812,0_410,Vêtements,T-shirts,25.23,41
+1813,2_229,Montres,Montres connectées,80.99,38
+1814,0_883,Vêtements,T-shirts,14.99,57
+1815,0_974,Vêtements,T-shirts,11.75,79
+1816,0_1875,Vêtements,T-shirts,4.99,45
+1817,0_2274,Vêtements,T-shirts,5.91,38
+1818,0_274,Vêtements,T-shirts,11.87,1
+1819,1_614,Accessoires,Sacs à main,10.73,53
+1820,0_1617,Vêtements,T-shirts,11.99,78
+1821,0_834,Vêtements,T-shirts,15.77,44
+1822,0_2003,Vêtements,T-shirts,6.99,75
+1823,0_2170,Vêtements,T-shirts,24.04,22
+1824,0_1091,Vêtements,T-shirts,9.99,36
+1825,0_1030,Vêtements,T-shirts,13.73,52
+1826,1_311,Accessoires,Sacs à main,16.99,55
+1827,0_996,Vêtements,T-shirts,11.64,89
+1828,1_31,Accessoires,Sacs à main,37.99,87
+1829,0_1726,Vêtements,T-shirts,1.57,16
+1830,0_1043,Vêtements,T-shirts,10.99,85
+1831,0_972,Vêtements,T-shirts,15.7,13
+1832,0_1382,Vêtements,T-shirts,15.62,21
+1833,0_361,Vêtements,T-shirts,14.99,51
+1834,0_487,Vêtements,T-shirts,4.99,38
+1835,1_227,Accessoires,Sacs à main,61.99,50
+1836,0_1353,Vêtements,T-shirts,19.99,47
+1837,0_2073,Vêtements,T-shirts,2.99,73
+1838,0_952,Vêtements,T-shirts,10.47,23
+1839,0_736,Vêtements,T-shirts,6.03,42
+1840,0_1962,Vêtements,T-shirts,6.08,57
+1841,0_1859,Vêtements,T-shirts,4.99,79
+1842,2_62,Montres,Montres connectées,60.96,79
+1843,0_1888,Vêtements,T-shirts,9.78,80
+1844,1_245,Accessoires,Sacs à main,23.99,87
+1845,0_213,Vêtements,T-shirts,14.99,68
+1846,0_523,Vêtements,T-shirts,4.99,16
+1847,0_1510,Vêtements,T-shirts,2.18,67
+1848,1_445,Accessoires,Sacs à main,23.99,70
+1849,1_683,Accessoires,Sacs à main,13.99,30
+1850,0_1189,Vêtements,T-shirts,17.99,97
+1851,0_1132,Vêtements,T-shirts,11.33,66
+1852,1_430,Accessoires,Sacs à main,4.93,89
+1853,2_174,Montres,Montres connectées,83.63,70
+1854,0_491,Vêtements,T-shirts,16.99,62
+1855,0_115,Vêtements,T-shirts,6.99,43
+1856,0_752,Vêtements,T-shirts,14.74,12
+1857,1_164,Accessoires,Sacs à main,21.64,4
+1858,0_121,Vêtements,T-shirts,16.99,16
+1859,0_1001,Vêtements,T-shirts,4.99,61
+1860,0_1813,Vêtements,T-shirts,25.99,72
+1861,0_235,Vêtements,T-shirts,9.99,84
+1862,1_394,Accessoires,Sacs à main,39.73,5
+1863,0_42,Vêtements,T-shirts,22.68,89
+1864,1_207,Accessoires,Sacs à main,9.99,76
+1865,0_689,Vêtements,T-shirts,14.99,84
+1866,0_682,Vêtements,T-shirts,11.59,14
+1867,0_566,Vêtements,T-shirts,4.27,77
+1868,0_1085,Vêtements,T-shirts,3.99,43
+1869,0_1918,Vêtements,T-shirts,29.04,74
+1870,0_1839,Vêtements,T-shirts,10.99,19
+1871,1_441,Accessoires,Sacs à main,24.99,28
+1872,0_1040,Vêtements,T-shirts,6.25,98
+1873,1_295,Accessoires,Sacs à main,3.99,46
+1874,0_2107,Vêtements,T-shirts,5.99,67
+1875,0_395,Vêtements,T-shirts,9.99,30
+1876,0_697,Vêtements,T-shirts,9.99,4
+1877,0_693,Vêtements,T-shirts,7.99,54
+1878,0_1027,Vêtements,T-shirts,4.99,92
+1879,1_702,Accessoires,Sacs à main,15.2,75
+1880,0_393,Vêtements,T-shirts,13.99,77
+1881,0_1286,Vêtements,T-shirts,24.2,93
+1882,1_568,Accessoires,Sacs à main,19.35,55
+1883,0_1514,Vêtements,T-shirts,11.01,33
+1884,0_1313,Vêtements,T-shirts,13.99,28
+1885,0_124,Vêtements,T-shirts,20.17,60
+1886,0_1977,Vêtements,T-shirts,5.99,70
+1887,2_203,Montres,Montres connectées,136.99,95
+1888,0_990,Vêtements,T-shirts,4.61,63
+1889,2_234,Montres,Montres connectées,81.19,99
+1890,0_777,Vêtements,T-shirts,12.99,98
+1891,1_474,Accessoires,Sacs à main,49.47,97
+1892,0_1354,Vêtements,T-shirts,7.02,65
+1893,1_202,Accessoires,Sacs à main,19.96,92
+1894,0_1917,Vêtements,T-shirts,1.99,72
+1895,2_4,Montres,Montres connectées,222.97,46
+1896,0_1483,Vêtements,T-shirts,4.99,48
+1897,0_1493,Vêtements,T-shirts,14.99,66
+1898,0_708,Vêtements,T-shirts,20.81,21
+1899,0_635,Vêtements,T-shirts,18.99,27
+1900,0_1175,Vêtements,T-shirts,8.99,1
+1901,1_627,Accessoires,Sacs à main,35.99,73
+1902,0_1740,Vêtements,T-shirts,21.75,43
+1903,0_2265,Vêtements,T-shirts,2.99,73
+1904,2_222,Montres,Montres connectées,103.58,70
+1905,0_1574,Vêtements,T-shirts,9.67,95
+1906,0_188,Vêtements,T-shirts,6.6,61
+1907,1_313,Accessoires,Sacs à main,27.99,86
+1908,0_1560,Vêtements,T-shirts,12.12,79
+1909,0_1643,Vêtements,T-shirts,16.99,73
+1910,0_1539,Vêtements,T-shirts,0.99,87
+1911,0_1974,Vêtements,T-shirts,4.74,81
+1912,0_1427,Vêtements,T-shirts,28.99,54
+1913,2_224,Montres,Montres connectées,87.4,71
+1914,0_1277,Vêtements,T-shirts,7.99,84
+1915,1_64,Accessoires,Sacs à main,19.81,31
+1916,1_612,Accessoires,Sacs à main,29.55,65
+1917,1_192,Accessoires,Sacs à main,21.61,79
+1918,0_2133,Vêtements,T-shirts,3.99,86
+1919,1_575,Accessoires,Sacs à main,6.99,33
+1920,1_96,Accessoires,Sacs à main,7.58,6
+1921,0_359,Vêtements,T-shirts,6.99,38
+1922,0_427,Vêtements,T-shirts,20.99,4
+1923,0_1451,Vêtements,T-shirts,19.99,90
+1924,2_91,Montres,Montres connectées,96.99,74
+1925,0_1810,Vêtements,T-shirts,5.96,39
+1926,0_2021,Vêtements,T-shirts,12.99,22
+1927,1_630,Accessoires,Sacs à main,10.75,58
+1928,1_560,Accessoires,Sacs à main,18.18,52
+1929,2_193,Montres,Montres connectées,114.99,87
+1930,0_1435,Vêtements,T-shirts,13.99,40
+1931,0_2084,Vêtements,T-shirts,10.8,48
+1932,0_1200,Vêtements,T-shirts,13.9,30
+1933,0_863,Vêtements,T-shirts,7.99,38
+1934,1_197,Accessoires,Sacs à main,5.99,70
+1935,0_956,Vêtements,T-shirts,10.34,15
+1936,0_493,Vêtements,T-shirts,7.99,58
+1937,0_1908,Vêtements,T-shirts,15.21,21
+1938,0_1405,Vêtements,T-shirts,4.99,75
+1939,2_74,Montres,Montres connectées,120.22,80
+1940,0_187,Vêtements,T-shirts,1.99,38
+1941,0_1154,Vêtements,T-shirts,12.82,9
+1942,0_2202,Vêtements,T-shirts,8.12,55
+1943,1_304,Accessoires,Sacs à main,26.64,42
+1944,1_722,Accessoires,Sacs à main,33.3,61
+1945,2_72,Montres,Montres connectées,141.32,83
+1946,0_652,Vêtements,T-shirts,4.03,25
+1947,0_1497,Vêtements,T-shirts,30.99,2
+1948,1_689,Accessoires,Sacs à main,35.99,95
+1949,0_351,Vêtements,T-shirts,4.99,17
+1950,0_1632,Vêtements,T-shirts,9.21,75
+1951,1_217,Accessoires,Sacs à main,61.99,38
+1952,2_19,Montres,Montres connectées,69.99,93
+1953,0_2230,Vêtements,T-shirts,15.02,51
+1954,1_483,Accessoires,Sacs à main,15.99,19
+1955,0_1278,Vêtements,T-shirts,8.96,34
+1956,0_676,Vêtements,T-shirts,3.86,46
+1957,0_1762,Vêtements,T-shirts,16.82,74
+1958,0_1747,Vêtements,T-shirts,3.99,25
+1959,2_125,Montres,Montres connectées,231.99,23
+1960,1_290,Accessoires,Sacs à main,32.79,45
+1961,0_683,Vêtements,T-shirts,11.99,84
+1962,0_2078,Vêtements,T-shirts,14.6,5
+1963,0_1706,Vêtements,T-shirts,3.19,80
+1964,0_1536,Vêtements,T-shirts,6.59,75
+1965,0_1811,Vêtements,T-shirts,4.99,11
+1966,0_2087,Vêtements,T-shirts,26.99,18
+1967,0_386,Vêtements,T-shirts,19.42,78
+1968,0_917,Vêtements,T-shirts,10.99,56
+1969,0_163,Vêtements,T-shirts,7.99,1
+1970,0_141,Vêtements,T-shirts,2.99,19
+1971,0_531,Vêtements,T-shirts,7.99,9
+1972,0_91,Vêtements,T-shirts,0.99,75
+1973,0_869,Vêtements,T-shirts,9.99,76
+1974,0_1857,Vêtements,T-shirts,12.99,93
+1975,0_854,Vêtements,T-shirts,2.21,68
+1976,0_2044,Vêtements,T-shirts,5.28,58
+1977,0_1128,Vêtements,T-shirts,2.96,4
+1978,0_1806,Vêtements,T-shirts,1.61,84
+1979,0_1869,Vêtements,T-shirts,19.99,52
+1980,0_2208,Vêtements,T-shirts,10.95,98
+1981,0_432,Vêtements,T-shirts,26.46,28
+1982,0_546,Vêtements,T-shirts,3.43,29
+1983,0_914,Vêtements,T-shirts,12.02,39
+1984,0_724,Vêtements,T-shirts,21.78,83
+1985,0_1467,Vêtements,T-shirts,4.99,65
+1986,1_170,Accessoires,Sacs à main,14.22,11
+1987,0_1076,Vêtements,T-shirts,25.11,97
+1988,0_2211,Vêtements,T-shirts,9.99,87
+1989,0_1870,Vêtements,T-shirts,9.06,51
+1990,0_1882,Vêtements,T-shirts,15.95,70
+1991,1_256,Accessoires,Sacs à main,26.05,89
+1992,0_277,Vêtements,T-shirts,29.99,50
+1993,0_620,Vêtements,T-shirts,25.31,44
+1994,0_492,Vêtements,T-shirts,9.9,22
+1995,1_350,Accessoires,Sacs à main,20.83,80
+1996,0_1225,Vêtements,T-shirts,12.99,59
+1997,0_1113,Vêtements,T-shirts,16.99,90
+1998,2_25,Montres,Montres connectées,101.99,3
+1999,0_366,Vêtements,T-shirts,9.02,83
+2000,0_1339,Vêtements,T-shirts,8.99,50
+2001,0_1184,Vêtements,T-shirts,4.1,79
+2002,1_615,Accessoires,Sacs à main,23.99,59
+2003,2_154,Montres,Montres connectées,96.74,22
+2004,0_79,Vêtements,T-shirts,24.99,53
+2005,0_1793,Vêtements,T-shirts,3.99,85
+2006,0_728,Vêtements,T-shirts,30.58,10
+2007,0_418,Vêtements,T-shirts,7.69,30
+2008,1_737,Accessoires,Sacs à main,6.99,33
+2009,1_420,Accessoires,Sacs à main,7.12,88
+2010,0_276,Vêtements,T-shirts,1.81,46
+2011,1_79,Accessoires,Sacs à main,32.99,5
+2012,0_1996,Vêtements,T-shirts,19.48,28
+2013,1_408,Accessoires,Sacs à main,35.24,79
+2014,0_403,Vêtements,T-shirts,3.99,46
+2015,0_280,Vêtements,T-shirts,4.09,15
+2016,1_378,Accessoires,Sacs à main,26.61,44
+2017,0_1759,Vêtements,T-shirts,0.99,87
+2018,0_1786,Vêtements,T-shirts,19.2,52
+2019,0_2225,Vêtements,T-shirts,2.99,49
+2020,0_651,Vêtements,T-shirts,19.99,64
+2021,0_1562,Vêtements,T-shirts,14.73,23
+2022,0_938,Vêtements,T-shirts,11.79,88
+2023,0_29,Vêtements,T-shirts,13.99,56
+2024,0_212,Vêtements,T-shirts,13.82,60
+2025,0_387,Vêtements,T-shirts,16.99,32
+2026,0_885,Vêtements,T-shirts,8.99,56
+2027,0_1555,Vêtements,T-shirts,15.99,44
+2028,0_504,Vêtements,T-shirts,3.43,25
+2029,0_430,Vêtements,T-shirts,4.01,46
+2030,1_46,Accessoires,Sacs à main,37.1,80
+2031,1_126,Accessoires,Sacs à main,18.6,54
+2032,0_1299,Vêtements,T-shirts,6.99,97
+2033,0_1306,Vêtements,T-shirts,16.22,84
+2034,0_129,Vêtements,T-shirts,21.99,78
+2035,0_457,Vêtements,T-shirts,5.99,61
+2036,0_1664,Vêtements,T-shirts,25.72,17
+2037,0_1993,Vêtements,T-shirts,21.99,53
+2038,0_1720,Vêtements,T-shirts,8.65,80
+2039,1_490,Accessoires,Sacs à main,57.92,15
+2040,1_411,Accessoires,Sacs à main,32.99,44
+2041,0_285,Vêtements,T-shirts,13.99,44
+2042,1_390,Accessoires,Sacs à main,8.58,32
+2043,0_2149,Vêtements,T-shirts,2.99,46
+2044,0_1024,Vêtements,T-shirts,30.11,48
+2045,0_2287,Vêtements,T-shirts,2.99,94
+2046,1_60,Accessoires,Sacs à main,26.46,81
+2047,0_1064,Vêtements,T-shirts,4.57,81
+2048,0_2280,Vêtements,T-shirts,20.42,80
+2049,0_198,Vêtements,T-shirts,19.08,9
+2050,1_422,Accessoires,Sacs à main,30.76,96
+2051,0_1966,Vêtements,T-shirts,8.06,21
+2052,0_912,Vêtements,T-shirts,18.31,35
+2053,0_989,Vêtements,T-shirts,18.99,48
+2054,0_30,Vêtements,T-shirts,16.24,64
+2055,0_406,Vêtements,T-shirts,10.57,29
+2056,0_1774,Vêtements,T-shirts,11.54,90
+2057,1_368,Accessoires,Sacs à main,49.42,84
+2058,1_492,Accessoires,Sacs à main,45.78,80
+2059,0_1602,Vêtements,T-shirts,20.19,51
+2060,0_904,Vêtements,T-shirts,11.98,89
+2061,0_825,Vêtements,T-shirts,11.99,76
+2062,0_221,Vêtements,T-shirts,13.99,31
+2063,0_344,Vêtements,T-shirts,16.04,31
+2064,0_780,Vêtements,T-shirts,2.5,73
+2065,0_1537,Vêtements,T-shirts,5.99,63
+2066,0_210,Vêtements,T-shirts,1.87,40
+2067,0_2161,Vêtements,T-shirts,10.99,83
+2068,0_918,Vêtements,T-shirts,3.41,68
+2069,1_451,Accessoires,Sacs à main,20.99,47
+2070,0_1678,Vêtements,T-shirts,13.83,43
+2071,0_16,Vêtements,T-shirts,3.22,80
+2072,0_411,Vêtements,T-shirts,25.99,91
+2073,0_1531,Vêtements,T-shirts,6.99,80
+2074,0_821,Vêtements,T-shirts,12.99,74
+2075,0_716,Vêtements,T-shirts,26.69,76
+2076,0_2016,Vêtements,T-shirts,2.26,51
+2077,2_38,Montres,Montres connectées,93.48,2
+2078,0_2251,Vêtements,T-shirts,14.99,64
+2079,0_1229,Vêtements,T-shirts,6.99,14
+2080,0_1616,Vêtements,T-shirts,13.5,56
+2081,0_993,Vêtements,T-shirts,10.99,90
+2082,1_144,Accessoires,Sacs à main,45.09,53
+2083,1_464,Accessoires,Sacs à main,15.01,46
+2084,0_1121,Vêtements,T-shirts,19.99,96
+2085,1_603,Accessoires,Sacs à main,34.99,66
+2086,0_476,Vêtements,T-shirts,21.64,42
+2087,0_1258,Vêtements,T-shirts,17.94,9
+2088,0_855,Vêtements,T-shirts,7.99,32
+2089,0_485,Vêtements,T-shirts,12.99,67
+2090,0_347,Vêtements,T-shirts,17.99,16
+2091,0_573,Vêtements,T-shirts,34.99,91
+2092,1_540,Accessoires,Sacs à main,6.59,33
+2093,1_222,Accessoires,Sacs à main,23.17,98
+2094,0_1921,Vêtements,T-shirts,7.99,58
+2095,0_1047,Vêtements,T-shirts,6.99,12
+2096,0_1243,Vêtements,T-shirts,15.99,65
+2097,1_188,Accessoires,Sacs à main,12.54,49
+2098,0_817,Vêtements,T-shirts,15.99,59
+2099,0_838,Vêtements,T-shirts,18.02,80
+2100,1_225,Accessoires,Sacs à main,18.99,7
+2101,0_642,Vêtements,T-shirts,10.32,57
+2102,0_943,Vêtements,T-shirts,7.99,98
+2103,0_488,Vêtements,T-shirts,4.39,61
+2104,0_420,Vêtements,T-shirts,15.01,80
+2105,2_119,Montres,Montres connectées,164.99,29
+2106,0_331,Vêtements,T-shirts,19.99,35
+2107,0_234,Vêtements,T-shirts,25.43,7
+2108,0_66,Vêtements,T-shirts,7.11,71
+2109,2_21,Montres,Montres connectées,105.99,66
+2110,0_413,Vêtements,T-shirts,5.99,31
+2111,0_1950,Vêtements,T-shirts,2.5,18
+2112,0_1551,Vêtements,T-shirts,12.99,34
+2113,2_14,Montres,Montres connectées,136.07,92
+2114,0_1896,Vêtements,T-shirts,10.45,25
+2115,0_117,Vêtements,T-shirts,7.99,16
+2116,0_143,Vêtements,T-shirts,34.99,15
+2117,0_934,Vêtements,T-shirts,5.02,69
+2118,0_555,Vêtements,T-shirts,18.99,43
+2119,1_562,Accessoires,Sacs à main,40.5,5
+2120,1_253,Accessoires,Sacs à main,14.99,76
+2121,0_619,Vêtements,T-shirts,7.99,3
+2122,0_1512,Vêtements,T-shirts,5.29,61
+2123,0_2140,Vêtements,T-shirts,12.47,4
+2124,1_600,Accessoires,Sacs à main,33.08,67
+2125,0_1676,Vêtements,T-shirts,10.96,16
+2126,0_2179,Vêtements,T-shirts,7.99,10
+2127,2_199,Montres,Montres connectées,136.99,3
+2128,0_215,Vêtements,T-shirts,5.99,84
+2129,0_1406,Vêtements,T-shirts,2.5,98
+2130,0_167,Vêtements,T-shirts,25.99,79
+2131,0_294,Vêtements,T-shirts,13.83,76
+2132,0_1309,Vêtements,T-shirts,18.99,33
+2133,1_228,Accessoires,Sacs à main,51.71,92
+2134,1_161,Accessoires,Sacs à main,23.99,91
+2135,0_2062,Vêtements,T-shirts,16.01,91
+2136,0_1707,Vêtements,T-shirts,16.99,97
+2137,0_948,Vêtements,T-shirts,6.25,41
+2138,1_353,Accessoires,Sacs à main,26.99,69
+2139,0_633,Vêtements,T-shirts,16.99,47
+2140,0_301,Vêtements,T-shirts,8.99,79
+2141,0_1377,Vêtements,T-shirts,14.99,55
+2142,0_2032,Vêtements,T-shirts,23.32,61
+2143,0_1743,Vêtements,T-shirts,5.99,55
+2144,0_884,Vêtements,T-shirts,2.15,21
+2145,2_93,Montres,Montres connectées,78.99,49
+2146,0_76,Vêtements,T-shirts,8.59,45
+2147,1_415,Accessoires,Sacs à main,59.99,79
+2148,0_1705,Vêtements,T-shirts,22.99,76
+2149,0_599,Vêtements,T-shirts,10.99,50
+2150,0_983,Vêtements,T-shirts,12.99,79
+2151,0_618,Vêtements,T-shirts,3.08,60
+2152,0_1250,Vêtements,T-shirts,5.17,5
+2153,0_1821,Vêtements,T-shirts,13.99,33
+2154,2_73,Montres,Montres connectées,111.99,25
+2155,2_43,Montres,Montres connectées,69.99,43
+2156,0_1766,Vêtements,T-shirts,4.55,19
+2157,0_1503,Vêtements,T-shirts,15.99,34
+2158,0_13,Vêtements,T-shirts,7.99,19
+2159,0_2020,Vêtements,T-shirts,10.01,9
+2160,1_132,Accessoires,Sacs à main,14.41,29
+2161,1_316,Accessoires,Sacs à main,19.74,30
+2162,0_2175,Vêtements,T-shirts,18.99,96
+2163,2_90,Montres,Montres connectées,182.3,56
+2164,0_499,Vêtements,T-shirts,13.99,8
+2165,1_81,Accessoires,Sacs à main,33.99,59
+2166,0_828,Vêtements,T-shirts,11.36,6
+2167,0_1965,Vêtements,T-shirts,4.99,49
+2168,0_226,Vêtements,T-shirts,1.49,37
+2169,0_1347,Vêtements,T-shirts,5.99,63
+2170,1_234,Accessoires,Sacs à main,18.58,89
+2171,1_512,Accessoires,Sacs à main,35.06,11
+2172,0_690,Vêtements,T-shirts,4.9,22
+2173,1_469,Accessoires,Sacs à main,5.99,10
+2174,0_1648,Vêtements,T-shirts,2.77,77
+2175,0_467,Vêtements,T-shirts,13.99,2
+2176,0_542,Vêtements,T-shirts,18.18,68
+2177,0_1725,Vêtements,T-shirts,14.99,18
+2178,0_178,Vêtements,T-shirts,28.36,38
+2179,0_497,Vêtements,T-shirts,3.99,75
+2180,0_399,Vêtements,T-shirts,16.99,28
+2181,0_244,Vêtements,T-shirts,6.71,80
+2182,0_314,Vêtements,T-shirts,16.67,96
+2183,0_1681,Vêtements,T-shirts,13.99,40
+2184,2_26,Montres,Montres connectées,42.51,36
+2185,0_870,Vêtements,T-shirts,3.73,60
+2186,0_1785,Vêtements,T-shirts,8.99,6
+2187,0_1876,Vêtements,T-shirts,12.85,72
+2188,1_633,Accessoires,Sacs à main,3.99,46
+2189,0_653,Vêtements,T-shirts,3.99,49
+2190,0_545,Vêtements,T-shirts,6.99,31
+2191,0_1866,Vêtements,T-shirts,4.84,88
+2192,2_13,Montres,Montres connectées,50.99,27
+2193,0_1134,Vêtements,T-shirts,11.72,46
+2194,0_1372,Vêtements,T-shirts,1.78,31
+2195,0_2298,Vêtements,T-shirts,19.47,36
+2196,0_330,Vêtements,T-shirts,4.36,52
+2197,0_1135,Vêtements,T-shirts,26.99,69
+2198,0_206,Vêtements,T-shirts,5.43,81
+2199,1_417,Accessoires,Sacs à main,20.99,69
+2200,0_2029,Vêtements,T-shirts,3.99,41
+2201,1_294,Accessoires,Sacs à main,31.24,4
+2202,0_1799,Vêtements,T-shirts,9.99,20
+2203,1_725,Accessoires,Sacs à main,8.99,65
+2204,1_365,Accessoires,Sacs à main,13.99,68
+2205,0_128,Vêtements,T-shirts,18.61,92
+2206,2_153,Montres,Montres connectées,139.99,59
+2207,0_1246,Vêtements,T-shirts,7.01,17
+2208,1_312,Accessoires,Sacs à main,24.56,29
+2209,0_679,Vêtements,T-shirts,4.99,95
+2210,0_1782,Vêtements,T-shirts,11.13,59
+2211,0_1787,Vêtements,T-shirts,4.99,58
+2212,0_384,Vêtements,T-shirts,6.78,46
+2213,0_2201,Vêtements,T-shirts,20.99,11
+2214,0_310,Vêtements,T-shirts,1.94,73
+2215,0_702,Vêtements,T-shirts,4.41,41
+2216,0_2213,Vêtements,T-shirts,10.99,44
+2217,1_414,Accessoires,Sacs à main,23.83,96
+2218,0_2192,Vêtements,T-shirts,16.87,56
+2219,0_1215,Vêtements,T-shirts,31.99,75
+2220,0_1429,Vêtements,T-shirts,7.99,63
+2221,0_2264,Vêtements,T-shirts,9.93,53
+2222,1_42,Accessoires,Sacs à main,46.37,12
+2223,0_424,Vêtements,T-shirts,14.99,27
+2224,0_933,Vêtements,T-shirts,8.99,98
+2225,0_572,Vêtements,T-shirts,13.7,33
+2226,0_286,Vêtements,T-shirts,3.75,5
+2227,0_1492,Vêtements,T-shirts,26.65,72
+2228,0_1408,Vêtements,T-shirts,1.01,56
+2229,0_1391,Vêtements,T-shirts,7.99,49
+2230,2_177,Montres,Montres connectées,88.99,95
+2231,0_696,Vêtements,T-shirts,1.67,97
+2232,0_1607,Vêtements,T-shirts,3.99,18
+2233,0_228,Vêtements,T-shirts,7.62,97
+2234,1_169,Accessoires,Sacs à main,19.99,69
+2235,0_1868,Vêtements,T-shirts,5.27,9
+2236,0_334,Vêtements,T-shirts,2.27,4
+2237,0_101,Vêtements,T-shirts,12.99,35
+2238,0_789,Vêtements,T-shirts,7.99,90
+2239,0_643,Vêtements,T-shirts,0.99,31
+2240,0_1147,Vêtements,T-shirts,6.99,4
+2241,1_676,Accessoires,Sacs à main,19.5,28
+2242,0_1874,Vêtements,T-shirts,3.09,25
+2243,0_554,Vêtements,T-shirts,29.22,99
+2244,0_1847,Vêtements,T-shirts,8.99,34
+2245,0_1288,Vêtements,T-shirts,9.55,28
+2246,0_1150,Vêtements,T-shirts,24.4,1
+2247,0_1268,Vêtements,T-shirts,6.29,49
+2248,1_160,Accessoires,Sacs à main,18.21,37
+2249,1_27,Accessoires,Sacs à main,14.99,97
+2250,0_246,Vêtements,T-shirts,3.97,62
+2251,1_320,Accessoires,Sacs à main,27.46,34
+2252,0_1997,Vêtements,T-shirts,3.99,87
+2253,1_650,Accessoires,Sacs à main,44.15,42
+2254,1_232,Accessoires,Sacs à main,12.22,51
+2255,0_1884,Vêtements,T-shirts,5.38,7
+2256,0_1426,Vêtements,T-shirts,13.44,39
+2257,0_2129,Vêtements,T-shirts,5.99,98
+2258,1_177,Accessoires,Sacs à main,43.99,59
+2259,0_543,Vêtements,T-shirts,7.99,34
+2260,1_298,Accessoires,Sacs à main,49.1,34
+2261,0_1944,Vêtements,T-shirts,13.57,2
+2262,1_210,Accessoires,Sacs à main,28.65,11
+2263,2_41,Montres,Montres connectées,68.99,25
+2264,0_1279,Vêtements,T-shirts,20.99,74
+2265,1_569,Accessoires,Sacs à main,46.99,55
+2266,0_140,Vêtements,T-shirts,3.09,62
+2267,1_528,Accessoires,Sacs à main,33.53,45
+2268,1_206,Accessoires,Sacs à main,33.09,81
+2269,0_737,Vêtements,T-shirts,20.99,5
+2270,0_1282,Vêtements,T-shirts,5.67,38
+2271,0_528,Vêtements,T-shirts,0.62,51
+2272,0_915,Vêtements,T-shirts,18.99,52
+2273,2_227,Montres,Montres connectées,50.99,94
+2274,0_1826,Vêtements,T-shirts,13.48,51
+2275,0_1754,Vêtements,T-shirts,15.2,85
+2276,0_1898,Vêtements,T-shirts,2.45,29
+2277,1_631,Accessoires,Sacs à main,14.99,88
+2278,0_961,Vêtements,T-shirts,23.99,38
+2279,2_114,Montres,Montres connectées,85.89,59
+2280,0_24,Vêtements,T-shirts,5.35,4
+2281,0_1414,Vêtements,T-shirts,19.38,60
+2282,0_1704,Vêtements,T-shirts,11.61,43
+2283,0_1930,Vêtements,T-shirts,5.97,64
+2284,1_242,Accessoires,Sacs à main,16.31,16
+2285,0_31,Vêtements,T-shirts,13.99,6
+2286,0_108,Vêtements,T-shirts,13.93,55
+2287,1_435,Accessoires,Sacs à main,11.99,44
+2288,0_1520,Vêtements,T-shirts,9.32,66
+2289,1_444,Accessoires,Sacs à main,12.61,66
+2290,0_1585,Vêtements,T-shirts,4.99,44
+2291,2_18,Montres,Montres connectées,129.11,40
+2292,1_497,Accessoires,Sacs à main,49.99,14
+2293,0_1995,Vêtements,T-shirts,27.99,18
+2294,0_2109,Vêtements,T-shirts,12.99,64
+2295,0_1034,Vêtements,T-shirts,14.38,9
+2296,0_417,Vêtements,T-shirts,4.99,53
+2297,1_162,Accessoires,Sacs à main,19.58,45
+2298,0_2051,Vêtements,T-shirts,22.99,54
+2299,0_2114,Vêtements,T-shirts,6.06,21
+2300,1_703,Accessoires,Sacs à main,9.99,65
+2301,0_1364,Vêtements,T-shirts,0.81,91
+2302,1_156,Accessoires,Sacs à main,32.67,24
+2303,2_220,Montres,Montres connectées,130.8,54
+2304,1_505,Accessoires,Sacs à main,16.99,8
+2305,0_1490,Vêtements,T-shirts,10.4,75
+2306,0_1541,Vêtements,T-shirts,11.99,7
+2307,2_66,Montres,Montres connectées,150.72,52
+2308,1_584,Accessoires,Sacs à main,9.73,24
+2309,0_1732,Vêtements,T-shirts,24.95,15
+2310,0_1208,Vêtements,T-shirts,5.65,42
+2311,0_1634,Vêtements,T-shirts,5.8,69
+2312,0_1479,Vêtements,T-shirts,15.99,84
+2313,0_1300,Vêtements,T-shirts,20.91,95
+2314,0_971,Vêtements,T-shirts,9.99,76
+2315,0_2136,Vêtements,T-shirts,16.42,92
+2316,0_1968,Vêtements,T-shirts,4.35,20
+2317,1_193,Accessoires,Sacs à main,40.99,47
+2318,0_964,Vêtements,T-shirts,1.61,48
+2319,1_668,Accessoires,Sacs à main,33.17,81
+2320,0_2075,Vêtements,T-shirts,8.99,86
+2321,0_725,Vêtements,T-shirts,10.99,17
+2322,1_43,Accessoires,Sacs à main,23.99,35
+2323,1_514,Accessoires,Sacs à main,67.66,42
+2324,0_1893,Vêtements,T-shirts,18.99,93
+2325,0_580,Vêtements,T-shirts,4.13,96
+2326,1_439,Accessoires,Sacs à main,38.99,37
+2327,0_133,Vêtements,T-shirts,5.99,76
+2328,0_1588,Vêtements,T-shirts,24.39,2
+2329,0_1666,Vêtements,T-shirts,8.78,60
+2330,0_536,Vêtements,T-shirts,3.26,99
+2331,0_913,Vêtements,T-shirts,14.99,89
+2332,0_753,Vêtements,T-shirts,7.99,59
+2333,0_1466,Vêtements,T-shirts,23.58,36
+2334,0_1222,Vêtements,T-shirts,6.99,76
+2335,0_582,Vêtements,T-shirts,11.86,9
+2336,0_658,Vêtements,T-shirts,30.66,15
+2337,1_405,Accessoires,Sacs à main,7.99,43
+2338,1_647,Accessoires,Sacs à main,29.99,52
+2339,0_1432,Vêtements,T-shirts,15.36,16
+2340,0_1241,Vêtements,T-shirts,1.99,42
+2341,0_402,Vêtements,T-shirts,4.95,84
+2342,2_104,Montres,Montres connectées,43.35,44
+2343,0_165,Vêtements,T-shirts,13.99,8
+2344,0_1254,Vêtements,T-shirts,5.22,3
+2345,2_102,Montres,Montres connectées,59.14,16
+2346,0_941,Vêtements,T-shirts,14.99,42
+2347,0_270,Vêtements,T-shirts,2.29,31
+2348,0_503,Vêtements,T-shirts,18.99,96
+2349,2_132,Montres,Montres connectées,166.21,96
+2350,0_509,Vêtements,T-shirts,5.99,89
+2351,0_982,Vêtements,T-shirts,13.61,59
+2352,0_717,Vêtements,T-shirts,8.99,46
+2353,0_647,Vêtements,T-shirts,4.99,22
+2354,0_202,Vêtements,T-shirts,0.62,41
+2355,0_404,Vêtements,T-shirts,28.77,14
+2356,0_2167,Vêtements,T-shirts,15.99,75
+2357,1_641,Accessoires,Sacs à main,9.99,21
+2358,0_1561,Vêtements,T-shirts,5.99,75
+2359,0_1460,Vêtements,T-shirts,4.59,88
+2360,0_1447,Vêtements,T-shirts,4.99,27
+2361,0_624,Vêtements,T-shirts,6.6,34
+2362,2_65,Montres,Montres connectées,99.99,79
+2363,0_577,Vêtements,T-shirts,9.99,57
+2364,0_1453,Vêtements,T-shirts,7.99,89
+2365,1_58,Accessoires,Sacs à main,2.95,3
+2366,1_589,Accessoires,Sacs à main,20.99,66
+2367,0_1577,Vêtements,T-shirts,2.99,74
+2368,0_1218,Vêtements,T-shirts,3.32,14
+2369,0_819,Vêtements,T-shirts,3.99,86
+2370,2_51,Montres,Montres connectées,84.99,82
+2371,0_692,Vêtements,T-shirts,3.74,92
+2372,0_1063,Vêtements,T-shirts,5.99,65
+2373,0_295,Vêtements,T-shirts,15.99,37
+2374,0_2090,Vêtements,T-shirts,11.46,96
+2375,0_1471,Vêtements,T-shirts,12.99,79
+2376,0_1963,Vêtements,T-shirts,9.99,76
+2377,1_119,Accessoires,Sacs à main,31.99,78
+2378,1_248,Accessoires,Sacs à main,10.75,8
+2379,0_919,Vêtements,T-shirts,18.99,23
+2380,0_1501,Vêtements,T-shirts,11.99,34
+2381,0_640,Vêtements,T-shirts,13.09,49
+2382,1_191,Accessoires,Sacs à main,16.99,29
+2383,1_530,Accessoires,Sacs à main,18.55,99
+2384,1_527,Accessoires,Sacs à main,19.99,71
+2385,0_1606,Vêtements,T-shirts,17.4,23
+2386,1_151,Accessoires,Sacs à main,41.99,44
+2387,1_268,Accessoires,Sacs à main,8.37,48
+2388,0_1814,Vêtements,T-shirts,20.45,60
+2389,0_2042,Vêtements,T-shirts,6.59,2
+2390,2_221,Montres,Montres connectées,90.99,66
+2391,0_1818,Vêtements,T-shirts,8.99,88
+2392,0_401,Vêtements,T-shirts,26.99,69
+2393,0_1790,Vêtements,T-shirts,15.11,78
+2394,2_111,Montres,Montres connectées,114.99,62
+2395,0_1087,Vêtements,T-shirts,29.99,56
+2396,0_704,Vêtements,T-shirts,16.92,20
+2397,2_169,Montres,Montres connectées,111.99,45
+2398,0_47,Vêtements,T-shirts,4.99,61
+2399,1_423,Accessoires,Sacs à main,8.99,86
+2400,0_1226,Vêtements,T-shirts,9.97,59
+2401,0_857,Vêtements,T-shirts,6.99,28
+2402,1_533,Accessoires,Sacs à main,11.99,8
+2403,2_39,Montres,Montres connectées,57.99,59
+2404,0_1654,Vêtements,T-shirts,14.13,2
+2405,0_416,Vêtements,T-shirts,18.56,26
+2406,0_1737,Vêtements,T-shirts,26.99,32
+2407,0_1624,Vêtements,T-shirts,24.5,39
+2408,0_2177,Vêtements,T-shirts,34.99,43
+2409,0_625,Vêtements,T-shirts,16.99,1
+2410,0_7,Vêtements,T-shirts,7.99,25
+2411,0_1459,Vêtements,T-shirts,0.99,25
+2412,0_1295,Vêtements,T-shirts,10.99,39
+2413,0_786,Vêtements,T-shirts,7.53,58
+2414,1_322,Accessoires,Sacs à main,51.6,29
+2415,0_1167,Vêtements,T-shirts,8.99,81
+2416,0_1362,Vêtements,T-shirts,11.3,69
+2417,0_1036,Vêtements,T-shirts,7.56,69
+2418,0_1612,Vêtements,T-shirts,13.54,49
+2419,2_63,Montres,Montres connectées,124.99,54
+2420,1_467,Accessoires,Sacs à main,8.99,15
+2421,1_233,Accessoires,Sacs à main,43.99,52
+2422,0_478,Vêtements,T-shirts,14.84,74
+2423,1_621,Accessoires,Sacs à main,17.99,86
+2424,0_612,Vêtements,T-shirts,0.88,43
+2425,1_112,Accessoires,Sacs à main,6.62,15
+2426,1_55,Accessoires,Sacs à main,7.99,3
+2427,0_1441,Vêtements,T-shirts,18.99,94
+2428,2_24,Montres,Montres connectées,96.88,60
+2429,1_449,Accessoires,Sacs à main,14.99,37
+2430,1_376,Accessoires,Sacs à main,17.49,26
+2431,2_208,Montres,Montres connectées,54.87,32
+2432,0_922,Vêtements,T-shirts,12.95,83
+2433,1_588,Accessoires,Sacs à main,12.62,99
+2434,0_2220,Vêtements,T-shirts,2.41,17
+2435,0_706,Vêtements,T-shirts,3.41,31
+2436,0_429,Vêtements,T-shirts,1.99,69
+2437,0_241,Vêtements,T-shirts,8.99,54
+2438,0_655,Vêtements,T-shirts,9.99,31
+2439,0_40,Vêtements,T-shirts,8.03,41
+2440,0_747,Vêtements,T-shirts,6.99,85
+2441,1_655,Accessoires,Sacs à main,5.99,13
+2442,0_827,Vêtements,T-shirts,17.99,57
+2443,2_207,Montres,Montres connectées,50.99,63
+2444,0_1776,Vêtements,T-shirts,21.16,89
+2445,2_186,Montres,Montres connectées,84.96,19
+2446,0_1865,Vêtements,T-shirts,15.99,49
+2447,1_176,Accessoires,Sacs à main,58.54,9
+2448,0_1784,Vêtements,T-shirts,19.84,20
+2449,0_319,Vêtements,T-shirts,19.99,59
+2450,0_1928,Vêtements,T-shirts,9.96,52
+2451,0_468,Vêtements,T-shirts,17.89,83
+2452,1_738,Accessoires,Sacs à main,18.73,29
+2453,0_1476,Vêtements,T-shirts,15.66,96
+2454,0_1248,Vêtements,T-shirts,7.49,22
+2455,0_1591,Vêtements,T-shirts,9.99,15
+2456,0_1072,Vêtements,T-shirts,14.82,61
+2457,0_525,Vêtements,T-shirts,2.99,96
+2458,1_131,Accessoires,Sacs à main,6.99,41
+2459,0_659,Vêtements,T-shirts,21.99,60
+2460,2_110,Montres,Montres connectées,62.25,79
+2461,1_80,Accessoires,Sacs à main,28.66,61
+2462,0_1478,Vêtements,T-shirts,2.09,89
+2463,2_3,Montres,Montres connectées,202.99,22
+2464,0_1675,Vêtements,T-shirts,23.99,7
+2465,0_1249,Vêtements,T-shirts,12.99,29
+2466,0_759,Vêtements,T-shirts,22.99,65
+2467,0_1633,Vêtements,T-shirts,24.99,43
+2468,0_2183,Vêtements,T-shirts,8.99,73
+2469,0_862,Vêtements,T-shirts,1.84,57
+2470,0_814,Vêtements,T-shirts,3.25,41
+2471,2_156,Montres,Montres connectées,188.48,7
+2472,0_824,Vêtements,T-shirts,4.45,49
+2473,0_860,Vêtements,T-shirts,13.82,5
+2474,0_35,Vêtements,T-shirts,13.99,58
+2475,0_1285,Vêtements,T-shirts,4.99,33
+2476,0_454,Vêtements,T-shirts,14.23,28
+2477,0_230,Vêtements,T-shirts,5.63,75
+2478,0_634,Vêtements,T-shirts,11.92,78
+2479,0_1450,Vêtements,T-shirts,7.43,94
+2480,0_768,Vêtements,T-shirts,3.53,16
+2481,0_2241,Vêtements,T-shirts,10.99,51
+2482,0_1464,Vêtements,T-shirts,8.27,65
+2483,0_773,Vêtements,T-shirts,5.99,24
+2484,0_2033,Vêtements,T-shirts,14.99,7
+2485,0_1801,Vêtements,T-shirts,3.99,8
+2486,2_166,Montres,Montres connectées,230.04,93
+2487,0_837,Vêtements,T-shirts,5.99,83
+2488,0_1716,Vêtements,T-shirts,2.19,61
+2489,1_149,Accessoires,Sacs à main,5.99,9
+2490,0_1709,Vêtements,T-shirts,5.99,77
+2491,1_195,Accessoires,Sacs à main,35.99,9
+2492,0_1855,Vêtements,T-shirts,1.99,63
+2493,1_75,Accessoires,Sacs à main,23.99,25
+2494,0_1758,Vêtements,T-shirts,12.64,30
+2495,1_36,Accessoires,Sacs à main,2.64,73
+2496,1_59,Accessoires,Sacs à main,8.99,43
+2497,0_237,Vêtements,T-shirts,11.99,56
+2498,0_2144,Vêtements,T-shirts,1.25,91
+2499,1_381,Accessoires,Sacs à main,15.99,88
+2500,0_535,Vêtements,T-shirts,4.99,84
+2501,0_1424,Vêtements,T-shirts,8.41,48
+2502,0_597,Vêtements,T-shirts,4.99,43
+2503,0_1066,Vêtements,T-shirts,9.44,54
+2504,0_549,Vêtements,T-shirts,2.99,20
+2505,1_529,Accessoires,Sacs à main,17.99,41
+2506,0_2261,Vêtements,T-shirts,6.99,62
+2507,2_70,Montres,Montres connectées,129.74,4
+2508,0_1677,Vêtements,T-shirts,10.99,52
+2509,0_15,Vêtements,T-shirts,12.99,76
+2510,0_354,Vêtements,T-shirts,5.71,16
+2511,1_180,Accessoires,Sacs à main,5.55,59
+2512,1_554,Accessoires,Sacs à main,43.09,3
+2513,0_2025,Vêtements,T-shirts,8.99,14
+2514,0_1657,Vêtements,T-shirts,14.99,16
+2515,0_1331,Vêtements,T-shirts,29.99,25
+2516,0_2112,Vêtements,T-shirts,22.08,87
+2517,2_116,Montres,Montres connectées,46.31,32
+2518,1_167,Accessoires,Sacs à main,10.99,11
+2519,0_616,Vêtements,T-shirts,2.35,22
+2520,0_1008,Vêtements,T-shirts,4.73,7
+2521,1_727,Accessoires,Sacs à main,16.99,72
+2522,0_12,Vêtements,T-shirts,13.48,48
+2523,0_1263,Vêtements,T-shirts,22.99,89
+2524,2_86,Montres,Montres connectées,132.36,67
+2525,0_2257,Vêtements,T-shirts,22.99,56
+2526,0_184,Vêtements,T-shirts,23.16,94
+2527,0_2070,Vêtements,T-shirts,2.41,38
+2528,0_2253,Vêtements,T-shirts,22.99,58
+2529,0_1233,Vêtements,T-shirts,21.99,46
+2530,0_1734,Vêtements,T-shirts,15.33,19
+2531,0_1653,Vêtements,T-shirts,0.99,21
+2532,0_83,Vêtements,T-shirts,2.99,35
+2533,0_1452,Vêtements,T-shirts,13.77,15
+2534,0_1922,Vêtements,T-shirts,3.94,76
+2535,0_1201,Vêtements,T-shirts,10.99,25
+2536,0_2121,Vêtements,T-shirts,24.99,82
+2537,0_2063,Vêtements,T-shirts,7.99,50
+2538,0_309,Vêtements,T-shirts,3.99,54
+2539,0_660,Vêtements,T-shirts,20.16,21
+2540,0_225,Vêtements,T-shirts,16.99,53
+2541,0_307,Vêtements,T-shirts,8.99,71
+2542,0_601,Vêtements,T-shirts,9.99,73
+2543,0_1599,Vêtements,T-shirts,16.99,4
+2544,1_158,Accessoires,Sacs à main,22.17,77
+2545,0_217,Vêtements,T-shirts,1.99,27
+2546,0_1964,Vêtements,T-shirts,8.19,1
+2547,0_2012,Vêtements,T-shirts,3.69,30
+2548,2_204,Montres,Montres connectées,91.82,79
+2549,0_874,Vêtements,T-shirts,11.85,48
+2550,0_2165,Vêtements,T-shirts,15.99,82
+2551,0_2240,Vêtements,T-shirts,3.67,16
+2552,0_1410,Vêtements,T-shirts,14.85,70
+2553,0_1650,Vêtements,T-shirts,20.18,92
+2554,0_812,Vêtements,T-shirts,3.77,19
+2555,0_1825,Vêtements,T-shirts,3.99,67
+2556,0_1302,Vêtements,T-shirts,2.92,59
+2557,2_57,Montres,Montres connectées,130.99,84
+2558,2_42,Montres,Montres connectées,120.61,34
+2559,0_1708,Vêtements,T-shirts,26.44,37
+2560,2_44,Montres,Montres connectées,70.92,51
+2561,1_645,Accessoires,Sacs à main,60.99,54
+2562,0_592,Vêtements,T-shirts,8.71,90
+2563,0_649,Vêtements,T-shirts,9.99,44
+2564,0_1237,Vêtements,T-shirts,24.99,60
+2565,1_574,Accessoires,Sacs à main,33.2,67
+2566,0_2176,Vêtements,T-shirts,13.05,67
+2567,2_29,Montres,Montres connectées,142.99,46
+2568,0_477,Vêtements,T-shirts,2.99,60
+2569,0_615,Vêtements,T-shirts,3.99,77
+2570,0_879,Vêtements,T-shirts,9.99,61
+2571,0_1420,Vêtements,T-shirts,11.53,48
+2572,0_60,Vêtements,T-shirts,37.64,77
+2573,0_750,Vêtements,T-shirts,23.74,25
+2574,0_1630,Vêtements,T-shirts,12.48,13
+2575,2_96,Montres,Montres connectées,47.91,9
+2576,0_339,Vêtements,T-shirts,3.99,67
+2577,1_66,Accessoires,Sacs à main,9.56,85
+2578,0_1097,Vêtements,T-shirts,11.99,33
+2579,0_1517,Vêtements,T-shirts,17.99,32
+2580,1_336,Accessoires,Sacs à main,23.56,1
+2581,0_2195,Vêtements,T-shirts,26.99,95
+2582,1_240,Accessoires,Sacs à main,9.22,87
+2583,0_1819,Vêtements,T-shirts,23.99,48
+2584,0_2023,Vêtements,T-shirts,14.99,64
+2585,0_458,Vêtements,T-shirts,6.75,65
+2586,1_104,Accessoires,Sacs à main,37.12,59
+2587,1_412,Accessoires,Sacs à main,16.65,36
+2588,0_1767,Vêtements,T-shirts,12.99,76
+2589,0_598,Vêtements,T-shirts,17.67,78
+2590,0_730,Vêtements,T-shirts,11.52,30
+2591,0_1926,Vêtements,T-shirts,10.99,74
+2592,0_157,Vêtements,T-shirts,19.99,34
+2593,0_1037,Vêtements,T-shirts,20.99,1
+2594,1_352,Accessoires,Sacs à main,19.57,92
+2595,0_2113,Vêtements,T-shirts,12.99,52
+2596,0_1511,Vêtements,T-shirts,0.99,31
+2597,1_32,Accessoires,Sacs à main,14.79,49
+2598,0_2022,Vêtements,T-shirts,7.73,47
+2599,1_509,Accessoires,Sacs à main,9.99,16
+2600,0_89,Vêtements,T-shirts,14.99,25
+2601,0_428,Vêtements,T-shirts,7.01,65
+2602,0_2009,Vêtements,T-shirts,3.99,72
+2603,1_175,Accessoires,Sacs à main,6.99,58
+2604,1_305,Accessoires,Sacs à main,29.99,65
+2605,0_1296,Vêtements,T-shirts,5.83,93
+2606,1_695,Accessoires,Sacs à main,26.99,30
+2607,0_1942,Vêtements,T-shirts,15.36,63
+2608,1_26,Accessoires,Sacs à main,36.01,19
+2609,1_714,Accessoires,Sacs à main,5.0,73
+2610,1_710,Accessoires,Sacs à main,27.94,72
+2611,2_59,Montres,Montres connectées,104.99,88
+2612,0_186,Vêtements,T-shirts,2.0,5
+2613,0_365,Vêtements,T-shirts,6.99,81
+2614,0_25,Vêtements,T-shirts,2.99,28
+2615,0_1597,Vêtements,T-shirts,33.99,5
+2616,0_1449,Vêtements,T-shirts,4.99,14
+2617,0_1935,Vêtements,T-shirts,0.99,42
+2618,1_658,Accessoires,Sacs à main,7.72,98
+2619,0_392,Vêtements,T-shirts,26.17,12
+2620,1_163,Accessoires,Sacs à main,35.99,69
+2621,0_1335,Vêtements,T-shirts,17.99,9
+2622,0_1369,Vêtements,T-shirts,30.99,4
+2623,0_2007,Vêtements,T-shirts,9.99,56
+2624,1_429,Accessoires,Sacs à main,49.99,95
+2625,0_995,Vêtements,T-shirts,10.99,74
+2626,0_364,Vêtements,T-shirts,15.5,14
+2627,0_1663,Vêtements,T-shirts,5.99,92
+2628,0_2193,Vêtements,T-shirts,23.99,76
+2629,0_1686,Vêtements,T-shirts,17.64,80
+2630,0_672,Vêtements,T-shirts,5.76,46
+2631,0_37,Vêtements,T-shirts,1.99,64
+2632,0_910,Vêtements,T-shirts,15.92,5
+2633,0_1260,Vêtements,T-shirts,10.35,66
+2634,0_1983,Vêtements,T-shirts,4.99,99
+2635,0_923,Vêtements,T-shirts,3.99,12
+2636,0_1143,Vêtements,T-shirts,9.99,5
+2637,0_1863,Vêtements,T-shirts,10.99,71
+2638,0_1572,Vêtements,T-shirts,8.61,22
+2639,0_1831,Vêtements,T-shirts,6.99,15
+2640,0_532,Vêtements,T-shirts,12.71,52
+2641,0_1753,Vêtements,T-shirts,10.99,88
+2642,1_427,Accessoires,Sacs à main,32.99,99
+2643,0_1049,Vêtements,T-shirts,12.99,64
+2644,0_20,Vêtements,T-shirts,13.53,96
+2645,0_848,Vêtements,T-shirts,1.73,19
+2646,1_369,Accessoires,Sacs à main,23.99,43
+2647,0_1198,Vêtements,T-shirts,11.59,57
+2648,0_175,Vêtements,T-shirts,15.99,61
+2649,0_179,Vêtements,T-shirts,22.99,31
+2650,0_45,Vêtements,T-shirts,2.99,76
+2651,1_12,Accessoires,Sacs à main,18.19,33
+2652,0_729,Vêtements,T-shirts,28.99,7
+2653,1_83,Accessoires,Sacs à main,16.99,74
+2654,1_15,Accessoires,Sacs à main,16.99,65
+2655,1_38,Accessoires,Sacs à main,9.1,71
+2656,1_525,Accessoires,Sacs à main,36.99,72
+2657,0_1383,Vêtements,T-shirts,12.99,66
+2658,1_386,Accessoires,Sacs à main,5.73,11
+2659,0_1956,Vêtements,T-shirts,13.05,9
+2660,0_251,Vêtements,T-shirts,6.99,50
+2661,0_1991,Vêtements,T-shirts,23.99,49
+2662,0_1581,Vêtements,T-shirts,37.99,3
+2663,0_1901,Vêtements,T-shirts,10.99,1
+2664,1_563,Accessoires,Sacs à main,5.99,84
+2665,1_16,Accessoires,Sacs à main,63.92,80
+2666,0_2269,Vêtements,T-shirts,6.99,13
+2667,0_1495,Vêtements,T-shirts,22.99,20
+2668,1_211,Accessoires,Sacs à main,37.99,48
+2669,0_2145,Vêtements,T-shirts,10.99,80
+2670,2_135,Montres,Montres connectées,68.99,64
+2671,0_1683,Vêtements,T-shirts,2.99,1
+2672,0_1337,Vêtements,T-shirts,21.99,78
+2673,0_43,Vêtements,T-shirts,2.99,74
+2674,0_1146,Vêtements,T-shirts,20.42,19
+2675,0_1524,Vêtements,T-shirts,13.94,87
+2676,0_1396,Vêtements,T-shirts,9.57,30
+2677,0_2273,Vêtements,T-shirts,24.99,22
+2678,0_1032,Vêtements,T-shirts,21.6,37
+2679,2_200,Montres,Montres connectées,115.75,27
+2680,0_1535,Vêtements,T-shirts,1.99,90
+2681,1_539,Accessoires,Sacs à main,49.99,72
+2682,0_1029,Vêtements,T-shirts,7.99,57
+2683,0_937,Vêtements,T-shirts,10.99,99
+2684,0_1481,Vêtements,T-shirts,3.99,55
+2685,0_311,Vêtements,T-shirts,6.99,96
+2686,0_671,Vêtements,T-shirts,8.99,60
+2687,0_2178,Vêtements,T-shirts,9.22,85
+2688,0_367,Vêtements,T-shirts,8.99,98
+2689,0_299,Vêtements,T-shirts,22.99,53
+2690,0_10,Vêtements,T-shirts,17.95,34
+2691,0_1404,Vêtements,T-shirts,6.84,45
+2692,1_730,Accessoires,Sacs à main,22.65,45
+2693,0_160,Vêtements,T-shirts,9.12,84
+2694,0_2041,Vêtements,T-shirts,15.99,8
+2695,1_580,Accessoires,Sacs à main,21.09,87
+2696,0_426,Vêtements,T-shirts,9.02,2
+2697,2_97,Montres,Montres connectées,160.99,35
+2698,0_391,Vêtements,T-shirts,8.99,5
+2699,1_436,Accessoires,Sacs à main,11.76,65
+2700,0_818,Vêtements,T-shirts,19.27,4
+2701,0_185,Vêtements,T-shirts,11.99,93
+2702,0_2266,Vêtements,T-shirts,7.7,43
+2703,0_977,Vêtements,T-shirts,7.99,99
+2704,0_1305,Vêtements,T-shirts,21.99,62
+2705,0_1023,Vêtements,T-shirts,4.99,1
+2706,1_63,Accessoires,Sacs à main,16.99,9
+2707,0_109,Vêtements,T-shirts,4.99,67
+2708,1_297,Accessoires,Sacs à main,56.99,11
+2709,0_1817,Vêtements,T-shirts,20.99,94
+2710,0_1026,Vêtements,T-shirts,9.65,53
+2711,0_273,Vêtements,T-shirts,4.99,74
+2712,1_501,Accessoires,Sacs à main,41.99,59
+2713,0_558,Vêtements,T-shirts,13.29,88
+2714,1_567,Accessoires,Sacs à main,11.99,46
+2715,0_1498,Vêtements,T-shirts,2.48,18
+2716,0_1165,Vêtements,T-shirts,2.99,40
+2717,0_1156,Vêtements,T-shirts,12.79,58
+2718,0_1961,Vêtements,T-shirts,3.99,81
+2719,0_74,Vêtements,T-shirts,16.0,49
+2720,1_452,Accessoires,Sacs à main,40.8,32
+2721,0_2027,Vêtements,T-shirts,21.99,74
+2722,0_255,Vêtements,T-shirts,16.99,22
+2723,0_839,Vêtements,T-shirts,9.99,66
+2724,0_1992,Vêtements,T-shirts,14.42,97
+2725,1_204,Accessoires,Sacs à main,6.73,31
+2726,1_680,Accessoires,Sacs à main,6.2,99
+2727,1_141,Accessoires,Sacs à main,22.99,33
+2728,0_437,Vêtements,T-shirts,4.99,99
+2729,0_1276,Vêtements,T-shirts,23.17,99
+2730,0_1381,Vêtements,T-shirts,5.99,86
+2731,0_479,Vêtements,T-shirts,10.99,42
+2732,2_194,Montres,Montres connectées,138.53,22
+2733,0_1579,Vêtements,T-shirts,3.99,12
+2734,0_1283,Vêtements,T-shirts,0.99,13
+2735,0_1994,Vêtements,T-shirts,4.98,66
+2736,0_447,Vêtements,T-shirts,20.99,10
+2737,0_1428,Vêtements,T-shirts,3.55,48
+2738,0_1914,Vêtements,T-shirts,21.44,39
+2739,0_1438,Vêtements,T-shirts,9.31,89
+2740,0_865,Vêtements,T-shirts,1.99,93
+2741,0_1425,Vêtements,T-shirts,12.99,35
+2742,1_561,Accessoires,Sacs à main,30.99,88
+2743,1_123,Accessoires,Sacs à main,2.99,63
+2744,1_301,Accessoires,Sacs à main,27.99,4
+2745,0_1500,Vêtements,T-shirts,21.61,65
+2746,0_1041,Vêtements,T-shirts,1.99,48
+2747,0_1042,Vêtements,T-shirts,18.53,22
+2748,1_517,Accessoires,Sacs à main,5.99,60
+2749,0_72,Vêtements,T-shirts,9.84,11
+2750,0_1552,Vêtements,T-shirts,0.98,6
+2751,0_788,Vêtements,T-shirts,10.97,7
+2752,0_2255,Vêtements,T-shirts,13.99,12
+2753,0_182,Vêtements,T-shirts,11.04,86
+2754,0_1312,Vêtements,T-shirts,22.71,86
+2755,0_1570,Vêtements,T-shirts,2.56,84
+2756,0_1035,Vêtements,T-shirts,3.99,66
+2757,0_949,Vêtements,T-shirts,10.99,87
+2758,0_1846,Vêtements,T-shirts,3.51,47
+2759,2_141,Montres,Montres connectées,158.99,86
+2760,1_28,Accessoires,Sacs à main,13.03,23
+2761,0_382,Vêtements,T-shirts,9.82,81
+2762,0_1651,Vêtements,T-shirts,0.99,68
+2763,1_402,Accessoires,Sacs à main,34.52,75
+2764,0_68,Vêtements,T-shirts,2.94,50
+2765,0_338,Vêtements,T-shirts,6.98,54
+2766,0_1604,Vêtements,T-shirts,17.51,48
+2767,0_254,Vêtements,T-shirts,9.55,72
+2768,2_117,Montres,Montres connectées,105.99,18
+2769,0_666,Vêtements,T-shirts,8.54,55
+2770,0_809,Vêtements,T-shirts,16.99,76
+2771,0_902,Vêtements,T-shirts,0.92,95
+2772,0_2111,Vêtements,T-shirts,12.99,50
+2773,0_1349,Vêtements,T-shirts,15.99,60
+2774,0_2296,Vêtements,T-shirts,16.95,13
+2775,0_928,Vêtements,T-shirts,18.27,79
+2776,1_78,Accessoires,Sacs à main,3.94,83
+2777,1_349,Accessoires,Sacs à main,32.99,60
+2778,2_30,Montres,Montres connectées,233.54,70
+2779,0_434,Vêtements,T-shirts,16.97,2
+2780,0_966,Vêtements,T-shirts,23.95,42
+2781,0_605,Vêtements,T-shirts,24.99,99
+2782,0_2200,Vêtements,T-shirts,20.47,23
+2783,1_628,Accessoires,Sacs à main,41.37,54
+2784,0_438,Vêtements,T-shirts,14.01,11
+2785,0_1861,Vêtements,T-shirts,10.99,2
+2786,0_610,Vêtements,T-shirts,12.46,96
+2787,1_348,Accessoires,Sacs à main,16.15,48
+2788,1_486,Accessoires,Sacs à main,7.77,61
+2789,0_1770,Vêtements,T-shirts,20.7,98
+2790,0_2089,Vêtements,T-shirts,12.99,26
+2791,0_2002,Vêtements,T-shirts,19.16,76
+2792,0_981,Vêtements,T-shirts,19.99,77
+2793,1_673,Accessoires,Sacs à main,12.99,8
+2794,1_29,Accessoires,Sacs à main,11.99,53
+2795,0_1584,Vêtements,T-shirts,11.85,26
+2796,0_846,Vêtements,T-shirts,5.03,44
+2797,0_892,Vêtements,T-shirts,3.42,42
+2798,1_596,Accessoires,Sacs à main,11.12,69
+2799,2_122,Montres,Montres connectées,70.0,26
+2800,0_1621,Vêtements,T-shirts,17.99,14
+2801,0_1598,Vêtements,T-shirts,10.98,70
+2802,1_20,Accessoires,Sacs à main,36.6,20
+2803,0_1499,Vêtements,T-shirts,11.99,86
+2804,0_864,Vêtements,T-shirts,4.68,77
+2805,0_1153,Vêtements,T-shirts,5.99,86
+2806,1_223,Accessoires,Sacs à main,16.99,27
+2807,2_198,Montres,Montres connectées,138.32,95
+2808,0_2147,Vêtements,T-shirts,39.99,99
+2809,1_88,Accessoires,Sacs à main,53.42,58
+2810,1_359,Accessoires,Sacs à main,5.99,83
+2811,0_1253,Vêtements,T-shirts,12.99,30
+2812,0_1601,Vêtements,T-shirts,1.99,15
+2813,0_667,Vêtements,T-shirts,12.99,1
+2814,0_2243,Vêtements,T-shirts,8.99,76
+2815,0_1909,Vêtements,T-shirts,2.99,83
+2816,0_1614,Vêtements,T-shirts,4.03,82
+2817,1_103,Accessoires,Sacs à main,20.99,32
+2818,1_669,Accessoires,Sacs à main,15.99,35
+2819,1_30,Accessoires,Sacs à main,20.85,38
+2820,1_437,Accessoires,Sacs à main,26.99,3
+2821,0_1682,Vêtements,T-shirts,4.22,94
+2822,0_1386,Vêtements,T-shirts,13.16,80
+2823,1_157,Accessoires,Sacs à main,26.99,48
+2824,0_1715,Vêtements,T-shirts,2.99,45
+2825,0_2187,Vêtements,T-shirts,7.99,73
+2826,1_171,Accessoires,Sacs à main,73.99,89
+2827,0_1291,Vêtements,T-shirts,16.99,99
+2828,1_5,Accessoires,Sacs à main,9.99,87
+2829,0_443,Vêtements,T-shirts,3.99,83
+2830,0_1152,Vêtements,T-shirts,10.7,78
+2831,0_1284,Vêtements,T-shirts,1.38,25
+2832,2_55,Montres,Montres connectées,108.99,45
+2833,1_431,Accessoires,Sacs à main,27.99,46
+2834,1_606,Accessoires,Sacs à main,28.0,52
+2835,0_1477,Vêtements,T-shirts,1.99,55
+2836,0_1418,Vêtements,T-shirts,8.57,41
+2837,0_843,Vêtements,T-shirts,7.99,52
+2838,0_631,Vêtements,T-shirts,15.99,60
+2839,0_1697,Vêtements,T-shirts,13.99,82
+2840,0_1843,Vêtements,T-shirts,5.99,3
+2841,0_52,Vêtements,T-shirts,19.59,92
+2842,1_22,Accessoires,Sacs à main,29.33,85
+2843,0_1877,Vêtements,T-shirts,9.99,95
+2844,1_296,Accessoires,Sacs à main,24.67,99
+2845,1_687,Accessoires,Sacs à main,7.99,96
+2846,1_581,Accessoires,Sacs à main,20.99,96
+2847,0_1122,Vêtements,T-shirts,20.02,21
+2848,0_1791,Vêtements,T-shirts,11.99,5
+2849,1_583,Accessoires,Sacs à main,16.99,52
+2850,2_49,Montres,Montres connectées,72.99,97
+2851,0_1301,Vêtements,T-shirts,5.99,61
+2852,1_332,Accessoires,Sacs à main,2.24,28
+2853,0_332,Vêtements,T-shirts,4.08,15
+2854,0_1779,Vêtements,T-shirts,17.99,60
+2855,0_375,Vêtements,T-shirts,8.99,32
+2856,0_75,Vêtements,T-shirts,4.99,7
+2857,0_48,Vêtements,T-shirts,19.25,32
+2858,1_145,Accessoires,Sacs à main,24.99,75
+2859,0_1823,Vêtements,T-shirts,3.99,95
+2860,1_488,Accessoires,Sacs à main,12.19,25
+2861,0_199,Vêtements,T-shirts,8.99,55
+2862,0_2125,Vêtements,T-shirts,1.99,86
+2863,0_1103,Vêtements,T-shirts,12.99,92
+2864,0_1235,Vêtements,T-shirts,1.99,11
+2865,0_1575,Vêtements,T-shirts,4.99,92
+2866,0_2000,Vêtements,T-shirts,4.84,79
+2867,0_385,Vêtements,T-shirts,9.99,32
+2868,0_719,Vêtements,T-shirts,4.99,82
+2869,0_1769,Vêtements,T-shirts,6.99,16
+2870,0_1625,Vêtements,T-shirts,5.99,92
+2871,0_744,Vêtements,T-shirts,8.73,94
+2872,2_17,Montres,Montres connectées,103.99,66
+2873,2_6,Montres,Montres connectées,101.51,6
+2874,0_1092,Vêtements,T-shirts,22.02,33
+2875,0_1927,Vêtements,T-shirts,16.99,22
+2876,0_1513,Vêtements,T-shirts,8.99,15
+2877,0_1275,Vêtements,T-shirts,3.99,31
+2878,1_699,Accessoires,Sacs à main,7.99,92
+2879,0_611,Vêtements,T-shirts,12.99,9
+2880,0_767,Vêtements,T-shirts,14.99,48
+2881,0_265,Vêtements,T-shirts,16.99,60
+2882,0_2116,Vêtements,T-shirts,13.14,95
+2883,0_483,Vêtements,T-shirts,23.99,70
+2884,0_1750,Vêtements,T-shirts,7.42,49
+2885,0_1981,Vêtements,T-shirts,5.99,77
+2886,1_498,Accessoires,Sacs à main,23.37,18
+2887,0_560,Vêtements,T-shirts,4.53,70
+2888,0_1191,Vêtements,T-shirts,0.99,34
+2889,0_2301,Vêtements,T-shirts,4.99,39
+2890,0_1919,Vêtements,T-shirts,6.99,28
+2891,1_599,Accessoires,Sacs à main,12.99,38
+2892,1_526,Accessoires,Sacs à main,8.77,82
+2893,0_2132,Vêtements,T-shirts,4.07,71
+2894,1_424,Accessoires,Sacs à main,4.91,79
+2895,1_111,Accessoires,Sacs à main,42.99,45
+2896,2_50,Montres,Montres connectées,150.69,64
+2897,0_1033,Vêtements,T-shirts,7.99,87
+2898,0_921,Vêtements,T-shirts,4.99,70
+2899,1_364,Accessoires,Sacs à main,10.3,77
+2900,0_257,Vêtements,T-shirts,15.99,77
+2901,1_404,Accessoires,Sacs à main,9.85,58
+2902,0_313,Vêtements,T-shirts,6.99,94
+2903,0_795,Vêtements,T-shirts,8.99,51
+2904,2_129,Montres,Montres connectées,127.99,77
+2905,1_672,Accessoires,Sacs à main,39.36,73
+2906,0_1829,Vêtements,T-shirts,4.99,96
+2907,2_115,Montres,Montres connectées,50.99,23
+2908,0_1289,Vêtements,T-shirts,12.99,32
+2909,1_135,Accessoires,Sacs à main,7.99,96
+2910,0_1610,Vêtements,T-shirts,21.05,71
+2911,0_1838,Vêtements,T-shirts,6.75,62
+2912,0_70,Vêtements,T-shirts,9.57,46
+2913,0_1220,Vêtements,T-shirts,12.98,97
+2914,2_138,Montres,Montres connectées,84.02,47
+2915,0_472,Vêtements,T-shirts,30.91,7
+2916,1_566,Accessoires,Sacs à main,16.95,60
+2917,0_150,Vêtements,T-shirts,18.77,5
+2918,1_657,Accessoires,Sacs à main,53.99,95
+2919,1_198,Accessoires,Sacs à main,5.84,91
+2920,0_2174,Vêtements,T-shirts,4.0,55
+2921,0_1699,Vêtements,T-shirts,17.99,70
+2922,1_37,Accessoires,Sacs à main,31.99,22
+2923,0_734,Vêtements,T-shirts,11.16,25
+2924,1_701,Accessoires,Sacs à main,26.99,43
+2925,0_576,Vêtements,T-shirts,15.98,48
+2926,0_303,Vêtements,T-shirts,8.99,94
+2927,0_1130,Vêtements,T-shirts,12.89,15
+2928,0_323,Vêtements,T-shirts,4.99,70
+2929,0_2072,Vêtements,T-shirts,4.62,80
+2930,0_69,Vêtements,T-shirts,25.99,81
+2931,1_443,Accessoires,Sacs à main,59.99,65
+2932,1_357,Accessoires,Sacs à main,5.99,53
+2933,0_518,Vêtements,T-shirts,12.1,79
+2934,0_232,Vêtements,T-shirts,1.23,42
+2935,0_2093,Vêtements,T-shirts,9.99,38
+2936,0_2085,Vêtements,T-shirts,11.99,24
+2937,0_116,Vêtements,T-shirts,12.71,54
+2938,2_161,Montres,Montres connectées,113.99,49
+2939,1_209,Accessoires,Sacs à main,8.99,10
+2940,1_484,Accessoires,Sacs à main,8.28,31
+2941,1_472,Accessoires,Sacs à main,9.18,52
+2942,0_645,Vêtements,T-shirts,2.99,29
+2943,1_319,Accessoires,Sacs à main,43.99,89
+2944,2_80,Montres,Montres connectées,120.68,25
+2945,1_54,Accessoires,Sacs à main,18.88,58
+2946,1_375,Accessoires,Sacs à main,3.99,1
+2947,2_184,Montres,Montres connectées,49.61,93
+2948,0_1125,Vêtements,T-shirts,12.99,94
+2949,1_278,Accessoires,Sacs à main,19.18,45
+2950,0_114,Vêtements,T-shirts,19.15,34
+2951,2_170,Montres,Montres connectées,115.93,97
+2952,0_732,Vêtements,T-shirts,8.02,54
+2953,1_45,Accessoires,Sacs à main,26.99,21
+2954,1_736,Accessoires,Sacs à main,10.29,98
+2955,1_734,Accessoires,Sacs à main,24.28,8
+2956,0_5,Vêtements,T-shirts,22.99,24
+2957,0_2055,Vêtements,T-shirts,20.99,82
+2958,0_2135,Vêtements,T-shirts,4.99,91
+2959,0_2100,Vêtements,T-shirts,6.66,11
+2960,2_105,Montres,Montres connectées,125.99,40
+2961,1_608,Accessoires,Sacs à main,72.75,44
+2962,0_1830,Vêtements,T-shirts,19.43,59
+2963,0_275,Vêtements,T-shirts,18.99,48
+2964,0_661,Vêtements,T-shirts,17.99,11
+2965,1_620,Accessoires,Sacs à main,47.3,77
+2966,0_73,Vêtements,T-shirts,2.99,19
+2967,0_142,Vêtements,T-shirts,19.85,88
+2968,0_441,Vêtements,T-shirts,6.99,20
+2969,0_2018,Vêtements,T-shirts,4.69,21
+2970,0_1674,Vêtements,T-shirts,22.63,1
+2971,0_755,Vêtements,T-shirts,3.99,81
+2972,0_1045,Vêtements,T-shirts,5.99,92
+2973,2_28,Montres,Montres connectées,103.5,58
+2974,1_274,Accessoires,Sacs à main,24.4,61
+2975,1_534,Accessoires,Sacs à main,13.43,96
+2976,2_77,Montres,Montres connectées,145.99,28
+2977,0_394,Vêtements,T-shirts,2.14,69
+2978,1_465,Accessoires,Sacs à main,8.99,54
+2979,0_2203,Vêtements,T-shirts,3.99,11
+2980,0_1556,Vêtements,T-shirts,18.91,2
+2981,0_1748,Vêtements,T-shirts,16.8,84
+2982,1_637,Accessoires,Sacs à main,32.99,49
+2983,0_448,Vêtements,T-shirts,2.64,94
+2984,0_1527,Vêtements,T-shirts,7.99,8
+2985,0_712,Vêtements,T-shirts,23.37,45
+2986,0_1224,Vêtements,T-shirts,14.56,44
+2987,0_1553,Vêtements,T-shirts,13.99,90
+2988,2_143,Montres,Montres connectées,78.99,36
+2989,1_550,Accessoires,Sacs à main,15.54,61
+2990,2_22,Montres,Montres connectées,109.38,6
+2991,0_574,Vêtements,T-shirts,14.34,29
+2992,2_235,Montres,Montres connectées,195.99,53
+2993,0_1413,Vêtements,T-shirts,2.99,35
+2994,1_732,Accessoires,Sacs à main,3.28,59
+2995,0_1245,Vêtements,T-shirts,5.99,88
+2996,2_181,Montres,Montres connectées,57.99,32
+2997,1_570,Accessoires,Sacs à main,18.49,95
+2998,1_271,Accessoires,Sacs à main,16.99,95
+2999,1_590,Accessoires,Sacs à main,31.82,82
+3000,0_541,Vêtements,T-shirts,1.99,6
+3001,0_107,Vêtements,T-shirts,11.99,80
+3002,0_203,Vêtements,T-shirts,5.99,73
+3003,0_591,Vêtements,T-shirts,1.99,13
+3004,1_355,Accessoires,Sacs à main,35.99,47
+3005,2_68,Montres,Montres connectées,88.29,62
+3006,0_1442,Vêtements,T-shirts,4.89,31
+3007,0_227,Vêtements,T-shirts,15.99,13
+3008,0_1357,Vêtements,T-shirts,15.99,89
+3009,1_578,Accessoires,Sacs à main,37.44,80
+3010,0_63,Vêtements,T-shirts,6.99,69
+3011,0_1760,Vêtements,T-shirts,9.09,9
+3012,0_1714,Vêtements,T-shirts,16.74,60
+3013,0_1038,Vêtements,T-shirts,9.74,17
+3014,0_1587,Vêtements,T-shirts,14.99,9
+3015,1_692,Accessoires,Sacs à main,13.04,76
+3016,0_2095,Vêtements,T-shirts,12.99,54
+3017,2_210,Montres,Montres connectées,132.52,98
+3018,0_1554,Vêtements,T-shirts,1.98,57
+3019,1_544,Accessoires,Sacs à main,29.54,40
+3020,0_623,Vêtements,T-shirts,3.99,92
+3021,0_654,Vêtements,T-shirts,10.57,23
+3022,0_1359,Vêtements,T-shirts,25.99,87
+3023,1_306,Accessoires,Sacs à main,34.18,43
+3024,1_367,Accessoires,Sacs à main,13.99,33
+3025,0_2294,Vêtements,T-shirts,20.58,57
+3026,0_1355,Vêtements,T-shirts,18.99,10
+3027,0_159,Vêtements,T-shirts,12.99,34
+3028,0_2286,Vêtements,T-shirts,6.1,34
+3029,0_1850,Vêtements,T-shirts,13.95,22
+3030,0_510,Vêtements,T-shirts,23.66,1
+3031,0_886,Vêtements,T-shirts,21.82,86
+3032,0_2015,Vêtements,T-shirts,2.99,16
+3033,0_2010,Vêtements,T-shirts,29.6,66
+3034,0_2279,Vêtements,T-shirts,9.99,31
+3035,1_392,Accessoires,Sacs à main,18.11,61
+3036,0_1099,Vêtements,T-shirts,10.99,83
+3037,0_2214,Vêtements,T-shirts,2.08,30
+3038,0_893,Vêtements,T-shirts,10.99,64
+3039,0_709,Vêtements,T-shirts,6.99,47
+3040,0_240,Vêtements,T-shirts,6.03,76
+3041,0_540,Vêtements,T-shirts,8.65,50
+3042,1_262,Accessoires,Sacs à main,26.25,99
+3043,2_217,Montres,Montres connectées,102.99,32
+3044,1_720,Accessoires,Sacs à main,10.86,92
+3045,2_58,Montres,Montres connectées,96.69,56
+3046,1_214,Accessoires,Sacs à main,44.7,16
+3047,0_1711,Vêtements,T-shirts,2.99,48
+3048,0_2191,Vêtements,T-shirts,6.99,43
+3049,0_2303,Vêtements,T-shirts,11.99,27
+3050,1_462,Accessoires,Sacs à main,16.66,93
+3051,0_99,Vêtements,T-shirts,6.99,8
+3052,1_208,Accessoires,Sacs à main,14.99,29
+3053,0_1892,Vêtements,T-shirts,12.56,64
+3054,0_622,Vêtements,T-shirts,19.96,54
+3055,0_2142,Vêtements,T-shirts,2.65,83
+3056,0_259,Vêtements,T-shirts,1.99,6
+3057,0_1375,Vêtements,T-shirts,7.99,62
+3058,0_1931,Vêtements,T-shirts,4.99,5
+3059,0_320,Vêtements,T-shirts,15.09,89
+3060,0_856,Vêtements,T-shirts,10.16,38
+3061,1_682,Accessoires,Sacs à main,6.49,82
+3062,0_183,Vêtements,T-shirts,2.99,24
+3063,0_1745,Vêtements,T-shirts,4.99,5
+3064,0_962,Vêtements,T-shirts,5.27,27
+3065,1_291,Accessoires,Sacs à main,9.99,30
+3066,0_557,Vêtements,T-shirts,9.99,21
+3067,1_382,Accessoires,Sacs à main,61.52,89
+3068,1_522,Accessoires,Sacs à main,22.41,20
+3069,1_327,Accessoires,Sacs à main,38.99,23
+3070,0_22,Vêtements,T-shirts,23.2,80
+3071,0_761,Vêtements,T-shirts,4.99,74
+3072,0_1592,Vêtements,T-shirts,25.23,66
+3073,1_377,Accessoires,Sacs à main,38.99,14
+3074,2_162,Montres,Montres connectées,102.82,20
+3075,0_1502,Vêtements,T-shirts,8.13,16
+3076,0_474,Vêtements,T-shirts,1.54,7
+3077,1_67,Accessoires,Sacs à main,54.99,18
+3078,0_1879,Vêtements,T-shirts,3.99,89
+3079,0_1736,Vêtements,T-shirts,3.83,37
+3080,1_121,Accessoires,Sacs à main,49.99,57
+3081,1_358,Accessoires,Sacs à main,17.24,53
+3082,0_1973,Vêtements,T-shirts,3.99,79
+3083,0_484,Vêtements,T-shirts,3.47,33
+3084,0_1547,Vêtements,T-shirts,8.99,45
+3085,0_1346,Vêtements,T-shirts,21.62,59
+3086,0_1860,Vêtements,T-shirts,4.89,97
+3087,2_98,Montres,Montres connectées,149.74,30
+3088,1_155,Accessoires,Sacs à main,49.99,17
+3089,0_71,Vêtements,T-shirts,16.99,44
+3090,0_1133,Vêtements,T-shirts,19.99,59
+3091,1_200,Accessoires,Sacs à main,54.73,97
+3092,1_373,Accessoires,Sacs à main,31.99,47
+3093,0_2005,Vêtements,T-shirts,7.99,20
+3094,2_67,Montres,Montres connectées,32.99,98
+3095,0_2308,Vêtements,T-shirts,20.28,87
+3096,1_215,Accessoires,Sacs à main,33.99,92
+3097,0_2207,Vêtements,T-shirts,7.99,33
+3098,2_33,Montres,Montres connectées,30.99,15
+3099,0_1946,Vêtements,T-shirts,5.07,76
+3100,1_345,Accessoires,Sacs à main,32.99,99
+3101,0_2099,Vêtements,T-shirts,7.99,32
+3102,0_4,Vêtements,T-shirts,25.33,68
+3103,0_1519,Vêtements,T-shirts,5.99,58
+3104,0_646,Vêtements,T-shirts,29.42,41
+3105,0_925,Vêtements,T-shirts,16.99,66
+3106,0_723,Vêtements,T-shirts,5.99,34
+3107,0_480,Vêtements,T-shirts,24.61,92
+3108,0_1171,Vêtements,T-shirts,0.99,86
+3109,0_2102,Vêtements,T-shirts,7.06,8
+3110,1_572,Accessoires,Sacs à main,19.95,15
+3111,0_1742,Vêtements,T-shirts,10.12,82
+3112,0_1752,Vêtements,T-shirts,5.99,19
+3113,0_1558,Vêtements,T-shirts,11.19,15
+3114,0_534,Vêtements,T-shirts,2.84,89
+3115,0_469,Vêtements,T-shirts,4.99,62
+3116,1_459,Accessoires,Sacs à main,15.99,62
+3117,1_552,Accessoires,Sacs à main,56.07,16
+3118,0_670,Vêtements,T-shirts,12.59,35
+3119,0_1390,Vêtements,T-shirts,19.37,22
+3120,0_782,Vêtements,T-shirts,11.84,59
+3121,1_105,Accessoires,Sacs à main,10.99,1
+3122,0_1482,Vêtements,T-shirts,8.32,14
+3123,0_158,Vêtements,T-shirts,16.54,19
+3124,0_449,Vêtements,T-shirts,17.99,74
+3125,0_1723,Vêtements,T-shirts,8.99,36
+3126,2_163,Montres,Montres connectées,68.99,16
+3127,1_388,Accessoires,Sacs à main,16.7,95
+3128,1_14,Accessoires,Sacs à main,13.28,4
+3129,0_1395,Vêtements,T-shirts,3.99,79
+3130,0_281,Vêtements,T-shirts,21.99,84
+3131,0_738,Vêtements,T-shirts,4.08,97
+3132,0_119,Vêtements,T-shirts,2.99,48
+3133,1_597,Accessoires,Sacs à main,29.99,21
+3134,0_792,Vêtements,T-shirts,8.1,50
+3135,0_567,Vêtements,T-shirts,5.99,56
+3136,0_565,Vêtements,T-shirts,1.99,27
+3137,0_699,Vêtements,T-shirts,18.99,75
+3138,0_1445,Vêtements,T-shirts,9.99,44
+3139,2_196,Montres,Montres connectées,103.92,51
+3140,1_535,Accessoires,Sacs à main,13.99,19
+3141,1_602,Accessoires,Sacs à main,39.07,91
+3142,0_2034,Vêtements,T-shirts,9.64,36
+3143,0_473,Vêtements,T-shirts,7.99,9
+3144,0_1673,Vêtements,T-shirts,6.99,6
+3145,1_330,Accessoires,Sacs à main,6.41,74
+3146,1_494,Accessoires,Sacs à main,49.16,17
+3147,0_379,Vêtements,T-shirts,9.99,42
+3148,0_2040,Vêtements,T-shirts,20.65,7
+3149,0_282,Vêtements,T-shirts,1.57,5
+3150,2_130,Montres,Montres connectées,142.58,10
+3151,0_1781,Vêtements,T-shirts,5.99,23
+3152,0_1569,Vêtements,T-shirts,15.99,96
+3153,0_1185,Vêtements,T-shirts,5.99,96
+3154,2_88,Montres,Montres connectées,77.63,81
+3155,0_1986,Vêtements,T-shirts,25.89,18
+3156,1_70,Accessoires,Sacs à main,36.09,13
+3157,0_1534,Vêtements,T-shirts,4.62,87
+3158,0_80,Vêtements,T-shirts,5.55,39
+3159,0_1957,Vêtements,T-shirts,17.99,15
+3160,0_1308,Vêtements,T-shirts,16.56,73
+3161,1_713,Accessoires,Sacs à main,33.99,81
+3162,2_11,Montres,Montres connectées,201.99,73
+3163,0_32,Vêtements,T-shirts,2.14,7
+3164,0_279,Vêtements,T-shirts,16.99,46
+3165,0_357,Vêtements,T-shirts,4.99,58
+3166,0_455,Vêtements,T-shirts,12.99,13
+3167,0_1096,Vêtements,T-shirts,10.99,82
+3168,1_626,Accessoires,Sacs à main,47.35,92
+3169,0_346,Vêtements,T-shirts,6.1,10
+3170,0_1139,Vêtements,T-shirts,3.99,42
+3171,1_33,Accessoires,Sacs à main,30.99,49
+3172,0_238,Vêtements,T-shirts,1.67,8
+3173,0_1967,Vêtements,T-shirts,12.99,1
+3174,0_1586,Vêtements,T-shirts,12.71,73
+3175,0_1856,Vêtements,T-shirts,9.57,71
+3176,0_1929,Vêtements,T-shirts,6.99,35
+3177,0_665,Vêtements,T-shirts,6.99,24
+3178,0_805,Vêtements,T-shirts,10.99,21
+3179,0_1970,Vêtements,T-shirts,27.42,87
+3180,0_681,Vêtements,T-shirts,5.99,94
+3181,0_164,Vêtements,T-shirts,15.57,48
+3182,1_576,Accessoires,Sacs à main,17.2,60
+3183,2_142,Montres,Montres connectées,105.24,10
+3184,0_758,Vêtements,T-shirts,4.0,73
+3185,0_1755,Vêtements,T-shirts,8.99,16
+3186,1_106,Accessoires,Sacs à main,7.21,54
+3187,2_99,Montres,Montres connectées,84.99,25
+3188,1_182,Accessoires,Sacs à main,7.71,60
+3189,0_553,Vêtements,T-shirts,13.99,3
+3190,0_1294,Vêtements,T-shirts,3.28,31
+3191,0_315,Vêtements,T-shirts,7.99,24
+3192,0_288,Vêtements,T-shirts,19.04,67
+3193,0_1867,Vêtements,T-shirts,23.99,76
+3194,1_389,Accessoires,Sacs à main,24.99,74
+3195,2_238,Montres,Montres connectées,93.92,83
+3196,0_1326,Vêtements,T-shirts,14.74,90
+3197,1_531,Accessoires,Sacs à main,6.99,41
+3198,1_110,Accessoires,Sacs à main,54.9,2
+3199,0_53,Vêtements,T-shirts,3.99,7
+3200,0_1718,Vêtements,T-shirts,9.67,37
+3201,0_1820,Vêtements,T-shirts,22.3,69
+3202,0_1773,Vêtements,T-shirts,10.99,92
+3203,0_662,Vêtements,T-shirts,7.54,52
+3204,0_297,Vêtements,T-shirts,14.99,84
+3205,0_756,Vêtements,T-shirts,2.41,60
+3206,0_1018,Vêtements,T-shirts,11.06,70
+3207,0_1350,Vêtements,T-shirts,14.45,46
+3208,0_1749,Vêtements,T-shirts,34.99,73
+3209,1_428,Accessoires,Sacs à main,39.23,31
+3210,0_2248,Vêtements,T-shirts,19.58,46
+3211,0_2049,Vêtements,T-shirts,5.99,1
+3212,0_957,Vêtements,T-shirts,2.99,26
+3213,1_466,Accessoires,Sacs à main,15.81,9
+3214,1_659,Accessoires,Sacs à main,8.99,68
+3215,0_1352,Vêtements,T-shirts,4.5,22
+3216,0_216,Vêtements,T-shirts,23.19,27
+3217,1_269,Accessoires,Sacs à main,47.99,59
+3218,0_1690,Vêtements,T-shirts,13.18,93
+3219,0_720,Vêtements,T-shirts,6.8,52
+3220,0_8,Vêtements,T-shirts,15.08,61
+3221,0_650,Vêtements,T-shirts,18.7,19
+3222,0_1835,Vêtements,T-shirts,8.99,52
+3223,1_276,Accessoires,Sacs à main,56.97,67
+3224,0_1952,Vêtements,T-shirts,3.95,65
+3225,0_522,Vêtements,T-shirts,2.54,99
+3226,0_233,Vêtements,T-shirts,10.99,16
+3227,0_1761,Vêtements,T-shirts,7.99,29
+3228,0_415,Vêtements,T-shirts,10.99,18
+3229,1_95,Accessoires,Sacs à main,21.99,28
+3230,1_101,Accessoires,Sacs à main,9.99,50
+3231,0_2209,Vêtements,T-shirts,8.99,55
+3232,0_1487,Vêtements,T-shirts,4.99,85
+3233,0_2088,Vêtements,T-shirts,30.0,38
+3234,0_266,Vêtements,T-shirts,18.96,26
+3235,1_383,Accessoires,Sacs à main,28.99,53
+3236,0_894,Vêtements,T-shirts,3.03,74
+3237,0_2065,Vêtements,T-shirts,7.99,11
+3238,0_538,Vêtements,T-shirts,4.91,39
+3239,0_871,Vêtements,T-shirts,16.99,18
+3240,1_413,Accessoires,Sacs à main,17.99,48
+3241,1_518,Accessoires,Sacs à main,6.52,4
+3242,1_238,Accessoires,Sacs à main,2.0,77
+3243,1_475,Accessoires,Sacs à main,20.99,52
+3244,0_58,Vêtements,T-shirts,9.49,29
+3245,0_51,Vêtements,T-shirts,4.99,10
+3246,0_908,Vêtements,T-shirts,15.15,55
+3247,0_442,Vêtements,T-shirts,4.4,48
+3248,0_1454,Vêtements,T-shirts,7.41,58
+3249,0_460,Vêtements,T-shirts,1.25,47
+3250,0_171,Vêtements,T-shirts,18.99,76
+3251,0_1095,Vêtements,T-shirts,6.99,74
+3252,0_685,Vêtements,T-shirts,12.99,52
+3253,0_673,Vêtements,T-shirts,5.99,90
+3254,0_1297,Vêtements,T-shirts,18.99,3
+3255,0_1324,Vêtements,T-shirts,3.93,90
+3256,1_236,Accessoires,Sacs à main,14.04,86
+3257,1_51,Accessoires,Sacs à main,45.99,52
+3258,0_325,Vêtements,T-shirts,15.99,82
+3259,0_1116,Vêtements,T-shirts,2.97,98
+3260,0_2232,Vêtements,T-shirts,8.94,98
+3261,0_2081,Vêtements,T-shirts,24.99,7
+3262,0_903,Vêtements,T-shirts,3.99,18
+3263,0_1061,Vêtements,T-shirts,19.99,94
+3264,0_1463,Vêtements,T-shirts,21.99,26
+3265,0_940,Vêtements,T-shirts,21.22,51
+3266,2_101,Montres,Montres connectées,63.99,1
+3267,0_34,Vêtements,T-shirts,6.91,27
+3268,1_543,Accessoires,Sacs à main,51.99,8
+3269,1_651,Accessoires,Sacs à main,18.99,73
+3270,2_123,Montres,Montres connectées,147.99,45
+3271,1_272,Accessoires,Sacs à main,4.55,66
+3272,0_1644,Vêtements,T-shirts,4.77,94
+3273,0_1439,Vêtements,T-shirts,22.99,91
+3274,0_1937,Vêtements,T-shirts,11.99,3
+3275,0_1989,Vêtements,T-shirts,3.99,4
+3276,0_2001,Vêtements,T-shirts,7.99,84
+3277,1_387,Accessoires,Sacs à main,9.99,97
+3278,1_331,Accessoires,Sacs à main,55.99,79
+3279,0_1314,Vêtements,T-shirts,20.63,28
+3280,0_607,Vêtements,T-shirts,14.99,6
+3281,2_23,Montres,Montres connectées,115.99,38
+3282,0_146,Vêtements,T-shirts,17.14,55
+3283,0_802,Vêtements,T-shirts,11.22,64
+3284,1_140,Accessoires,Sacs à main,38.56,1
+3285,0_1920,Vêtements,T-shirts,25.16,16
+3286,0_2245,Vêtements,Unknown,11.732794627383015,50
