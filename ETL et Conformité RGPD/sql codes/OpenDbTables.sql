@@ -1,0 +1,47 @@
+CREATE TABLE Sales (
+    SalesID INT IDENTITY(1,1) PRIMARY KEY,
+    DateID INT NOT NULL,
+    ProductID INT NOT NULL,
+    CustomerID INT NOT NULL,
+    SupplierID INT NOT NULL,
+    ShipperID INT NOT NULL,
+    QuantitySold INT,
+    TotalAmount DECIMAL(10, 2),
+    DiscountAmount DECIMAL(10, 2),
+    NetAmount DECIMAL(10, 2),
+    ProductName VARCHAR(255),
+    ProductCategory VARCHAR(255),
+    ProductSubCategory VARCHAR(255),
+    ProductPrice DECIMAL(10, 2),
+    CustomerSegment VARCHAR(50),
+    FullDate DATE,
+    Year INT,
+    Month INT,
+    Day INT,
+    Quarter INT,
+    ShippingMethod VARCHAR(50),
+    SupplierLocation VARCHAR(255),
+    
+);
+
+
+CREATE TABLE Inventory (
+    InventoryID INT IDENTITY(1,1) PRIMARY KEY,
+    DateID INT NOT NULL,
+    ProductID INT NOT NULL,
+    SupplierID INT NOT NULL,
+    StockReceived INT,
+    StockSold INT,
+    StockOnHand INT,
+    ProductName VARCHAR(255),
+    ProductCategory VARCHAR(255),
+    ProductSubCategory VARCHAR(255),
+    ProductPrice DECIMAL(10, 2),
+    SupplierLocation VARCHAR(255),
+    FullDate DATE,
+    Year INT,
+    Month INT,
+    Day INT,
+    Quarter INT,
+
+);
