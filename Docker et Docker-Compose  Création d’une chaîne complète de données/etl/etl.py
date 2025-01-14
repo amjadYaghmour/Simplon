@@ -108,8 +108,8 @@ def load_data_to_database(df, engine):
 
 # Main function
 if __name__ == "__main__":
-    server = 'LAPTOP-AAS7RBMP'
-    database = 'EcomerceDB'
+    server = 'XXXX'
+    database = 'XXXX'
     engine = connect_to_db(server, database)
 
     if engine:

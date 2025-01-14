@@ -34,8 +34,8 @@ def main():
     )
 
     # Connect to the database
-    server = "LAPTOP-AAS7RBMP"
-    database = "EcomerceDB"
+    server = "XXXXXX"
+    database = "XXXXX"
     engine = connect_to_db(server, database)
 
     if page == "Overview":
